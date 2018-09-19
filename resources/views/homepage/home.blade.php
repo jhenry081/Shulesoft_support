@@ -1,49 +1,21 @@
 @extends('layouts.master2')
 @section('content')
 
-<div class="row">
-                    <div class="col-lg-3 col-sm-6 col-xs-12">
-                        <div class="white-box analytics-info">
-                            <h3 class="box-title" align="center">Total Visit</h3>
-                            <ul class="list-inline two-part">
-
-                            </ul>
+                <!--row -->
+                
+                    <div class="col-lg-6 col-sm-12">
+                        <!-- <div class="white-box"> -->
+                            <h3 class="box-title">Stylish3 btn</h3>
+                            <div class="button-box">
+                                <p class="text-muted m-b-30">Give class to the button <code>fcbtn btn btn-outline btn-primary btn-1d</code></p>
+                                <button class="fcbtn btn btn-primary btn-outline btn-1d">Button</button>
+                                <button class="fcbtn btn btn-info btn-outline btn-1d">Button</button>
+                                <button class="fcbtn btn btn-warning btn-outline btn-1d">Button</button>
+                                <button class="fcbtn btn btn-danger btn-outline btn-1d">Button</button>
+                                <button class="fcbtn btn btn-success btn-outline btn-1d">Button</button>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-sm-6 col-xs-12">
-                        <div class="white-box analytics-info">
-                            <h3 class="box-title"align="center" >Total Page Views</h3>
-                            <ul class="list-inline two-part">
-                               
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-xs-12">
-                        <div class="white-box analytics-info">
-                            <h3 class="box-title"align="center" >Unique Visitor</h3>
-                            <ul class="list-inline two-part">
-                              
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-sm-6 col-xs-12">
-                        <div class="white-box analytics-info">
-                            <h3 class="box-title"align="center" >Bounce Rate</h3>
-                            <ul class="list-inline two-part">
-                             
-                            </ul>
-                        </div>
-                    </div>
-                </div> 
-                <div class="col-lg-3 col-sm-6 col-xs-12">
-                        <div class="white-box analytics-info">
-                            <h3 class="box-title" align="center">Total Visit</h3>
-                            <ul class="list-inline two-part">
-                               
-                            </ul>
-                        </div>
-                    </div>
-
-                <!--/.row -->
-
+                   
+                <!--row -->
 @endsection
