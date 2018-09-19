@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class SupportController extends Controller
 {
-    /**
+   /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
@@ -45,6 +45,7 @@ class SupportController extends Controller
      */
     public function show($folder,$file)
     {
+        
         return view($folder.'.'.$file);
     }
 
