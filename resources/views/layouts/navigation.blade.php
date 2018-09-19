@@ -21,11 +21,44 @@
                     
                     <li> 
                     <a href="index.html" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
-                     <span class="hide-menu"> Class Level <span class="fa arrow"></span> </span></a>
+                     <span class="hide-menu"> User <span class="fa arrow"></span> </span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?=url('classlevel/introduction')?>"><i class=" fa-fw">1</i><span class="hide-menu">Introduction</span></a> </li>
-                            <li> <a href="index2.html"><i class=" fa-fw">2</i><span class="hide-menu">Dashboard 2</span></a> </li>
-                            <li> <a href="index3.html"><i class=" fa-fw">3</i><span class="hide-menu">Dashboard 3</span></a> </li>
+                            <li> <a href="<?=url('user/student')?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Student <span class="fa arrow"></span></span></a>
+                            <ul class="nav nav-second-level">
+                            <li> <a href="<?=url('user/student')?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a student</span></a> </li>
+                            <li> <a href="index2.html"><i class=" fa-fw"></i><span class="hide-menu">How to delete a student</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to update a student</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to view a student</span></a> </li>
+                        </ul>
+                         </li>
+                            <li> <a href="index2.html">
+                                <i class=" fa-fw"></i><span class="hide-menu">Parents <span class="fa arrow"></span></span></a> 
+                                <ul class="nav nav-second-level">
+                            <li> <a href="<?=url('user/student')?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a parent</span></a> </li>
+                            <li> <a href="index2.html"><i class=" fa-fw"></i><span class="hide-menu">How to delete a parent</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to update a parent</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to view a parent</span></a> </li>
+                        </ul>
+                        </li>
+                            <li> <a href="index3.html">
+                                <i class=" fa-fw"></i><span class="hide-menu">Teachers <span class="fa arrow"></span></span></a> 
+                                <ul class="nav nav-second-level">
+                            <li> <a href="<?=url('user/student')?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a teacher</span></a> </li>
+                            <li> <a href="index2.html"><i class=" fa-fw"></i><span class="hide-menu">How to delete a teacher</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to update a teacher</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to view a teacher</span></a> </li>
+                        </ul>
+                        </li>
+                            <li> <a href="index3.html">
+                                <i class=" fa-fw"></i><span class="hide-menu">Staff <span class="fa arrow"></span></span></a>
+                                <ul class="nav nav-second-level">
+                            <li> <a href="<?=url('user/student')?>"><i class=" fa-fw"></i><span class="hide-menu">How to add staff</span></a> </li>
+                            <li> <a href="index2.html"><i class=" fa-fw"></i><span class="hide-menu">How to delete staff</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to update staff</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw"></i><span class="hide-menu">How to view staff</span></a> </li>
+                        </ul>
+                             </li>
                         </ul>
                     </li>
                     <li> <a href="#" class="waves-effect"><i class="mdi mdi-format-color-fill fa-fw"></i> <span class="hide-menu">UI Elements<span class="fa arrow"></span> <span class="label label-rouded label-info pull-right">20</span> </span></a>
