@@ -15,6 +15,11 @@
                 
                 <ul class="nav navbar-top-links navbar-right pull-right">
                     <li>
+<h1 style="color:white">ShuleSoft Support Centre</h1>
+
+                    </li>
+
+                    <li>
                         <form role="search" class="app-search hidden-sm hidden-xs m-r-10">
                             <input type="text" placeholder="Search..." class="form-control"> <a href="#"><i class="fa fa-search"></i></a> </form>
                     </li>

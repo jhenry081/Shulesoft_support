@@ -9,6 +9,55 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" type="image/png" sizes="16x16" href="../plugins/images/favicon.png">
+    <!-- begin css for the scroll to top button -->
+    <!-- <style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+</style>
+    <!-- end css for the scroll to top button -->
+<!-- start script for the scroll to top button -->
+<!-- ​<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+end script for the scroll to top button -->
+
     <title>Ample Admin Template - The Ultimate Multipurpose admin template</title>
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo url('public/assets/bootstrap/dist/css/bootstrap.min.css')?>" rel="stylesheet">
@@ -27,6 +76,7 @@
     <!--[if lt IE 9]>
     <script src="<?php echo url('https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js')?>"></script>
     <script src="<?php echo url('https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js')?>"></script>
+    
 <![endif]-->
 </head>
 <body class="fix-header">
@@ -68,22 +118,27 @@
                 <!-- row -->
                
             
-@yield('content')
+                         @yield('content')
             
              
                 <!-- ============================================================== -->
                 <!-- End Right sidebar -->
                 <!-- ============================================================== -->
-            </div>
+            
+    </div>
+    <!-- Scroll to top button -->
+    
+    <!-- <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>      -->
+    <!--/ Scroll to top button -->
+    
+
             <!-- /.container-fluid -->
-            <footer class="footer text-center"> 2018 &copy; This is a footer </footer>
-        </div>
-            </div>
-            <!-- /.container-fluid -->
-            <footer class="footer text-center"> 2018 &copy; This is also a footer </footer>
+            <footer class="footer text-center"> 
+                    2017 &copy; Ample Admin brought to you by themedesigner.in 
+            </footer>
         </div>
         <!-- /#page-wrapper -->
-    </div>
+    </div
     <!-- /#wrapper -->
     <!-- jQuery -->
     <script src="<?php echo url('public/assets/plugins/bower_components/jquery/dist/jquery.min.js')?>"></script>
