@@ -21,9 +21,9 @@
                     
                     <li> 
                     <a href="index.html" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
-                     <span class="hide-menu"> Exam <span class="fa arrow"></span> </span></a>
+                     <span class="hide-menu"> Class Level <span class="fa arrow"></span> </span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?=url('marking')?>"><i class=" fa-fw">1</i><span class="hide-menu">Marking</span></a> </li>
+                            <li> <a href="<?=url('classlevel/introduction')?>"><i class=" fa-fw">1</i><span class="hide-menu">Introduction</span></a> </li>
                             <li> <a href="index2.html"><i class=" fa-fw">2</i><span class="hide-menu">Dashboard 2</span></a> </li>
                             <li> <a href="index3.html"><i class=" fa-fw">3</i><span class="hide-menu">Dashboard 3</span></a> </li>
                         </ul>

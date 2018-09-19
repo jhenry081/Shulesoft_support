@@ -11,16 +11,18 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/master layout', function () {
-    return view('layouts.master');
-});
+Route::get('/{pg?}/{tag?}{id?}','SupportController@show');
 
-Route::get('/marking', function () {
-    return view('exam.add_mark');
-});
-Route::get('/homepage', function () {
-    return view('homepage.home');
-});
+
+
+
+//Route::get('/master layout', function () {
+//    return view('layouts.master');
+//});
+//
+//Route::get('/marking', function () {
+//    return view('exam.add_mark');
+//});
+//Route::get('/homepage', function () {
+//    return view('homepage.home');
+//});

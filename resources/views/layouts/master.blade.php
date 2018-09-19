@@ -13,15 +13,15 @@
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo url('public/assets/bootstrap/dist/css/bootstrap.min.css')?>" rel="stylesheet">
     <!-- Menu CSS -->
-    <link href="public/assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css" rel="stylesheet">
+    <link href="<?php echo url('public/assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css')?>" rel="stylesheet">
     <!-- Calendar CSS -->
-    <link href="public/assets/plugins/bower_components/calendar/dist/fullcalendar.css" rel="stylesheet" />
+    <link href="<?php echo url('public/assets/plugins/bower_components/calendar/dist/fullcalendar.css')?>" rel="stylesheet" />
     <!-- animation CSS -->
-    <link href="public/assets/css/animate.css" rel="stylesheet">
+    <link href="<?php echo url('public/assets/css/animate.css')?>" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="public/assets/css/style.css" rel="stylesheet">
+    <link href="<?php echo url('public/assets/css/style.css')?>" rel="stylesheet">
     <!-- color CSS -->
-    <link href="public/assets/css/colors/default.css" id="theme" rel="stylesheet">
+    <link href="<?php echo url('public/assets/css/colors/default.css')?>" id="theme" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -88,28 +88,25 @@
     </div>
     <!-- /#wrapper -->
     <!-- jQuery -->
-    <script src="public/assets/plugins/bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/jquery/dist/jquery.min.js')?>"></script>
     <!-- Bootstrap Core JavaScript -->
-    <script src="public/assets/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="<?php echo url('public/assets/bootstrap/dist/js/bootstrap.min.js')?>"></script>
     <!-- Menu Plugin JavaScript -->
-    <script src="public/assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js"></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js')?>"></script>
     <!--slimscroll JavaScript -->
-    <script src="public/assets/js/jquery.slimscroll.js"></script>
+    <script src="<?php echo url('public/assets/js/jquery.slimscroll.js')?>"></script>
     <!-- Calendar JavaScript -->
-    <script src="public/assets/plugins/bower_components/calendar/jquery-ui.min.js"></script>
-    <script src="public/assets/plugins/bower_components/moment/moment.js"></script>
-    <script src='public/assets/plugins/bower_components/calendar/dist/fullcalendar.min.js'></script>
-    <script src="public/assets/plugins/bower_components/calendar/dist/jquery.fullcalendar.js"></script>
-    <script src="public/assets/plugins/bower_components/calendar/dist/cal-init.js"></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/calendar/jquery-ui.min.js')?>"></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/moment/moment.js')?>"></script>
+    <script src='<?php echo url('public/assets/plugins/bower_components/calendar/dist/fullcalendar.min.js')?>'></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/calendar/dist/jquery.fullcalendar.js')?>"></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/calendar/dist/cal-init.js')?>"></script>
     <!--Wave Effects -->
-    <script src="public/assets/js/waves.js"></script>
+    <script src="<?php echo url('public/assets/js/waves.js')?>"></script>
     <!-- Custom Theme JavaScript -->
-    <script src="public/assets/js/custom.min.js"></script>
+    <script src="<?php echo url('public/assets/js/custom.min.js')?>"></script>
     
     <!--Style Switcher -->
-    <script src="public/assets/plugins/bower_components/styleswitcher/jQuery.style.switcher.js"></script>
+    <script src="<?php echo url('public/assets/plugins/bower_components/styleswitcher/jQuery.style.switcher.js')?>"></script>
 </body>
-
-
-<!-- Mirrored from wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/calendar.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2017 19:07:11 GMT -->
 </html>
