@@ -28,6 +28,16 @@
                             <li> <a href="index3.html"><i class=" fa-fw">3</i><span class="hide-menu">Dashboard 3</span></a> </li>
                         </ul>
                     </li>
+                    <li> 
+                    <a href="index.html" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                     <span class="hide-menu"> Class <span class="fa arrow"></span> </span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?=url('classlevel/introduction')?>"><i class=" fa-fw">1</i><span class="hide-menu">How to Define Class</span></a> </li>
+                            <li> <a href="index2.html"><i class=" fa-fw">2</i><span class="hide-menu">How To View Class</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw">3</i><span class="hide-menu">How To Edit Class</span></a> </li>
+                            <li> <a href="index3.html"><i class=" fa-fw">4</i><span class="hide-menu">How To Delete Class</span></a> </li>
+                        </ul>
+                    </li>
                     <li> <a href="#" class="waves-effect"><i class="mdi mdi-format-color-fill fa-fw"></i> <span class="hide-menu">UI Elements<span class="fa arrow"></span> <span class="label label-rouded label-info pull-right">20</span> </span></a>
                         <ul class="nav nav-second-level">
                             <li><a href="panels-wells.html"><i data-icon="&#xe026;" class="linea-icon linea-basic fa-fw"></i> <span class="hide-menu">Panels and Wells</span></a></li>
