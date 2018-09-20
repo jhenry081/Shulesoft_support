@@ -43,10 +43,20 @@ class SupportController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($folder,$file)
+    public function show($folder,$folder2=null,$file=null)
     {
-        
-        return view($folder.'.'.$file);
+        if($file==null && $folder2==null){
+            return view($folder);
+        }
+        elseif($file==null && $folder2 !=null){
+
+            return view($folder.'.'.$folder2); 
+        }
+        else{
+
+            return view($folder.'.'.$folder2.'.'.$file);
+        }
+      
     }
 
     /**
