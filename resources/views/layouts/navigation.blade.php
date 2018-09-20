@@ -230,8 +230,75 @@
                         </ul>
                     </li>                  
                 </ul>
-            </li>            
+            </li> 
+            
+            
+              <li> 
+                <a href="<?= url('signature') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Signature <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('signature/add_signature') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define signature</span></a> </li>                 
+                </ul>
+              </li>
+              
+              
+              <li> 
+                <a href="<?= url('other_reports') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Other Reports<span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('other_reports/view_inactive_user') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Inactive Users</span></a> </li>
+                    <li> <a href="<?= url('other_reports/view_graduates') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Graduates</span></a> </li>
+                    <li> <a href="<?= url('other_reports/view_student_reports') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To view student report based on status</span></a> </li>                   
+                </ul>
+             </li>
+             
+             
+            
+             <li> 
+                <a href="<?= url('character') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Character <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Characters <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('character/add_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character</span></a> </li>
+                            <li> <a href="<?= url('character/view_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view character</span></a> </li>
+                            <li> <a href="<?= url('character/edit_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit character</span></a> </li>
+                            <li> <a href="<?= url('character/delete_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete character</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Character Categories <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('character/add_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character category</span></a> </li>
+                            <li> <a href="<?= url('character/view_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view character category</span></a> </li>
+                            <li> <a href="<?= url('character/edit_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit character category</span></a> </li>
+                            <li> <a href="<?= url('character/delete_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete character category</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Character Grades <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('character/add_character_grades') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Character Grades</span></a> </li>                           
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">General Assesment <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('character/add_general_assesment') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add General Assesment</span></a> </li>
+                            <li> <a href="<?= url('character/view_general_assesment') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view General Assesment</span></a> </li>                            
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Character Report <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            
+                            <li> <a href="<?= url('character/view_character_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Student Character Report</span></a> </li>                            
+                        </ul>
+                    </li>
+                </ul>
+            </li>          
 
-        </ul>
+       </ul>
     </div>
 </div>
