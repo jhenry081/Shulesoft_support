@@ -62,8 +62,8 @@
                     </li>
                 </ul>
             </li>
-            
-            
+
+
             <li> 
                 <a href="<?= url('class') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Class <span class="fa arrow"></span> </span></a>
@@ -80,7 +80,7 @@
                 <a href="<?= url('exam') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Exam <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('exam') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Exam <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('exam/exam_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Exam</span></a> </li>
@@ -89,7 +89,7 @@
                             <li> <a href="<?= url('exam/exam_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Exam</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('exam') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Exam Schedule <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('exam/exam_schedule_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Exam Schedule</span></a> </li>
@@ -98,7 +98,7 @@
                             <li> <a href="<?= url('exam/exam_schedule_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Exam Schedule</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('exam') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Exam Report <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('exam/exam_report_create') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create exam report</span></a> </li>
@@ -106,13 +106,13 @@
 
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('exam') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Parent view <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">                            
                             <li> <a href="<?= url('exam/parent_view_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How parent can view student report</span></a> </li>
                         </ul>
                     </li>
-                     <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('exam') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Teacher's comment <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">                            
                             <li> <a href="<?= url('exam/add_comment') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add comment per each student</span></a> </li>
@@ -120,21 +120,21 @@
                     </li>
                 </ul>
 
- 
+
             </li>
-            
-            
-           
-             <li> 
+
+
+
+            <li> 
                 <a href="<?= url('mark') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Mark <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('mark/add_mark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add Marks</span></a> </li>
+                    <li> <a href="<?= url('mark/add_marks') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add Marks</span></a> </li>
                     <li> <a href="<?= url('mark/view_marks') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Marks</span></a> </li>                                      
                 </ul>
             </li>
-            
-            
+
+
             <li> 
                 <a href="<?= url('section') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Section<span class="fa arrow"></span> </span></a>
@@ -145,9 +145,9 @@
                     <li> <a href="<?= url('section/delete_section') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Delete Section</span></a> </li>
                 </ul>
             </li>
-            
-            
-             <li> 
+
+
+            <li> 
                 <a href="<?= url('class_level') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Class Level<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -157,6 +157,80 @@
                     <li> <a href="<?= url('class_level/delete_class_level') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Delete Class Level</span></a> </li>
                 </ul>
             </li>
+
+
+            <li> 
+                <a href="<?= url('grades') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Grades<span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('grades/add_grade') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Define Grade</span></a> </li>
+                    <li> <a href="<?= url('grades/specify_grade') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To create special grading format</span></a> </li>                  
+                </ul>
+            </li>
+
+            <li> 
+                <a href="<?= url('hostel') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Hostel <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Hostel <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('hostel/add_hostel') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Hostel</span></a> </li>
+                            <li> <a href="<?= url('hostel/view_hostel') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Hostel</span></a> </li>
+                            <li> <a href="<?= url('hostel/edit_hostel') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit Hostel</span></a> </li>
+                            <li> <a href="<?= url('hostel/delete_hostel') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Hostel</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Member <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('hostel/add_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a member</span></a> </li>
+                            <li> <a href="<?= url('hostel/view_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a member</span></a> </li>                            
+                            <li> <a href="<?= url('hostel/delete_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a member</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Hostel Category <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('hostel/add_hostel_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Hostel category</span></a> </li>
+                            <li> <a href="<?= url('hostel/view_hostel_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Hostel category</span></a> </li>
+                            <li> <a href="<?= url('hostel/delete_hostel_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Hostel category</span></a> </li>
+                        </ul>
+                    </li>                  
+                </ul>
+            </li>
+
+
+            <li> 
+                <a href="<?= url('transport') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Transport <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Vehicle <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('transport/add_vehicle') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Vehicle</span></a> </li>
+                            <li> <a href="<?= url('transport/view_vehicle') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Vehicle</span></a> </li>
+                            <li> <a href="<?= url('transport/delete_vehicle') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Vehicle</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Member <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('transport/add_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to assign member</span></a> </li>
+                            <li> <a href="<?= url('transport/view_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a member</span></a> </li>                            
+                            <li> <a href="<?= url('transport/delete_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a member</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Transport Route <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('transport/add_transport_route') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Transport Route</span></a> </li>
+                            <li> <a href="<?= url('transport/view_transport_route') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Transport Route</span></a> </li>
+                            <li> <a href="<?= url('transport/delete_transport_route') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Transport Route</span></a> </li>
+                        </ul>
+                    </li>                  
+                </ul>
+            </li>            
 
         </ul>
     </div>
