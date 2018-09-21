@@ -297,8 +297,184 @@
                         </ul>
                     </li>
                 </ul>
-            </li>          
+            </li>   
+            
+            
+            <li> 
+                <a href="<?= url('library') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Library <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Books <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('library/add_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Book</span></a> </li>
+                            <li> <a href="<?= url('library/view_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Book</span></a> </li>
+                            <li> <a href="<?= url('library/edit_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit Book</span></a> </li>
+                            <li> <a href="<?= url('library/delete_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Book</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Update Quantity <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('library/update_books') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to update Quantity of Books</span></a> </li>                          
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Library Report <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('library/view_general_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view general Library Report</span></a> </li>
+                            <li> <a href="<?= url('library/view_other_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view other Library Report</span></a> </li>                          
+                        </ul>
+                    </li>                  
+                </ul>
+            </li>
 
+           <li> 
+                <a href="<?= url('subject') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Subject <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Subjects <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('subject/add_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/view_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/edit_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/delete_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/allocate_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Allocate Subject in specific class</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Scheme of Work <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('subject/add_scheme') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create scheme of work</span></a> </li>
+                            <li> <a href="<?= url('subject/view_scheme') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view scheme of work</span></a> </li>           
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Subject Teacher <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('subject/allocate_subject_teacher') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to allocate subject teacher in respective subject</span></a> </li>
+                            <li> <a href="<?= url('subject/view_subject_teacher') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view subject teacher</span></a> </li>                            
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">BenchMark <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('subject/add_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/view_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/edit_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/delete_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete benchmark</span></a> </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li> 
+           
+            
+            <li> 
+                <a href="<?= url('email_sms') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Email/Sms <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Template <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('email_sms/add_template') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Template</span></a> </li>
+                            <li> <a href="<?= url('email_sms/view_template') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Template</span></a> </li>
+                            <li> <a href="<?= url('email_sms/edit_template') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit Template</span></a> </li>
+                            <li> <a href="<?= url('email_sms/delete_template') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Template</span></a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Mail/Text <span class="fa arrow"></span></span></a> 
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('email_sms/compose_mail') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a parent</span></a> </li>
+                            <li> <a href="<?= url('email_sms/view_sent_items') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a parent</span></a> </li>
+                            <li> <a href="<?= url('email_sms/view inbox') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a parent</span></a> </li>                         
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            
+            
+            <li> 
+                <a href="<?= url('notice') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Notice <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Notice/Calendar <span class="fa arrow"></span></span></a>
+                        <ul class="nav nav-second-level">
+                            <li> <a href="<?= url('notice/add_notice') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Notice</span></a> </li>
+                            <li> <a href="<?= url('notice/view_notice') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Notice</span></a> </li>
+                            <li> <a href="<?= url('notice/edit_notice') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit Notice</span></a> </li>
+                            <li> <a href="<?= url('notice/delete_notice') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Notice</span></a> </li>
+                            <li> <a href="<?= url('notice/upload_calendar') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Upload School Calendar</span></a> </li>
+                        </ul>
+                    </li>                   
+                </ul>
+            </li>
+            
+            
+            <li> 
+                <a href="<?= url('promotion') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Promotion <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('promotion/promote') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Promote Student(s)</span></a> </li>                 
+                </ul>
+            </li>
+            
+            
+            <li> 
+                <a href="<?= url('routine') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Routine <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('routine/add_routine') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Routine</span></a> </li> 
+                    <li> <a href="<?= url('routine/view_routine') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Routine</span></a> </li>
+                </ul>
+            </li>
+            
+            
+            <li> 
+                <a href="<?= url('terms') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Terms <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('terms/add_term') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
+                    <li> <a href="<?= url('terms/view_term') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                </ul>
+            </li>
+            
+            
+             <li> 
+                <a href="<?= url('salaries') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Salaries <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('salaries/create_payroll') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create Payroll</span></a> </li> 
+                    <li> <a href="<?= url('salaries/view_payroll') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Payroll</span></a> </li>
+                </ul>
+             </li>
+             
+             
+             
+            <li> 
+                <a href="<?= url('messages') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Messages <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('messages/compose_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
+                    <li> <a href="<?= url('messages/delete_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('messages/view_favourite_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
+                    <li> <a href="<?= url('messages/view_inbox_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('messages/view_sent_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
+                    <li> <a href="<?= url('messages/view_trash_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                </ul>
+            </li>
+            
+            <li> 
+                <a href="<?= url('setting') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                    <span class="hide-menu"> Setting <span class="fa arrow"></span> </span></a>
+                <ul class="nav nav-second-level">
+                    <li> <a href="<?= url('setting/') ?>"><i class=" fa-fw"></i><span class="hide-menu">1</span></a> </li> 
+                    <li> <a href="<?= url('setting/') ?>"><i class=" fa-fw"></i><span class="hide-menu">2</span></a> </li>
+                </ul>
+            </li>
+            
        </ul>
     </div>
 </div>
