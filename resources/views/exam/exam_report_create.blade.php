@@ -62,17 +62,17 @@
                 <div class="row">
                    
                     <ol>
-                        <p>Select Class, Academic year, Section and Subject </p>
+                        <p> • For Mobile </p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/add/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam report/add/5.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <ol>
-                    <p>• For Mobile </p>
+                    <p> Select Class, Academic year, Section and Subject </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/6.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/6.png') ?>" width="120%" height="90%"/>
                     </div>
 </ol>
                 </div>
@@ -85,18 +85,18 @@
                 <div class="row">
                   
                     <ol>
-                        <p>Then Select Semester that you want to generate a Report</p>
+                        <p>• For Mobile</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/add/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam report/add/7.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <ol>
-                    <p>• For Mobile </p>
+                    <p> Then Select Semester that you want to generate a Report</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/8.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/8.png') ?>" width="120%" height="90%"/>
                     </div>
                     </ol>
                 </div>
@@ -109,17 +109,17 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <p>Click on View Combined Report</p>
+                        <p>For Mobile</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/add/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam report/add/9.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <ol>
-                    <p>For Mobile </p>
+                    <p> Click on View Combined Report</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/10.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/10.png') ?>" width="120%" height="90%"/>
                     </div>
 </ol>
                 </div>
@@ -131,23 +131,31 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <p>Then the combined Reports will be seen such as follows</p>
+                        <p>For Mobile</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/add/11.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam report/add/11.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <ol>
-                    <p>For Mobile </p>
+                    <p> Then the combined Reports will be seen such as follows</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/12.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/12.png') ?>" width="120%" height="90%"/>
                     </div>
 </ol>
                 </div>
             </div>
         </div>
     </div>
+      <div class="row">
+                    <ol>
+                    <p>For Mobile </p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/exam/exam report/add/13.png') ?>" width="40%" height="50%"/>
+                    </div>
+</ol>
+                </div>
 
 
 
