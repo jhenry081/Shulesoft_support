@@ -14,14 +14,14 @@
                     <ol>
                         <li>1.	On the Sidebar select “Users”</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>	For Mobile Press Menu First</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -36,14 +36,14 @@
                     <p>	Click: Users then,Students</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
                 <ol>
                 <li>2.	Then Click on “Student”</li>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_aved4.png') ?>" width="80%" height="80%"/>
                     </div>
                     </ol>
                 </div>
@@ -59,14 +59,14 @@
                     <ol>
                         <li>3.	Then Click on “Add student(s)”</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add5.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>For Mobile </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add6.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -85,14 +85,14 @@
                         <li>Enter all basic student information in to the fields</li>
                         </ul>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add7.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>	For Mobile </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add8.png') ?>" width="80%" height="80%"/>
                     </div>
                 </div>
             </div>
@@ -106,14 +106,14 @@
                     <ul>
                         <li>	Fill Parent information so as to link the student with his/her parent, and enter all previous academic report of the student if they are available and required by school academic </li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add9.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>For Mobile </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add10.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -129,14 +129,14 @@
                     <ol>
                         <li>Click on “Submit” to save the registration in to the system</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add11.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add11.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>For Mobile</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add12.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add12.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -154,14 +154,14 @@
                     <ol>
                         <li>Click on “Excel Registration”</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add13.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add13.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>Now you can download Excel Registration sample file, and use it (by editing) for entering the student information required for registration and save it in your documents. But if you have existing Excel Registration file in your system you can skip this step and jump to “browse stage”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add14.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add14.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -177,7 +177,7 @@
                     <ol>
                         <li>“Excel Registration Sample” Downloaded from ShuleSoft system</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add15.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add15.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
@@ -187,7 +187,7 @@
                     <li>Click Browse</li>
                     </ul>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add16.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add16.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -203,14 +203,14 @@
                     <ol>
                         <li>Choose your Excel file and Click “Open”</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/student/student_add17.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/student/student_add17.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>After successful upload of excel file, then Click on “Submit”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/student/student_add18.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/student/student_add18.png') ?>" width="80%" height="80%"/>
                         <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

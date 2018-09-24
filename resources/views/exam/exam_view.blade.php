@@ -12,18 +12,19 @@
                     
 
                     <ol>
-                        <li>On Sidebar Select “Exam”</li>
+                        <p>1.On Sidebar Select “Exam”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/1.png') ?>" width="130%" height="100%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                     <ol>
+                    <p>• For Mobile Press Menu First</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/2.png') ?>" width="40%" height="60%"/>
                     </div>
-
+ </ol>
                 </div>
             </div>
         </div>
@@ -33,17 +34,18 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>	Click:<br>
-	              Exam then,<br>
-                 Exam Definition
-</p>
+                     <ol>
+                    <p>(i)Click:Exam then,<br>
+                 (ii)Exam Definition</p>
+
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/3.png') ?>" width="40%" height="60%"/>
                         </div>
+                     </ol>
                 </div>
                 <ol>
-                <li>Then Click on “Exam Definition” </li>
+                <p>Then Click on “Exam Definition” </p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/4.png') ?>" width="130%" height="100%"/>
@@ -60,18 +62,19 @@
                 <div class="row">
                    
                     <ol>
-                        <li>Select Class and Year from the fields</li>
+                        <p>Select Class and Year from the fields</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/5.png') ?>" width="130%" height="100%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                     <ol>
+                    <p>• For Mobile </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/6.png') ?>" width="40%" height="60%"/>
                     </div>
-
+ </ol>
                 </div>
             </div>
         </div>
@@ -82,7 +85,7 @@
                 <div class="row">
                   
                     <ol>
-                        <li>The list of Exams defined to the System will be seen in the table as shown below</li>
+                        <p>The list of Exams defined to the System will be seen in the table as shown below</p>
                         
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/7.png') ?>" width="130%" height="100%"/>
@@ -90,10 +93,12 @@
                     </ol>
                 </div>
                 <div class="row">
-                    <p>	For Mobile </p>
+                     <ol>
+                    <p>• For Mobile </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/8.png') ?>" width="40%" height="60%"/>
                     </div>
+                     </ol>
                 </div>
             </div>
         </div>
@@ -104,7 +109,7 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <li>	Also, you can use the following ways to view this information</li>
+                        <li>Also, you can use the following ways to view this information</li>
 
                         <li> By using PDF, steps below are involved</li>
 	                          <li> Click on PDF as shown below</li>
@@ -115,11 +120,12 @@
                     </ul>
                 </div>
                 <div class="row">
-                    <p>•	Sample pdf will be seen</p>
+                     <ol>
+                    <p>• Sample pdf will be seen</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/10.png') ?>" width="130%" height="100%"/>
                     </div>
-
+ </ol>
                 </div>
             </div>
         </div>
@@ -140,11 +146,12 @@
                     </ul>
                 </div>
                 <div class="row">
+                     <ol>
                     <p>Excel sample format will be seen as shown below</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/12.png') ?>" width="130%" height="100%"/>
                     </div>
-
+ </ol>
                 </div>
             </div>
         </div>
@@ -166,11 +173,12 @@
                     </ul>
                 </div>
                 <div class="row">
+                     <ol>
                     <p>•The CSV sample format will be seen </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/14.png') ?>" width="130%" height="100%"/>
                     </div>
-
+ </ol>
                 </div>
             </div>
         </div>

@@ -12,18 +12,19 @@
                     
 
                     <ol>
-                        <li>On Sidebar Select “Exam”</li>
+                        <p>1.On Sidebar Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/delete/1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/exam/exam/delete/1.png') ?>" width="120%" height="90%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
-                    <p>	For Mobile Press Menu First</p>
+                    <ol>
+                    <p>• For Mobile Press Menu First</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/delete/2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/exam/exam/delete/2.png') ?>" width="40%" height="50%"/>
                     </div>
-
+</ol>
                 </div>
             </div>
         </div>
@@ -33,20 +34,21 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>	Click:<br>
-	              Exam then,<br>
-                 Exam Definition
-</p>
+                     <ol>
+                    <p>(i)Click:Exam then,<br>
+                 (ii)Exam Definition</p>
+
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/delete/3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/exam/exam/delete/3.png') ?>" width="40%" height="50%"/>
                         </div>
+                     </ol>
                 </div>
                 <ol>
-                <li>Then Click on “Exam Definition” </li>
+                <p>Then Click on “Exam Definition” </p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/delete/4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/exam/exam/delete/4.png') ?>" width="120%" height="90%"/>
                     </div>
                     </ol>
                 </div>
@@ -60,18 +62,19 @@
                 <div class="row">
                    
                     <ol>
-                        <li>Select Class and Year from the fields</li>
+                        <p>Select Class and Year from the fields</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/delete/5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/exam/exam/delete/5.png') ?>" width="120%" height="90%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                     <ol>
+                    <p>• For Mobile </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/delete/6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/exam/exam/delete/6.png') ?>" width="40%" height="50%"/>
                     </div>
-
+ </ol>
                 </div>
             </div>
         </div>
@@ -82,18 +85,20 @@
                 <div class="row">
                   
                     <ol>
-                        <li>Then Click Delete from the table as shown below</li>
+                        <p>Then Click Delete from the table as shown below</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/delete/7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/exam/exam/delete/7.png') ?>" width="120%" height="90%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                     <ol>
+                    <p>• For Mobile </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/delete/8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/exam/exam/delete/8.png') ?>" width="40%" height="50%"/>
                     </div>
+                     </ol>
                 </div>
             </div>
         </div>

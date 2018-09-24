@@ -45,10 +45,10 @@ class SupportController extends Controller
      */
     public function show($folder,$folder2=null,$file=null)
     {
-        if($file==null && $folder2==null){
+        if($folder2==null && $file==null  ){
             return view($folder);
         }
-        elseif($file==null && $folder2 !=null){
+        elseif($folder2!=null && $file==null){
 
             return view($folder.'.'.$folder2); 
         }
