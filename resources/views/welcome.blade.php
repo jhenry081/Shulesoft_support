@@ -79,16 +79,16 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Shulesoft Support
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">Home</a>
+                    <a href="https://laracasts.com">Community</a>
+                    <a href="https://laravel-news.com">Knowledge Base</a>
+                    <a href="https://nova.laravel.com">Support</a>
+                    <a href="https://forge.laravel.com">FAQ</a>
+                    <a href="https://github.com/laravel/laravel">Error Reports</a>
                 </div>
             </div>
         </div>

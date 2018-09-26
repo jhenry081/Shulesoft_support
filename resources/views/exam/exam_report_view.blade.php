@@ -120,7 +120,7 @@
                      <ol>
                     <p>• For Mobile </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/view/10.png') ?>" width="40%" height="60%"/>
+                        <img src="<?= url('public/images/exam/exam report/view/10.png') ?>" width="40%" height="50%"/>
                     </div>
                      </ol>
                 </div>
@@ -144,7 +144,7 @@
                         <li>• For Mobile</li>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/12.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/12.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ul>
                 </div>
@@ -168,7 +168,7 @@
                         <li>• For Mobile</li>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/14.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/14.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ul>
                 </div>
@@ -193,7 +193,7 @@
 	                       
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/16.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/16.png') ?>" width="40%" height="50%"/>
                         </div>
                     </ul>
                 </div>

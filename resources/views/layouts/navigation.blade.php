@@ -261,8 +261,7 @@
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Characters <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('character/add_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character</span></a> </li>
-                            <li> <a href="<?= url('character/view_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view character</span></a> </li>
+                            <li> <a href="<?= url('character/add_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character</span></a> </li>                          
                             <li> <a href="<?= url('character/edit_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit character</span></a> </li>
                             <li> <a href="<?= url('character/delete_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete character</span></a> </li>
                         </ul>
@@ -270,8 +269,7 @@
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Character Categories <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('character/add_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character category</span></a> </li>
-                            <li> <a href="<?= url('character/view_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view character category</span></a> </li>
+                            <li> <a href="<?= url('character/add_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character category</span></a> </li>                           
                             <li> <a href="<?= url('character/edit_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit character category</span></a> </li>
                             <li> <a href="<?= url('character/delete_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete character category</span></a> </li>
                         </ul>

@@ -12,7 +12,7 @@
                     <p>Note: Before Starting the process of adding Marks, make sure that you have already define Class, Subjects and Students has restored to the system.  </p>
 
                     <ol>
-                        <li>On the Sidebar select “Mark”</li>
+                        <p>1. On the Sidebar select “Mark”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/mark/add/1.png') ?>" width="130%" height="100%"/>
                         </div>
@@ -34,7 +34,7 @@
                 
                 <div class="row">
                     <ol>
-                        <li>You can Enter Marks in two ways:</li>
+                        <p>2. You can Enter Marks in two ways:</p>
                         <p> a) Enter marks Directly to the System, following steps are involved</p>
                         <p> • Click on Add Marks</p>
                         <div class="col-sm-8">
