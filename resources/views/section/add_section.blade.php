@@ -6,9 +6,9 @@
     <div class="row">
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
-                <h3 class="box-title">HOW TO DELETE A SECTION</h3>
+                <h3 class="box-title">HOW TO ADD A SECTION</h3>
                 <div class="row">
-                    <p>To Edit Section that have been already defined to the System you have to Login to the System and follow steps below:</p>
+                    <p>In ShuleSoft System you can create a new Section after Login and do the following procedures:</p>
                     <ol>
                         <li>1.	On Sidebar Click Section</li>
                         <div class="col-sm-8">
@@ -31,14 +31,14 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Then select Class Level and Class</p>
+                    <p>Then Click on Add Section</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
                 <ol>
-                <li>The List of Section will be seen and Click on Delete</li>
+                <li>Fill all the fields with required information for creating new Section</li>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
@@ -48,7 +48,22 @@
             </div>
         </div>
     </div>
- 
+
+    <div class="row">
+        <div class="col-md-12 col-sm-12 col-lg-12">
+            <div class="white-box">
+                <div class="row">
+                    <p>Then Click on Add Section</p>
+
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
+                        <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+              
 </div>
 
 @endsection
