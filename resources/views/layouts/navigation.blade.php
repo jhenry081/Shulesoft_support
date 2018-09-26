@@ -27,37 +27,37 @@
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Student <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('users/student_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a student</span></a> </li>
-                            <li> <a href="<?= url('users/student_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a student</span></a> </li>
-                            <li> <a href="<?= url('users/student_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a student</span></a> </li>
-                            <li> <a href="<?= url('users/student_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a student</span></a> </li>
+                            <li> <a href="<?= url('users/student/student_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a student</span></a> </li>
+                            <li> <a href="<?= url('users/student/student_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a student</span></a> </li>
+                            <li> <a href="<?= url('users/student/student_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a student</span></a> </li>
+                            <li> <a href="<?= url('users/student/student_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a student</span></a> </li>
                         </ul>
                     </li>
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Parents <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('users/parent_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a parent</span></a> </li>
-                            <li> <a href="<?= url('users/parent_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a parent</span></a> </li>
-                            <li> <a href="<?= url('users/parent_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a parent</span></a> </li>
-                            <li> <a href="<?= url('users/parent_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a parent</span></a> </li>
+                            <li> <a href="<?= url('users/parent/parent_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a parent</span></a> </li>
+                            <li> <a href="<?= url('users/parent/parent_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a parent</span></a> </li>
+                            <li> <a href="<?= url('users/parent/parent_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a parent</span></a> </li>
+                            <li> <a href="<?= url('users/parent/parent_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a parent</span></a> </li>
                         </ul>
                     </li>
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Teachers <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('users/teacher_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a teacher</span></a> </li>
-                            <li> <a href="<?= url('users/teacher_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a teacher</span></a> </li>
-                            <li> <a href="<?= url('users/teacher_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a teacher</span></a> </li>
-                            <li> <a href="<?= url('users/teacher_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a teacher</span></a> </li>
+                            <li> <a href="<?= url('users/teacher/teacher_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a teacher</span></a> </li>
+                            <li> <a href="<?= url('users/teacher/teacher_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a teacher</span></a> </li>
+                            <li> <a href="<?= url('users/teacher/teacher_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a teacher</span></a> </li>
+                            <li> <a href="<?= url('users/teacher/teacher_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a teacher</span></a> </li>
                         </ul>
                     </li>
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Staff <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('users/staff_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add staff</span></a> </li>
-                            <li> <a href="<?= url('users/staff_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view staff</span></a> </li>
-                            <li> <a href="<?= url('users/staff_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit staff</span></a> </li>
-                            <li> <a href="<?= url('users/staff_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete staff</span></a> </li>
+                            <li> <a href="<?= url('users/staff/staff_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add staff</span></a> </li>
+                            <li> <a href="<?= url('users/staff/staff_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view staff</span></a> </li>
+                            <li> <a href="<?= url('users/staff/staff_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit staff</span></a> </li>
+                            <li> <a href="<?= url('users/staff/staff_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete staff</span></a> </li>
                         </ul>
                     </li>
                 </ul>
