@@ -164,6 +164,7 @@
                     <span class="hide-menu"> Grades<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('grades/add_grade') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Define Grade</span></a> </li>
+                    <li> <a href="<?= url('grades/view_grade') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to View Grade</span></a> </li>
                     <li> <a href="<?= url('grades/specify_grade') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To create special grading format</span></a> </li>                  
                 </ul>
             </li>
