@@ -12,14 +12,14 @@
                     <ol>
                         <li>1.	On Sidebar Click Section</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete1.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
                     <p>For Mobile Press Menu First</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_delete2.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -31,20 +31,41 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Then select Class Level and Class</p>
+                    <p>Then Click Section</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
                 <ol>
-                <li>The List of Section will be seen and Click on Delete</li>
+                <li>Then select Class Level and Class</li>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_delete4.png') ?>" width="80%" height="80%"/>
                     </div>
                     </ol>
                 </div>
+                <div class="row">
+                    <p>For Mobile</p>
+
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/section/section_delete5.png') ?>" width="80%" height="80%"/>
+                        </div>
+                </div><div class="row">
+                    <p>The List of Section will be seen and Click on Delete</p>
+
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/section/section_delete6.png') ?>" width="80%" height="80%"/>
+                        </div>
+                </div>
+                <div class="row">
+                    <p>For Mobile</p>
+
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/section/section_delete7.png') ?>" width="80%" height="80%"/>
+                        </div>
+                </div>
+
             </div>
         </div>
     </div>
