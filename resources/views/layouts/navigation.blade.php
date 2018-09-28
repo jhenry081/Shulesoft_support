@@ -24,7 +24,7 @@
                 <a href="<?= url('users') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> User <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('users/student') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Student <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('users/student/student_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a student</span></a> </li>
@@ -33,7 +33,7 @@
                             <li> <a href="<?= url('users/student/student_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a student</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('users/parent') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Parents <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('users/parent/parent_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a parent</span></a> </li>
@@ -42,7 +42,7 @@
                             <li> <a href="<?= url('users/parent/parent_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a parent</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('users/teacher') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Teachers <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('users/teacher/teacher_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a teacher</span></a> </li>
@@ -51,7 +51,7 @@
                             <li> <a href="<?= url('users/teacher/teacher_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a teacher</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('users/staff') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Staff <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('users/staff/staff_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add staff</span></a> </li>
@@ -89,7 +89,7 @@
                             <li> <a href="<?= url('exam/exam_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Exam</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('exam') ?>">
+                    <li> <a href="<?= url('exam schedule ') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Exam Schedule <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('exam/exam_schedule_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Exam Schedule</span></a> </li>
@@ -98,7 +98,7 @@
                             <li> <a href="<?= url('exam/exam_schedule_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Exam Schedule</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('exam') ?>">
+                    <li> <a href="<?= url('exam report') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Exam Report <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('exam/exam_report_create') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create exam report</span></a> </li>
@@ -106,13 +106,13 @@
 
                         </ul>
                     </li>
-                    <li> <a href="<?= url('exam') ?>">
+                    <li> <a href="<?= url('parent view') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Parent view <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">                            
                             <li> <a href="<?= url('exam/parent_view_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How parent can view student report</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('exam') ?>">
+                    <li> <a href="<?= url('teacher\'s comment') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Teacher's comment <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">                            
                             <li> <a href="<?= url('exam/add_comment') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add comment per each student</span></a> </li>
@@ -126,7 +126,7 @@
 
 
             <li> 
-                <a href="<?= url('mark') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                <a href="<?= url('marks') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Mark <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('mark/add_marks') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add Marks</span></a> </li>
@@ -139,22 +139,22 @@
                 <a href="<?= url('section') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Section<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('section/add_section') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Define Section</span></a> </li>
-                    <li> <a href="<?= url('section/view_section') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Section</span></a> </li>
-                    <li> <a href="<?= url('section/edit_section') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Edit Section</span></a> </li>
-                    <li> <a href="<?= url('section/delete_section') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Delete Section</span></a> </li>
+                    <li> <a href="<?= url('section/section_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add Section</span></a> </li>
+                    <li> <a href="<?= url('section/section_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Section</span></a> </li>
+                    <li> <a href="<?= url('section/section_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Edit Section</span></a> </li>
+                    <li> <a href="<?= url('section/section_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Delete Section</span></a> </li>
                 </ul>
             </li>
 
 
             <li> 
-                <a href="<?= url('class_level') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                <a href="<?= url('class level') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Class Level<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('class_level/add_class_level') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Define Class Level</span></a> </li>
-                    <li> <a href="<?= url('class_level/view_class_level') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Class Level</span></a> </li>
-                    <li> <a href="<?= url('class_level/edit_class_level') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Edit Class Level</span></a> </li>
-                    <li> <a href="<?= url('class_level/delete_class_level') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Delete Class Level</span></a> </li>
+                    <li> <a href="<?= url('class_level/class_level_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add Class Level</span></a> </li>
+                    <li> <a href="<?= url('class_level/class_level_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Class Level</span></a> </li>
+                    <li> <a href="<?= url('class_level/class_level_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Edit Class Level</span></a> </li>
+                    <li> <a href="<?= url('class_level/class_level_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To Delete Class Level</span></a> </li>
                 </ul>
             </li>
 
@@ -173,7 +173,7 @@
                 <a href="<?= url('hostel') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Hostel <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('hostel') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Hostel <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('hostel/add_hostel') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Hostel</span></a> </li>
@@ -182,7 +182,7 @@
                             <li> <a href="<?= url('hostel/delete_hostel') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Hostel</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('member') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Member <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('hostel/add_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a member</span></a> </li>
@@ -190,7 +190,7 @@
                             <li> <a href="<?= url('hostel/delete_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a member</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('hostel category') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Hostel Category <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('hostel/add_hostel_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Hostel category</span></a> </li>
@@ -206,7 +206,7 @@
                 <a href="<?= url('transport') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Transport <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('vehicle') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Vehicle <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('transport/add_vehicle') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Vehicle</span></a> </li>
@@ -214,7 +214,7 @@
                             <li> <a href="<?= url('transport/delete_vehicle') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Vehicle</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('member') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Member <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('transport/add_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to assign member</span></a> </li>
@@ -222,7 +222,7 @@
                             <li> <a href="<?= url('transport/delete_member') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a member</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('transport route') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Transport Route <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('transport/add_transport_route') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Transport Route</span></a> </li>
@@ -259,7 +259,7 @@
                 <a href="<?= url('character') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Character <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('characters') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Characters <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('character/add_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character</span></a> </li>                          
@@ -267,7 +267,7 @@
                             <li> <a href="<?= url('character/delete_character') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete character</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('character category') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Character Categories <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('character/add_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add character category</span></a> </li>                           
@@ -275,20 +275,20 @@
                             <li> <a href="<?= url('character/delete_character_category') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete character category</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('character grades') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Character Grades <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('character/add_character_grades') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Character Grades</span></a> </li>                           
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
-                            <i class=" fa-fw"></i><span class="hide-menu">General Assesment <span class="fa arrow"></span></span></a>
+                    <li> <a href="<?= url('general assessment') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">General Assessment <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('character/add_general_assesment') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Add General Assesment</span></a> </li>
                             <li> <a href="<?= url('character/view_general_assesment') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view General Assesment</span></a> </li>                            
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('character report') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Character Report <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             
@@ -303,7 +303,7 @@
                 <a href="<?= url('library') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Library <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('books') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Books <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('library/add_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Book</span></a> </li>                          
@@ -312,13 +312,13 @@
                             <li> <a href="<?= url('library/issue_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Issue Book</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('update quantity') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Update Quantity <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('library/update_books') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to update Quantity of Books</span></a> </li>                          
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('library report') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Library Report <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('library/view_general_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view general Library Report</span></a> </li>
@@ -332,37 +332,37 @@
                 <a href="<?= url('subject') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Subject <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('subject') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Subjects <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('subject/add_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a Subject</span></a> </li>
-                            <li> <a href="<?= url('subject/view_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a Subject</span></a> </li>
-                            <li> <a href="<?= url('subject/edit_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a Subject</span></a> </li>
-                            <li> <a href="<?= url('subject/delete_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a Subject</span></a> </li>
-                            <li> <a href="<?= url('subject/allocate_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Allocate Subject in specific class</span></a> </li>
+                            <li> <a href="<?= url('subject/subject/subject_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/subject/subject_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/subject/subject_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/subject/subject_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a Subject</span></a> </li>
+                            <li> <a href="<?= url('subject/subject/allocate_subject') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Allocate Subject in specific class</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('scheme') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Scheme of Work <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('subject/add_scheme') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create scheme of work</span></a> </li>
-                            <li> <a href="<?= url('subject/view_scheme') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view scheme of work</span></a> </li>           
+                            <li> <a href="<?= url('subject/scheme/scheme_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create scheme of work</span></a> </li>
+                            <li> <a href="<?= url('subject/scheme/scheme_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view scheme of work</span></a> </li>           
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('subject_teacher') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Subject Teacher <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('subject/allocate_subject_teacher') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to allocate subject teacher in respective subject</span></a> </li>
-                            <li> <a href="<?= url('subject/view_subject_teacher') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view subject teacher</span></a> </li>                            
+                            <li> <a href="<?= url('subject/subject_teacher/allocate_subject_teacher') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to allocate subject teacher in respective subject</span></a> </li>
+                            <li> <a href="<?= url('subject/subject_teacher/subject_teacher_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view subject teacher</span></a> </li>                            
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
-                            <i class=" fa-fw"></i><span class="hide-menu">BenchMark <span class="fa arrow"></span></span></a>
+                    <li> <a href="<?= url('benchmark') ?>">
+                            <i class=" fa-fw"></i><span class="hide-menu">Benchmark <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('subject/add_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add benchmark</span></a> </li>
-                            <li> <a href="<?= url('subject/view_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view benchmark</span></a> </li>
-                            <li> <a href="<?= url('subject/edit_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit benchmark</span></a> </li>
-                            <li> <a href="<?= url('subject/delete_benchmark') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/benchmark/benchmark_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/benchmark/benchmark_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/benchmark/benchmark_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit benchmark</span></a> </li>
+                            <li> <a href="<?= url('subject/benchmark/benchmark_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete benchmark</span></a> </li>
                         </ul>
                     </li>
                 </ul>
@@ -370,10 +370,10 @@
            
             
             <li> 
-                <a href="<?= url('email_sms') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                <a href="<?= url('email/sms') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Email/Sms <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('template') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Template <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('email_sms/add_template') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Template</span></a> </li>
@@ -382,7 +382,7 @@
                             <li> <a href="<?= url('email_sms/delete_template') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Template</span></a> </li>
                         </ul>
                     </li>
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('mail/text') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Mail/Text <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('email_sms/compose_mail') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to compose mail</span></a> </li>
@@ -398,7 +398,7 @@
                 <a href="<?= url('notice') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Notice <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('') ?>">
+                    <li> <a href="<?= url('notice/calendar') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Notice/Calendar <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('notice/add_notice') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Notice</span></a> </li>
@@ -435,8 +435,10 @@
                 <a href="<?= url('terms') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Terms <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('terms/add_term') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
-                    <li> <a href="<?= url('terms/view_term') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('terms/term_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Term</span></a> </li> 
+                    <li> <a href="<?= url('terms/term_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('terms/term_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('terms/term_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
                 </ul>
             </li>
             
@@ -445,8 +447,8 @@
                 <a href="<?= url('salaries') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Salaries <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('salaries/create_payroll') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to create Payroll</span></a> </li> 
-                    <li> <a href="<?= url('salaries/view_payroll') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Payroll</span></a> </li>
+                    <li> <a href="<?= url('salaries/payroll_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Payroll</span></a> </li> 
+                    <li> <a href="<?= url('salaries/payroll_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Payroll</span></a> </li>
                 </ul>
              </li>
              
