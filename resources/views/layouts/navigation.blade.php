@@ -306,10 +306,10 @@
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Books <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('library/add_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Book</span></a> </li>
-                            <li> <a href="<?= url('library/view_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Book</span></a> </li>
+                            <li> <a href="<?= url('library/add_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Book</span></a> </li>                          
                             <li> <a href="<?= url('library/edit_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit Book</span></a> </li>
                             <li> <a href="<?= url('library/delete_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Book</span></a> </li>
+                            <li> <a href="<?= url('library/issue_book') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to Issue Book</span></a> </li>
                         </ul>
                     </li>
                     <li> <a href="<?= url('') ?>">
@@ -385,9 +385,9 @@
                     <li> <a href="<?= url('') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Mail/Text <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('email_sms/compose_mail') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a parent</span></a> </li>
-                            <li> <a href="<?= url('email_sms/view_sent_items') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a parent</span></a> </li>
-                            <li> <a href="<?= url('email_sms/view inbox') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a parent</span></a> </li>                         
+                            <li> <a href="<?= url('email_sms/compose_mail') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to compose mail</span></a> </li>
+                            <li> <a href="<?= url('email_sms/view_sent_items') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view sent items</span></a> </li>
+                            <li> <a href="<?= url('email_sms/view_inbox') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view inbox texts</span></a> </li>                         
                         </ul>
                     </li>
                 </ul>

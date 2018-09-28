@@ -6,181 +6,143 @@
     <div class="row">
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
-                <h3 class="box-title">HOW TO ADD A PARENT</h3>
+                <h3 class="box-title">HOW TO ADD NEW BOOK </h3>
                 <div class="row">
-                    <p>In ShuleSoft system parent can be created by Administrator of the system in the institution, so for the admin to create a new parent profile, firstly he/she have to Login to the system and perform the following procedures:</p>
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ol>
-                </div>
-                <div class="row">
-                    <p>For Mobile Press Menu First</p>
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-<div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
-                    <p>Click: Users then,Parents</p>
-
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add3.png') ?>" width="80%" height="80%"/>
-                        </div>
-                </div>
-                <ol>
-                <li>2.	Then Click on “Parent”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
-                   
-                    <ol>
-                        <li>3.	Then Click on “Add parent”</li>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add5.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ol>
-                </div>
-                <div class="row">
-                    <p>For Mobile </p>
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add6.png') ?>" width="80%" height="80%"/>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
-                  
-                    <ol>
-                        <li>4.	Now you are in Registration field, you can do parent registration in the following ways:</li>
-                        <ul>
-                        <li>Register single parent: </li>
-                        <li>By entering the required parent information in the text fields</li>
-                        </ul>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add7.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ol>
-                </div>
-                <div class="row">
-                    <p>For Mobile, scroll down to enter more details</p>
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add8.png') ?>" width="80%" height="80%"/>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
-                    <ul>
-                        <li>Then Click on “Upload Parent(s)”</li>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add9.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ul>
-                </div>
-                <div class="row">
-                    <p>For Mobile </p>
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add10.png') ?>" width="80%" height="80%"/>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
-                
-                    <ol>
-                        <li>You can Register Many Parents by using Excel Document</li>
-                        <li>First Click on “Upload Excel”</li>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add11.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ol>
-                </div>
-                <div class="row">
-                    <p>If you don’t have Excel Sample format for registration you can download by clicking a download icon a sample from the ShuleSoft System, but if you have the sample in your document you can skip this step</p>
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add12.png') ?>" width="80%" height="80%"/>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-<div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
-                  
-                    <ol>
-                        <li>After downloading and Editing and save the sample file of parent information for registration from the system or if you saved it before, now you have to browse it from your documents by Click on Browse</li>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add13.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ol>
-                </div>
-                <div class="row">
-                    <p>Select your sample file from your document files</p>
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add14.png') ?>" width="80%" height="80%"/>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
-                <div class="row">
+                    <p>ShuleSoft offers an easy way of learning through the library. See below steps on how to add a new book in ShuleSoft.</p>
                     
                     <ol>
-                        <li>Then Click on “Upload Parent(s)”</li>
+                        <p>1. Login into your ShuleSoft account and on side bar click on “Library” </p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add15.png') ?>" width="80%" height="80%"/>
-                        <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                            <img src="<?= url('public/images/library/add_book/1.png') ?>" width="130%" height="100%"/>
                         </div>
                     </ol>
                 </div>
-              
+                <div class="row">
+                    <p>On mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/2.png') ?>" width="40%" height="60%"/>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <p>On mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/3.png') ?>" width="40%" height="60%"/>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <ol>
+                        <p>2. Click on “Books” </p>                        
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/library/add_book/4.png') ?>" width="130%" height="100%"/>
+                        </div>
+                    </ol>
+                </div>    
+                
+                  <div class="row">
+                    <p>On mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/5.png') ?>" width="40%" height="60%"/>
+                    </div>
+                </div>
+                            
+                  
+                  <div class="row">
+                    <ol>
+                        <p>3. Click on “+Add New Book”</p>                        
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/library/add_book/6.png') ?>" width="130%" height="100%"/>
+                        </div>
+                    </ol>
+                </div>                 
+                
+                 <div class="row">
+                    <p>On Mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/7.png') ?>" width="40%" height="60%"/>
+                    </div>
+                  </div>
+                
+                 <div class="row">
+                    <ol>
+                        <p>4. In this step there are two ways to add a new book in the library</p>    
+                        <p>A. Add a Book</p>
+                        <p> Fill in the required field’s and click on “Add book”</p>
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/library/add_book/8.png') ?>" width="130%" height="100%"/>
+                        </div>
+                    </ol>
+                </div>                 
+                
+                 <div class="row">
+                    <p>On Mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/9.png') ?>" width="40%" height="60%"/>
+                    </div>
+                      <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/10.png') ?>" width="40%" height="60%"/>
+                    </div>
+                  </div>
+                
+                
+                 <div class="row">
+                    <ol>
+                        <p>B.Upload by excel</p>         
+                         <p> Download the sample book to view the required materials</p>    
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/library/add_book/11.png') ?>" width="130%" height="100%"/>
+                        </div>
+                    </ol>
+                </div>                 
+                
+                 <div class="row">
+                    <p>On Mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/12.png') ?>" width="40%" height="60%"/>
+                    </div>
+                  </div>
+                
+                 <div class="row">
+                    <ol>        
+                         <p> Click on “browser” to upload a book from your storage</p>    
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/library/add_book/13.png') ?>" width="130%" height="100%"/>
+                        </div>
+                    </ol>
+                </div>                 
+                
+                 <div class="row">
+                    <p>On Mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/14.png') ?>" width="40%" height="60%"/>
+                    </div>
+                  </div>
+                
+                
+                 <div class="row">
+                    <ol>        
+                         <p> Click on “submit”</p>    
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/library/add_book/15.png') ?>" width="130%" height="100%"/>
+                        </div>
+                    </ol>
+                </div>                 
+                
+                 <div class="row">
+                    <p>On Mobile</p>
+                    <div class="col-sm-8">
+                        <img src="<?= url('public/images/library/add_book/16.png') ?>" width="40%" height="60%"/>
+                        <p>NOTE: A success notification will pop up on your screen on the side corner, if not repeat the steps above for succession.</p>
+                    </div>     
+                  </div>
+             
+                                             
+                
+            </div>
+        </div>
+    </div>   
+    
 
 </div>
 
