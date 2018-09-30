@@ -109,7 +109,7 @@
                     <ul>
                         <li>Enter new Exam information in the fields by click and typing on the field you want to edit or to update</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/definition/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/edit/9.png') ?>" width="120%" height="90%"/>
                         </div>
                     </ul>
                 </div>
