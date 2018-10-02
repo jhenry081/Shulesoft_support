@@ -360,9 +360,9 @@
                             <i class=" fa-fw"></i><span class="hide-menu">Benchmark <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
                             <li> <a href="<?= url('subject/benchmark/benchmark_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add benchmark</span></a> </li>
-                            <li> <a href="<?= url('subject/benchmark/benchmark_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view benchmark</span></a> </li>
-                            <li> <a href="<?= url('subject/benchmark/benchmark_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit benchmark</span></a> </li>
-                            <li> <a href="<?= url('subject/benchmark/benchmark_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete benchmark</span></a> </li>
+                            <!-- <li> <a href="<?= url('subject/benchmark/benchmark_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view benchmark</span></a> </li> -->
+                            <!-- <li> <a href="<?= url('subject/benchmark/benchmark_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit benchmark</span></a> </li> -->
+                            <!-- <li> <a href="<?= url('subject/benchmark/benchmark_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete benchmark</span></a> </li> -->
                         </ul>
                     </li>
                 </ul>
@@ -458,12 +458,12 @@
                 <a href="<?= url('messages') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Messages <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('messages/compose_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
-                    <li> <a href="<?= url('messages/delete_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
-                    <li> <a href="<?= url('messages/view_favourite_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
-                    <li> <a href="<?= url('messages/view_inbox_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
-                    <li> <a href="<?= url('messages/view_sent_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define Term</span></a> </li> 
-                    <li> <a href="<?= url('messages/view_trash_msg') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('messages/msg_compose') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to compose message</span></a> </li> 
+                    <li> <a href="<?= url('messages/msg_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete message</span></a> </li>
+                    <li> <a href="<?= url('messages/favorite_msg_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view favorite message</span></a> </li> 
+                    <li> <a href="<?= url('messages/inbox_msg_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view inbox</span></a> </li>
+                    <li> <a href="<?= url('messages/sent_msg_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view sent message</span></a> </li> 
+                    <li> <a href="<?= url('messages/trash_msg_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view trash message</span></a> </li>
                 </ul>
             </li>
             
