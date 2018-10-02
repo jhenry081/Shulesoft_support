@@ -8,156 +8,109 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ADD A STUDENT</h3>
                 <div class="row">
-                    <p>You can do the process of creating student profile after Login to the ShuleSoft System and proceed with the following steps:</p>
-                    <p>Note: Before creating new student, profile make sure you have already defined Class, Class Level, Section/Stream and Parent in to the System.</p>
-
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                    <!-- the text below can be displayed as a read-only tip -->
+                <p><b>Important Note: Before creating a new student, you should have already created/defined the parents, classes, sections and class levels.</b></p>
+                </div>
+                <div class="row">
+                    <p>The following are the steps to create/add a student(s):</p>
+                        <p><b>STEP 1:</b> On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
+
                 <div class="row">
-                    <p>	For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
-            </div>
-        </div>
-    </div>
 
-<div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
                 <div class="row">
-                    <p>	Click: Users then,Students</p>
+                    <p>For mobile phones:Click on "Users" then "Students"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>2.	Then Click on “Student”</li>
+
+                <p><b>STEP 2:</b> Click on “Student”</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_aved4.png') ?>" width="80%" height="80%"/>
                     </div>
-                    </ol>
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
+           
                 <div class="row">
-                   
-                    <ol>
-                        <li>3.	Then Click on “Add student(s)”</li>
+                        <p><b>STEP 3:</b> Click on “Add student(s)”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add6.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
+           
                 <div class="row">
-                  
-                    <ol>
-                        <li>4.	Now you are in the registration field, you register Student in two ways:</li>
-                        <ul>
-                        <li>Register Single student by following steps below</li>
-                        <li>Enter all basic student information in to the fields</li>
-                        </ul>
+                       <p><b>STEP 4:</b> You are now in the registration section, you can register a student(s) in two ways:
+                        <p>By manually entering the student's information</p>
+                    </p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
                 <div class="row">
-                    <p>	For Mobile </p>
+                    <p>For mobile phones</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add8.png') ?>" width="80%" height="80%"/>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>	Fill Parent information so as to link the student with his/her parent, and enter all previous academic report of the student if they are available and required by school academic </li>
+                       <p><b>STEP 4.1:</b> Fill in the student's parent information and fill in previous academic reports of the student (if available and/or required by the school)</p>
+                       
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
                 </div>
+
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add10.png') ?>" width="80%" height="80%"/>
                     </div>
-
                 </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
                 <div class="row">
                 
-                    <ol>
-                        <li>Click on “Submit” to save the registration in to the system</li>
-                        <div class="col-sm-8">
+               <p><b>STEP 4.2:</b> Click on "Submit" to complete the registration</p>
+                <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
+
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add12.png') ?>" width="80%" height="80%"/>
                     </div>
-
                 </div>
-            </div>
-        </div>
-    </div>
 
-
-<div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
                 <div class="row">
-                    <p>Excel Registration for many students at once, procedures will be as follows</p>
-
-                    <ol>
-                        <li>Click on “Excel Registration”</li>
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_add13.png') ?>" width="80%" height="80%"/>
-                        </div>
-                    </ol>
+                   <li><p>Excel Registration, this method is used to register many students at once</p></li>
+                   <p>Tip: This method is most effective when the students' excel has data already</p> 
+                   <p>Click on “Excel Registration”</p>
+                   <div class="col-sm-8">
+                       <img src="<?= url('public/images/users/student/student_add13.png') ?>" width="80%" height="80%"/>
+                    </div>
+                </ol>
                 </div>
+
                 <div class="row">
                     <p>Now you can download Excel Registration sample file, and use it (by editing) for entering the student information required for registration and save it in your documents. But if you have existing Excel Registration file in your system you can skip this step and jump to “browse stage”</p>
                     <div class="col-sm-8">
@@ -165,48 +118,31 @@
                     </div>
 
                 </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
                 <div class="row">
                     
-                    <ol>
-                        <li>“Excel Registration Sample” Downloaded from ShuleSoft system</li>
+                       <p>“Excel Registration Sample” Downloaded from ShuleSoft system</p> 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add15.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
                 <div class="row">
                     <p>Browse your existing file now by click on “Browse” and upload it to ShuleSoft system, after editing and save it in your document files</p>
-                    <ul>
-                    <li>Click Browse</li>
-                    </ul>
+                    <p>Click Brows</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add16.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="row">
-        <div class="col-md-12 col-sm-12 col-lg-12">
-            <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Choose your Excel file and Click “Open”</li>
+                        <p>Choose your Excel file and Click “Open”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add17.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
+
                 <div class="row">
                     <p>After successful upload of excel file, then Click on “Submit”</p>
                     <div class="col-sm-8">
