@@ -8,17 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW STAFF</h3>
                 <div class="row">
-                    <p>In ShuleSoft system you can view all staffs registered in to the system after Login and do the following procedures:</p>
-
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                <p>The following are the steps to view a staff(s):</p>
+                   
+                        <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones:phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -32,20 +31,20 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click: Users then,Staff</p>
+                    <p>Click on “Staff”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/staff/staff_view4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                    </div>
+
+                    <p>For mobile phones:phones Click on "Users" then "Staff"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>Then Click on “Staff”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_view4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -55,17 +54,16 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>Now from the table you can view a list of all non-teaching staffs, and the following ways can be applied to view more details:</li>
-                        <li>View a Single Staff profile with full of information, steps below are involved</li>
-                        <li>Click on “View” from the table as shown below</li>
+                   
+                <p>A list of staffs will be seen, click on “View” from the table to view a staff's Information</p>
+                        <p>To view a single staff's profile, Click on “View” on the respective staff</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -79,15 +77,15 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>Then Staff’s single profile with full of information will be seen</li>
+                   
+                        <p>Staff’s profile will appear with all information</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -100,17 +98,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>View many Staff Information from different approach such as follows</p>
-                    <ul>
-                        <li>View by PDF</li>
-                        <li>Click on PDF as shown below</li>
+                <p>To view many staffs' details at once, the following methods can be used;</p>
+                       <p>To view by PDF, Click on PDF</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                    <p>View Staff Information as shown below</p>
+                    <p>Sample of PDF that will be displayed</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view10.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -123,16 +119,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                <ul>
-                        <li>View by “Excel”</li>
-                        <li>Click on Excel as shown below</li>
+                
+                <p>To view by Excel, Click on Excel</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                    <p>Then View the Staff’s information in this sample format</p>
+                    <p>Sample of Excel format that will be displayed</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view12.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -145,16 +140,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>View by CSV</li>
-                        <li>Click on CSV as shown below</li>
+                    
+                <p>View by CSV, Click on CSV</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view13.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                    <p>Then View the Staff’s information in this sample format</p>
+                    <p>Sample of CSV format that will be displayed</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view14.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -167,16 +161,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>View by “Bulk Export”</li>
-                        <li>Click on “Bulk Export” as shown below</li>
+                    
+                <p>To view and export in bulk, Click on “Bulk Export”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view15.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                    <p>Then View the Staff’s information in this sample format</p>
+                    <p>Bulk Export sample that will be displayed</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view16.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -189,12 +182,12 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>You can print the Staff’s Information by click on “Print” and view it in hardcopy</li>
+                    
+                        <p>You can get a hard copy the staff’s Information by clicking on “Print”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view17.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
             </div>
         </div>
@@ -204,16 +197,16 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>NB:</p>
-                    <ul>
-                        <li>Click Next to view the next list from the table</li>
+                    <p></p>
+                    
+                        <p>NB: Click "Next" to view the next list</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view18.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                    <p>Click Previous to view the list behind from the table</p>
+                    <p>Click "Previous" to view the previous list</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_view19.png') ?>" width="80%" height="80%"/>
                     </div>

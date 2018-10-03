@@ -27,29 +27,30 @@
 
                 </div>
 
-                <div class="row">
-                    <p>For mobile phones:Click on "Users" then "Students"</p>
-
-                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="80%" height="80%"/>
-                        </div>
-                </div>
-
                 <p><b>STEP 2:</b> Click on “Student”</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_aved4.png') ?>" width="80%" height="80%"/>
                     </div>
                 </div>
-           
+                
+                <div class="row">
+                    <p>For mobile phones: Click on "Users" then "Students"</p>
+                
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="80%" height="80%"/>
+                        </div>
+                </div>
+
                 <div class="row">
                         <p><b>STEP 3:</b> Click on “Add student(s)”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add5.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
+
                 <div class="row">
-                    <p>For mobile phones</p>
+                    <p>For mobile phones: Click on “Add student(s)”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -57,9 +58,8 @@
                 </div>
            
                 <div class="row">
-                       <p><b>STEP 4:</b> You are now in the registration section, you can register a student(s) in two ways:
-                        <p>By manually entering the student's information</p>
-                    </p>
+                       <p><b>STEP 4:</b> You are now in the registration section, you can register a student(s) in two ways: </p>
+                        <p>i. By manually entering the student's information</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add7.png') ?>" width="80%" height="80%"/>
                         </div>
@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="row">
-                       <p><b>STEP 4.1:</b> Fill in the student's parent information and fill in previous academic reports of the student (if available and/or required by the school)</p>
+                       <p>Fill in the student's parent information and fill in previous academic reports of the student (if available and/or required by the school)</p>
                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add9.png') ?>" width="80%" height="80%"/>
@@ -88,7 +88,7 @@
 
                 <div class="row">
                 
-               <p><b>STEP 4.2:</b> Click on "Submit" to complete the registration</p>
+               <p>Click on "Submit" to complete the registration</p>
                 <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add11.png') ?>" width="80%" height="80%"/>
                         </div>
@@ -102,7 +102,7 @@
                 </div>
 
                 <div class="row">
-                   <li><p>Excel Registration, this method is used to register many students at once</p></li>
+                   <p>ii. Excel Registration, this method is used to register many students at once</p>
                    <p>Tip: This method is most effective when the students' excel has data already</p> 
                    <p>Click on “Excel Registration”</p>
                    <div class="col-sm-8">
@@ -112,7 +112,7 @@
                 </div>
 
                 <div class="row">
-                    <p>Now you can download Excel Registration sample file, and use it (by editing) for entering the student information required for registration and save it in your documents. But if you have existing Excel Registration file in your system you can skip this step and jump to “browse stage”</p>
+                    <p>You can download the Excel registration sample file and use it to enter the student information required and save it in your documents.</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add14.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -121,14 +121,13 @@
 
                 <div class="row">
                     
-                       <p>“Excel Registration Sample” Downloaded from ShuleSoft system</p> 
+                       <p>“Excel Registration Sample” downloaded from ShuleSoft system</p> 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add15.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
                 <div class="row">
-                    <p>Browse your existing file now by click on “Browse” and upload it to ShuleSoft system, after editing and save it in your document files</p>
-                    <p>Click Brows</p>
+                <p>If you already have an existing Excel registration file in your system, Click on “browse”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add16.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -137,17 +136,17 @@
 
                 <div class="row">
 
-                        <p>Choose your Excel file and Click “Open”</p>
+                        <p>Choose your Excel file and click “Open”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_add17.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
 
                 <div class="row">
-                    <p>After successful upload of excel file, then Click on “Submit”</p>
+                    <p>After successfully uploading the excel file, click on “Submit”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add18.png') ?>" width="80%" height="80%"/>
-                        <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>
             </div>
