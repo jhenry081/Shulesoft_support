@@ -8,16 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DELETE A SECTION</h3>
                 <div class="row">
-                    <p>To Edit Section that have been already defined to the System you have to Login to the System and follow steps below:</p>
-                    <ol>
-                        <li>1.	On Sidebar Click Section</li>
+                <p>The following are the steps to delete a section(s):</p>
+                   
+                        <p>On the Sidebar, select "Section"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/section/section_delete1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/section/section_delete2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -31,35 +31,35 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Then Click Section</p>
+                    <p>Click "Section"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/section/section_delete3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>Then select Class Level and Class</li>
+               
+                <p>Select class Level and class</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/section/section_delete4.png') ?>" width="80%" height="80%"/>
                     </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/section/section_delete5.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div><div class="row">
-                    <p>The List of Section will be seen and Click on Delete</p>
+                    <p>Click "Delete" on respective section</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/section/section_delete6.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/section/section_delete7.png') ?>" width="80%" height="80%"/>

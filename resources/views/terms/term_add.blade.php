@@ -7,24 +7,23 @@
          <div class="white-box">
             <h3 class="box-title">HOW TO ADD TERM</h3>
                 <div class="row"> 
-                   <p>ShuleSoft helps schools organize their academic years in more systematic way. See below on steps to add terms in shulesoft.</p>
-                   <p>On sidebar click on Terms</p>
-                   <ul>
+                <p>The following are the steps to create/add a term(s):</p>
+                   <p>On the Sidebar, select "Terms"</p>
                       <div class="col-sm-8">
                       <img src="<?= url('public/images/term/term_add1.png') ?>" width="80%" height="80%"/>
                       </div>
-                    </ul>
+                    
                 </div>
 
                 <div class="row"> 
-                <p>For mobile:</p>
+                <p>For mobile phones: Press on menu</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_add2.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row">
-                <p>Click on Term</p>
+                <p>For mobile phones: Click on "Terms"</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_add3.png') ?>" width="80%" height="80%"/>
                      </div>
@@ -38,34 +37,33 @@
                 </div>
 
                 <div class="row"> 
-                  <p>For mobile:</p>
+                  <p>For mobile phones: Click on “+Add Term”</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_add5.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
                 
                 <div class="row"> 
-                <p>Fill the required details and click on “Add Term”</p>
+                <p> Click on “Add Term”</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_add6.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
-                <p>For mobile:</p>
+                <p>For mobile phones: Fill in the required details</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_add7.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
-                <p>Fill in the required details and click add term</p>
+                <p>For mobile phones: Click add term to complete the process</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_add8.png') ?>" width="80%" height="80%"/>
-                     <p>NOTE: A success notification will pop up on your screen on the side corner, if not repeat the steps above to successfully add terms.</p>
+                     <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                      </div>
                 </div>
-                
          </div>
       </div>
     </div>

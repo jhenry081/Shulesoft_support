@@ -437,8 +437,8 @@
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('terms/term_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Term</span></a> </li> 
                     <li> <a href="<?= url('terms/term_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
-                    <li> <a href="<?= url('terms/term_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
-                    <li> <a href="<?= url('terms/term_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Term</span></a> </li>
+                    <li> <a href="<?= url('terms/term_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit Term</span></a> </li>
+                    <li> <a href="<?= url('terms/term_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete Term</span></a> </li>
                 </ul>
             </li>
             

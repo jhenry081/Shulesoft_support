@@ -7,8 +7,8 @@
          <div class="white-box">
             <h3 class="box-title">HOW TO DELETE TERMS</h3>
                 <div class="row"> 
-                   <p>ShuleSoft helps schools organize their academic years in more systematic way. See below on steps to delete terms in shulesoft.</p>
-                   <p>On sidebar click on Terms</p>
+                <p>The following are the steps to delete a term(s):</p>
+                <p>On the Sidebar, select "Terms"</p>
                    <ul>
                       <div class="col-sm-8">
                       <img src="<?= url('public/images/term/term_delete1.png') ?>" width="80%" height="80%"/>
@@ -17,28 +17,28 @@
                 </div>
 
                 <div class="row"> 
-                <p>For mobile:</p>
+                <p>For mobile phones: Press on menu</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete2.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row">
-                <p>Click on Term</p>
+                <p>For mobile phones: Click on "Terms"</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete3.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
-                <p>Select  in the required fields</p>
+                <p>Select class and class level</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete4.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
-                  <p>For mobile:</p>
+                  <p> For mobile phones:</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete5.png') ?>" width="80%" height="80%"/>
                      </div>
@@ -52,17 +52,17 @@
                 </div>
 
                 <div class="row"> 
-                <p>Select the required Term to delete and click on “Delete” as below</p>
+                <p>Click “Delete” on the respective terms</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete7.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
-                <p>For mobile:</p>
+                <p> For mobile phones:</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete8.png') ?>" width="80%" height="80%"/>
-                     <p>NOTE: A success notification will pop up on your screen on the side corner, if not repeat the steps above to successfully delete terms.</p>
+                     <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                      </div>
                 </div>
                 
