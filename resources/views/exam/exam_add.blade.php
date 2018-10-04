@@ -8,23 +8,22 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DEFINE EXAM</h3>
                 <div class="row">
-                    <p>In shuleSoft System you can define Students Exams to be done, so you have to Login to the system and follow the procedures below:</p>
-                    <p>Note: - Make sure you have already defined class level and class in to the system</p>
-
-                    <ol>
-                        <li>On Sidebar Select “Exam”</li>
+                <p><b>Important Note: Before creating/defining a new exam(s), you should have already created/defined the classes and class levels.</b></p>
+                    <p>The following are the steps to define a new exam(s):</p>
+                    
+                        <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/definition/1.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <ol>
-                        <p>• For Mobile Press Menu First</p>
+                    
+                        <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/definition/2.png') ?>" width="40%" height="50%"/>
                     </div>
-</ol>
+
                 </div>
             </div>
         </div>
@@ -34,7 +33,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ol>
+                    
                     <p>	(i)Click:Exam then,<br>
                 (ii)Exam Definition</p>
 
@@ -42,15 +41,15 @@
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/definition/3.png') ?>" width="40%" height="50%"/>
                         </div>
-                    </ol>
+                   
                 </div>
-                <ol>
-                <p>Then Click on “Exam Definition” </p>
+                
+                <p>Click on “Exam Definition”</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/definition/4.png') ?>" width="120%" height="90%"/>
                     </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>
@@ -61,20 +60,20 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <p>Then Click on “Add Exam”</p>
+                    
+                        <p>Click on “Add Exam”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/definition/5.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <ol>
-                    <p>• For Mobile </p>
+                    
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/definition/6.png') ?>" width="40%" height="50%"/>
                     </div>
-</ol>
+
                 </div>
             </div>
         </div>
@@ -84,21 +83,21 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <p>Then Fill all the fields, by entering the information required for Exam Definition</p>
+                    
+                        <p>You can now enter information required for Exam Definition</p>
                         
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/definition/7.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <ol>
-                    <p>• For Mobile </p>
+                    
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/definition/8.png') ?>" width="40%" height="50%"/>
                     </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>
@@ -108,20 +107,20 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <p>Then Click on “Add Exam” to save the details to the system</p>
+                    
+                        <p>Click on “Add Exam” to save the details to the system</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/definition/9.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ul>
+                    
                 </div>
                 <div class="row">
-                    <ol>
-                    <p>For Mobile </p>
+                    
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/definition/10.png') ?>" width="40%" height="50%"/>
                     </div>
-</ol>
+
                 </div>
             </div>
         </div>
@@ -131,13 +130,9 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                
-                    <ol>
-                        <p>NB: If the all procedure is done well and all text fields is full of required information,<br> the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         
-                    </ol>
                 </div>
-               
             </div>
         </div>
     </div>
