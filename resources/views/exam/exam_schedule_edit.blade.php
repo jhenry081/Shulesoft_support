@@ -8,23 +8,23 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO EDIT EXAM SCHEDULE</h3>
                 <div class="row">
-                    <p>To edit Exam Schedule that has already defined in the System, you have to Login to the System and perform the following procedures:</p>
+                <p>The following are the steps to edit exam schedules:</p>
                     
 
-                    <ol>
-                        <p>1.On Sidebar Select “Exam”</p>
+                    
+                    <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam schedule/edit/1.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <ol>
-                    <p>• For Mobile Press Menu First</p>
+                    
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam  schedule/edit/2.png') ?>" width="40%" height="50%"/>
                     </div>
-</ol>
+
                 </div>
             </div>
         </div>
@@ -42,13 +42,13 @@
                             <img src="<?= url('public/images/exam/exam schedule/edit/3.png') ?>" width="40%" height="50%"/>
                         </div>
                 </div>
-                <ol>
-                <p>Then Click on Schedule</p>
+                
+                <p>Click on "schedule"</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam schedule/edit/4.png') ?>" width="120%" height="90%"/>
                     </div>
-                    </ol>
+                    
                 </div>
             </div>
         </div>
@@ -59,20 +59,20 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <p>Select Class </p>
+                    
+                        <p>Select class</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam schedule/edit/5.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                  <ol>
-                    <p>• For Mobile </p>
+                  
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam schedule/edit/6.png') ?>" width="40%" height="50%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -82,21 +82,21 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <p>Then the list of Exam Schedule will be seen in the table and Click on Edit</p>
+                    
+                        <p>Click on "Edit" on the respective exam schedule</p>
                         
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam schedule/edit/7.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile </p>
+                     
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam schedule/edit/8.png') ?>" width="40%" height="50%"/>
                     </div>
-                     </ol>
+                     
                 </div>
             </div>
         </div>
@@ -106,20 +106,20 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>Enter new Exam Schedule information in the fields by click and typing on the field you want to edit or to update</li>
+                    
+                        <p>Enter the information required</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/edit/9.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ul>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile </p>
+                     
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/edit/10.png') ?>" width="40%" height="50%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -129,20 +129,20 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>Then Click on Update Exam to save the changes</li>
+                    
+                        <p>Click on "Update Exam" to save the changes</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam schedule/edit/9.png') ?>" width="120%" height="90%"/>
                         </div>
-                    </ul>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile </p>
+                     
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/schedule/edit/10.png') ?>" width="40%" height="50%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -153,10 +153,10 @@
             <div class="white-box">
                 <div class="row">
                 
-                    <ol>
-                        <p>NB: If the all procedure is done well and all text fields is full of required information,<br> the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                    
+                    <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         
-                    </ol>
+                    
                 </div>
                
             </div>

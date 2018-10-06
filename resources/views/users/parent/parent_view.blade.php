@@ -8,16 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW A PARENT</h3>
                 <div class="row">
-                    <p>To view a parent profile in ShuleSoft System, you have to login to the system and do the following steps:</p>
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                <p>The following are the steps to edit a parent(s):</p>
+                    
+                    <p> On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -31,20 +31,21 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click: Users then,Parents</p>
+                <p>Click on “Parent”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/parent/parent_view4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                       
+                    </div>
+
+                     <p>For mobile phones: Click on "Users" then, "Parents"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_view3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>2.	Then Click on “Parents”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_view4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -54,15 +55,15 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>Click on down arrow before to view classes as shown below</li>
+                    
+                <p>Click on down arrow to view a list of classes</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_view5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones: </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -76,16 +77,15 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>Now select a class or you can select All to view all parents registered to the system</li>
+                    
+                <p>You can select a class or select "All" to view all parents registered in the system</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_view7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>Now you can view parent profile in the following types</p>
-                    <ol><li></li>View a single parent profile with full of information such as, payments, students attached to the parent and other important details, procedures to view are as follows</li><li>Click on “View” from the table as shown below</li></ol>
+                <p>A list of parents will be seen, click on “View” from the table to view a parent's Information</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -99,14 +99,14 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <li>For Mobile</li>
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_view9.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
-                    <p>The selected parent profile will be seen with full of parent details</p>
+                    <p>The selected parent profile will be seen with full details</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view10.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -121,16 +121,16 @@
             <div class="white-box">
                 <div class="row">
                 
-                    <ol>
-                        <li>For Mobile</li>
+                    
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_view11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>To view a list of parents registered to the system, they can be seen by the following types</p>
-                    <ol><li>View by PDF </li><li>From the table Click on PDF</li></ol>
+                    <p>There are various formats of viewing parent details which are:</p>
+                    <p>i. Viewing by PDF, Click on "PDF"</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view12.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -145,28 +145,28 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>Sample Format of PDF</li>
+                    
+                        <p>Sample Format of PDF</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_view13.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>
     </div>
 
 <div class="row">
-                    <ol><li>View by Excel</li>
-                    <li>Click on Excel as seen below</li>
-                    </ol>
+                    <p>Viewing by Excel,Click on "Excel"</p>
+                    
+                   
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view14.png') ?>" width="80%" height="80%"/>
                     </div>
                 </div>
 
                 <div class="row">
-                    <p>Sample format of Excel </p>
+                    <p>Sample format of Excel</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view15.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -174,9 +174,9 @@
                 </div>
 
                 <div class="row">
-                    <ol><li>View by CSV</li>
-                    <li>Click on CSV as shown below</li>
-                    </ol>
+                    <p>Viewing by CSV, Click on "CSV"</p>
+                   
+                   
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view16.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -192,15 +192,15 @@
                 </div>
 
                 <div class="row">
-                    <p>You can Print a Hard Cop by Clicking on “Print” as shown below</p>
+                    <p>You can Print a Hard Copy by Clicking on “Print”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view18.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
                 <div class="row">
-                    <p>NB:</p>
-                    <ol><li>Click Next to view the next list from the table</li></ol>
+                    <p></p>
+                    <p>NB: Click "Next" to view the next list</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view19.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -208,7 +208,7 @@
                 </div>
 
                 <div class="row">
-                    <p>Click Previous to view the list behind from the table</p>
+                    <p>Click "Previous" to view the previous list</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_view20.png') ?>" width="80%" height="80%"/>
                     </div>

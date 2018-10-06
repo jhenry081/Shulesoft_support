@@ -8,17 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO EDIT A TEACHER</h3>
                 <div class="row">
-                    <p>In ShuleSoft System if you want to edit/Update teacher’s information, you have to Login to the System and proceed with steps below:</p>
-
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                <p>The following are the steps to edit a teacher(s):</p>
+                   
+                <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -32,20 +31,21 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click: Users then,teachers</p>
+                <p>Click on “Teachers”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/teacher/teacher_edit4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                        
+                    </div>
+                    
+                    <p>Click on "Users" then "Teachers"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>2.	Then Click on “teachers”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
-                </div>
+               
             </div>
         </div>
     </div>
@@ -54,14 +54,13 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                   <p>Now you can edit Teacher’s information by the following ways:</p>
-                    <ol>
-                        <li>Single profile Editing, Steps involved is as follows</li>
-                        <li>Click on “Edit” from the table</li>
+                <p>You can edit a teacher(s) by using the following ways:</p>
+                   
+                        <p>i. To edit a single teacher, Click on “Edit”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
             </div>
         </div>
@@ -70,7 +69,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones: Click on “Edit”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -84,14 +83,14 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <li>Enter new teacher information in the fields by click and typing on the field you want to edit or to update </li>
+                        <p>You can now edit the information as required</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit7.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones: </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -106,15 +105,15 @@
             <div class="white-box">
                 <div class="row">
                 
-                    <ol>
-                        <li>Then Click on “Update Teacher” to save the changes</li>
+                   
+                        <p>Click on “Update Teacher” to save the changes</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit10.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -130,16 +129,16 @@
             <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Bulk Editing, involves the following steps </li>
-                        <li>Click on “Bulk Edit”</li>
+                   
+                        <p>ii. To edit many teachers, click on "Bulk Edit" </p>
+                   
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit12.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -154,19 +153,19 @@
             <div class="white-box">
                 <div class="row">
                     
-                    <ol>
-                        <li>Enter new teacher information in the fields by click and typing on the field you want to edit or to update </li>
+                   
+                        <p>You can now edit the information as required</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit13.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 
                 <div class="row">
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit14.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -180,15 +179,15 @@
             <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Then click on update to save the changes </li>
+                   
+                        <p>Click on "Update" to save the changes</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit15.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit16.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -203,16 +202,16 @@
             <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Edit by uploading Excel File, Steps below are involved</li>
-                        <li>Click on “Update by Excel”</li>
+                   
+                        <p>iii. To edit by uploading Excel File, Click on “Update by Excel”</p>
+                       
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit17.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>Click on “Browse” to view your document files</p>
+                    <p>Click on “Browse”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit18.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -226,18 +225,18 @@
             <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Choose your Excel File and Click Open to upload it to the system</li>
+                   
+                        <p>Choose your Excel File and Click Open to upload it to the system</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_edit19.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>Then Click on “Submit” to upload the changes to the system</p>
+                    <p>Click on “Submit” to complete the process</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit20.png') ?>" width="80%" height="80%"/>
-                    <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>
             </div>

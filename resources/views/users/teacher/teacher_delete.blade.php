@@ -8,17 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DELETE A TEACHER</h3>
                 <div class="row">
-                    <p>After Login to ShuleSoft System, you can delete or remove Teacher’s profile by following the steps below:</p>
-
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                <p>The following are the steps to delete a teacher(s):</p>
+                    
+                <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -32,20 +31,21 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click: Users then,teachers</p>
+                <p>Click on “Teachers”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/teacher/teacher_delete4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                        
+                    </div>
+
+                     <p>Click on "Users" then "Teachers"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_delete3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>2.	Then Click on “teachers”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -54,7 +54,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>3.	Click “Delete” from the table as shown below</p>
+                    <p>Click “Delete” on the respective teachers' profile</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_delete5.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -67,7 +67,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones: </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_delete6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -81,14 +81,14 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <li>4.	Select the reason for deleting Teacher’s profile i.e. “Transferred”</li>
+                        <p>Select the reason for deleting Teacher’s profile example; “Transferred”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_delete7.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_delete8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -103,18 +103,18 @@
             <div class="white-box">
                 <div class="row">
                 
-                    <ol>
-                        <li>5.	Click on “Submit Change” to save the changes</li>
+                    
+                        <p>Click on “Submit Change” to save the changes</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_delete9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_delete10.png') ?>" width="80%" height="80%"/>
-                   <p>Note: “Successfully removed from the list” Notification will appear on the top at the right corner of the system when the process is completely done.</p>
+                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                    </div>
 
                 </div>

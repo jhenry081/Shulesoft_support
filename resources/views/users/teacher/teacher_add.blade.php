@@ -8,17 +8,17 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ADD A TEACHER</h3>
                 <div class="row">
-                    <p>In ShuleSoft System if you want to register a new Teacher to the system you have to Login first in to the system and do the following steps:</p>
+                <p>The following are the steps to create/add a teacher(s):</p>
 
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                  
+                        <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -32,19 +32,17 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click: Users then,teachers</p>
+                    <p>Click on “Teachers”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/teacher/teacher_add4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                    </div>
 
+                    <p>Click on "Users" then "Teachers"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add3.png') ?>" width="80%" height="80%"/>
                         </div>
-                </div>
-                <ol>
-                <li>2.	Then Click on “teachers”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_add4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
                 </div>
             </div>
         </div>
@@ -55,15 +53,15 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>3.	Then Click on “Add teacher(s)”</li>
+                  
+                        <p>Click on “Add teacher(s)”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_add6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -76,20 +74,16 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                  
-                    <ol>
-                        <li>4.	Now you can register a new teacher in different ways such as follows:</li>
-                        <ul>
-                        <li>Register a Single Teacher to the system, following steps are involved</li>
-                        <li>After Clicking “Add Teacher(s)” then Fill all the fields </li>
-                        </ul>
+                        <p>You are now in the registration section, you can register a teacher(s) in two ways:</p>
+                        <p>i. By manually entering the teacher's information</p>
+                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_add8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -102,15 +96,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>Then Click on “Add Teacher” To Complete the Registration</li>
+                    
+                        <p>Click on “Add Teacher” to submit the information</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones: </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_add10.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -124,17 +118,16 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                
-                    <ol>
-                        <li>Register many Teachers at once by using Excel, the following steps are involved:</li>
-                        <li>After Clicking “Add Teachers(s)” from Step 3 above, On the right side you will see this option, so if you don’t have an excel format for registration you can download it by clicking download icon (As shown below), but if you already have the sample you can skip this step</li>
+                   <p>Tip: This method is most effective when the teachers' excel has data already</p>
+                        <p>On the right side of the teachers' information fields, there is an excel sample registration file you can download incase you don't have an excel file already</p>
+                        <p>After Downloading the sample, edit all the information required and save it in your documents</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>After Downloading the sample, use it to write all teachers information required for registration, and save it in your documents, the following picture is showing the excel sample format</p>
+                    <p>Excel sample format</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_add12.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -150,15 +143,15 @@
             <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Upload your Excel file to the system by click on “Browse”</li>
+                  
+                        <p>Click on “Browse”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add13.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>Choose your file from your documents and click open to upload it to the system</p>
+                    <p>Choose the respective file from your documents and Click open to upload it to the system</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_add14.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -173,13 +166,13 @@
             <div class="white-box">
                 <div class="row">
                     
-                    <ol>
-                        <li>•	Click Submit to complete the registration from your Excel file you have uploaded to the System</li>
+                  
+                        <p>Click on "Submit" to complete the registration</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/teacher/teacher_add15.png') ?>" width="80%" height="80%"/>
-                            <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                            <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
-                    </ol>
+                   
                 </div>
             </div>   
          </div>   

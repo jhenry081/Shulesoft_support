@@ -8,17 +8,18 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ADD STAFF</h3>
                 <div class="row">
-                    <p>To create a profile of a non-Teaching staff in ShuleSoft System, you have to Login to the system and do the following procedures:</p>
+                <p>The following are the steps to create/add a staff(s):</p>
 
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                   
+                        <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
+
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -32,19 +33,18 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>	Click: Users then,Staff</p>
+                <p>Click on “Staff”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/staff/staff_add4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                    </div>
+
+                    <p>For mobile phones Click on "Users" then "Staff"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add3.png') ?>" width="80%" height="80%"/>
                         </div>
-                </div>
-                <ol>
-                <li>2.	Then Click on “Staff”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_add4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
                 </div>
             </div>
         </div>
@@ -55,15 +55,14 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>3.	Then Click on “Add staff”</li>
+                        <p>Click on “Add staff”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_add6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -77,19 +76,15 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>Now you can start registration of a staff by the following ways:</li>
-                        <ul>
-                        <li>Register a single Staff by the following process</li>
-                        <li>Fill the fields (by entering staff information required for registration) appeared after clicking “Add a staff”</li>
-                        </ul>
+                        <p>You are now in the registration section, you can register a staff(s) in two ways:</p>
+                        <p>i. By manually entering the staff's information</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_add8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -102,15 +97,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>Then Click on “Add User”</li>
+                
+                        <p>Click on “Add User”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_add10.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -124,17 +119,16 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                
-                    <ol>
-                        <li>Register many staff at once by Excel, steps are as follows</li>
-                        <li>On the right side you will see this option after clicking “Add a staff” from step 3, then click on “Download sample here” as shown below to get an Excel sample file from the system</li>
+                <p>Tip: This method is most effective when the staffs' excel has data already</p>
+                        <p>On the right side of the staffs' information fields, there is an excel sample registration file you can download incase you don't have an excel file already</p>
+                        <p>After Downloading the sample, edit all the information required and save it in your documents</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>After Downloading the sample use it to enter all staff information required for registration and save it in your documents file, picture below showing sample format of an excel file from the system for staff registration</p>
+                    <p>Excel sample format</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_add12.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -149,15 +143,15 @@
             <div class="white-box">
                 <div class="row">
 
-                    <ol>
-                        <li>Now browse your Excel file from the documents file by click on “Browse...”</li>
+                   
+                        <p>Click on “Browse”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add13.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>Select your file and click open to upload it to the System</p>
+                    <p>Choose the respective file from your documents and Click open to upload it to the system</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_add14.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -172,13 +166,13 @@
             <div class="white-box">
                 <div class="row">
                     
-                    <ol>
-                        <li>Then Click on Submit to complete registration of the new staffs to the system</li>
+                   
+                        <p>Then Click on Submit to complete registration</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add15.png') ?>" width="80%" height="80%"/>
-                        <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                            <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>

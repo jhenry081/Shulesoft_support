@@ -8,23 +8,23 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW EXAM</h3>
                 <div class="row">
-                    <p>To view Exams that has already defined to ShuleSoft System, you have to Login to the System and do the following procedure:</p>
+                <p>The following are the steps to view a new exam(s):</p>
                     
 
-                    <ol>
-                        <p>1.On Sidebar Select “Exam”</p>
+                    
+                    <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile Press Menu First</p>
+                     
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/2.png') ?>" width="40%" height="60%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                     <ol>
+                     
                     <p>(i)Click:Exam then,<br>
                  (ii)Exam Definition</p>
 
@@ -42,15 +42,15 @@
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/3.png') ?>" width="40%" height="60%"/>
                         </div>
-                     </ol>
+                     
                 </div>
-                <ol>
-                <p>Then Click on “Exam Definition” </p>
+                
+                <p>Click on “Exam Definition”</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/4.png') ?>" width="130%" height="100%"/>
                     </div>
-                    </ol>
+                    
                 </div>
             </div>
         </div>
@@ -61,20 +61,20 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <p>Select Class and Year from the fields</p>
+                    
+                <p>Select class and academic year</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/5.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile </p>
+                     
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/6.png') ?>" width="40%" height="60%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -84,21 +84,21 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <p>The list of Exams defined to the System will be seen in the table as shown below</p>
+                    
+                        <p>A list of exams defined will be seen, click on “View” from the table to view exam Information </p>
                         
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/7.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile </p>
+                     
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/8.png') ?>" width="40%" height="60%"/>
                     </div>
-                     </ol>
+                     
                 </div>
             </div>
         </div>
@@ -108,24 +108,22 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>Also, you can use the following ways to view this information</li>
+                   
+                        <p>You can also use the following ways to view this information:</p>
 
-                        <li> By using PDF, steps below are involved</li>
-	                          <li> Click on PDF as shown below</li>
-
+                       <p>To view by PDF, Click on “PDF”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/9.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• Sample pdf will be seen</p>
+                     
+                <p>PDF sample displayed</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/10.png') ?>" width="130%" height="100%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -135,23 +133,20 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>ii.	View by Excel, steps below are involved </li>
-
-	                           <li> Click on Excel</li>
-
+                   
+                <p>To view by Excel, Click on “Excel”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/11.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>Excel sample format will be seen as shown below</p>
+                     
+                <p>Excel sample format</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/12.png') ?>" width="130%" height="100%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -161,24 +156,21 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>View by CSV
-</li>
-
-<li>Click on CSV as shown below</li>
+                   
+                <p>To view by CSV, Click on “CSV”</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/13.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>•The CSV sample format will be seen </p>
+                     
+                <p>CSV Sample format</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam/view/14.png') ?>" width="130%" height="100%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -187,15 +179,13 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>You can print a Hard Copy by clicking on Print as shown below</li>
-
-	                       
-
+                   
+                <p>You can Print a Hard Copy by Clicking on “Print”</p>
+	                    
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/15.png') ?>" width="130%" height="100%"/>
+                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
-                    </ul>
                 </div>
                
             </div>

@@ -8,16 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ADD A PARENT</h3>
                 <div class="row">
-                    <p>In ShuleSoft system parent can be created by Administrator of the system in the institution, so for the admin to create a new parent profile, firstly he/she have to Login to the system and perform the following procedures:</p>
-                    <ol>
-                        <li>1.	On the Sidebar select “Users”</li>
+                <p>The following are the steps to create/add a parent(s):</p>
+                    
+                    <p> On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -31,20 +31,21 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click: Users then,Parents</p>
+                    <p>Click on “Parent”</p>
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <img src="<?= url('public/images/users/parent/parent_add4.png') ?>" width="80%" height="80%"/>
+                        </div>
+                        
+                    </div>
+
+                    <p>For mobile phones: Click on "Users" then, "Parents"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>2.	Then Click on “Parent”</li>
-                <div class="row">
-                    <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add4.png') ?>" width="80%" height="80%"/>
-                    </div>
-                    </ol>
-                </div>
+                
             </div>
         </div>
     </div>
@@ -54,15 +55,15 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>3.	Then Click on “Add parent”</li>
+                    
+                       <p>Then Click on “Add parent”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_add6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -76,19 +77,16 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>4.	Now you are in Registration field, you can do parent registration in the following ways:</li>
-                        <ul>
-                        <li>Register single parent: </li>
-                        <li>By entering the required parent information in the text fields</li>
-                        </ul>
+                    
+                <p>You are now in the registration section, you can register parent in the following ways:</p>
+                        <p>i. For a single parent: By manually entering the parent's information</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
+
                 <div class="row">
-                    <p>For Mobile, scroll down to enter more details</p>
+                    <p>For mobile phones, scroll down to enter more details</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_add8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -101,15 +99,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>Then Click on “Upload Parent(s)”</li>
+                    
+                        <p>Click on “Upload Parent(s)”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add9.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ul>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_add10.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -124,20 +122,17 @@
             <div class="white-box">
                 <div class="row">
                 
-                    <ol>
-                        <li>You can Register Many Parents by using Excel Document</li>
-                        <li>First Click on “Upload Excel”</li>
+                <p>ii. For a many parents: Click on “Upload Excel”</p>
+                <p>Tip: This method is most effective when the parents' excel has data already</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add11.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
                 </div>
                 <div class="row">
-                    <p>If you don’t have Excel Sample format for registration you can download by clicking a download icon a sample from the ShuleSoft System, but if you have the sample in your document you can skip this step</p>
+                    <p>You can download the Excel registration sample file and use it to enter the parent information required and save it in your documents.</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_add12.png') ?>" width="80%" height="80%"/>
                     </div>
-
                 </div>
             </div>
         </div>
@@ -148,16 +143,14 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                  
-                    <ol>
-                        <li>After downloading and Editing and save the sample file of parent information for registration from the system or if you saved it before, now you have to browse it from your documents by Click on Browse</li>
+                <p>If you already have an existing Excel registration file in your system, Click on “browse”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add13.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>Select your sample file from your document files</p>
+                <p>Choose your Excel file and click “Open”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/parent/parent_add14.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -171,16 +164,15 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    
-                    <ol>
-                        <li>Then Click on “Upload Parent(s)”</li>
+                        <p>Then Click on “Upload Parent(s)”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add15.png') ?>" width="80%" height="80%"/>
-                        <p>Note: If the all procedure is done well and all text fields is full of required information, the success notification will appear on top at the right corner, otherwise repeat all the procedures carefully.</p>
+                            <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
-                    </ol>
                 </div>
-              
+</div>  
+</div>  
+</div>  
 
 </div>
 
