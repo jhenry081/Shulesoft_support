@@ -8,56 +8,56 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DELETE TRANSPORT ROUTE</h3>
                 <div class="row">
-                    <p>In ShuleSoft System you can Delete Transport Route that had already defined after Login to the System and do the procedures below:</p>
+                <p>The following are the steps to delete a transport route(s)</p>
                     
-                    <ol>
-                        <p>1. On Sidebar Select Transport </p>
+                    
+                <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/delete_route/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_route/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_route/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Click on Transport Route, the List of routes will be seen </p>                        
+                    
+                        <p>Click on "Transport Route" and the list of routes will be displayed</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/delete_route/4.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_route/5.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
               
                   <div class="row">
-                    <ol>
-                        <p>3. Then Click on Delete </p>                        
+                    
+                        <p>Click "Delete" on the respective route</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/delete_route/6.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_route/7.png') ?>" width="40%" height="60%"/>
                     </div>

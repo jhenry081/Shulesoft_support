@@ -8,16 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW A CLASS LEVEL</h3>
                 <div class="row">
-                    <p>To view Class Level in Shulesoft System you have to Login and do the steps below:</p>
-                    <ol>
-                        <li>On Sidebar Click on Class Level</li>
+                <p>The following are the steps to view a class level(s):</p>
+                   
+                <p>On the Sidebar, select "Class level"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/classlevel/classlevel_add1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile, Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/classlevel/classlevel_add2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -31,19 +31,19 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Then Click Class Level</p>
+                <p>Click on "Class Level"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/classlevel/classlevel_add3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>Then the List of Class Level will be seen</li>
+               
+               <p>The list of class level will be displayed</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/classlevel/classlevel_add4.png') ?>" width="80%" height="80%"/>
                     </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>
@@ -54,12 +54,12 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>For Mobile</li>
+                   
+                       <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/classlevel/classlevel_add5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>

@@ -8,70 +8,70 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW MARKS</h3>
                 <div class="row">
-                    <p>In ShuleSoft System you can View Marks of the subjects after Login and perform the following steps:</p>
+                <p>The following are the steps to view marks:</p>
                     
 
-                    <ol>
-                        <p>1. On the Sidebar select “Mark”</p>
+                   
+                   <p>On the Sidebar, select "Mark"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/mark/view/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/mark/view/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <p>Then Click Mark</p>
+                    <p>Click on "Mark"</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/mark/view/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Select Class and Academic year</p>
+                   
+                        <p>Select Class and Academic year</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/mark/view/4.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>  
                 
                   <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/mark/view/5.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>3. From the table that showing the list of Exams, click on (View/Add) Marks </p>
+                    <p>Click on (View/Add) on the respective mark(s)</p>
                     <div class="col-sm-8">
                       <img src="<?= url('public/images/mark/view/6.png') ?>" width="130%" height="100%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/mark/view/7.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>4. The table showing names of the students, Subjects and Marks will be seen.</p>
-                    <p>Note: From this table you can Add, Edit and Delete Marks by clicking on the field and perform any of these operations.</p>
+                    <p>A table showing names of the students, Subjects and Marks will be seen.</p>
+                    <p><b>Note: From this table you can Add, Edit and Delete Marks by clicking on the field and perform any of these operations.</b></p>
                     <div class="col-sm-8">
                       <img src="<?= url('public/images/mark/view/8.png') ?>" width="130%" height="100%"/>
                     </div>
                  </div>
                 
                  <div class="row">
-                    <p>For Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/mark/view/9.png') ?>" width="40%" height="60%"/>
                     </div>

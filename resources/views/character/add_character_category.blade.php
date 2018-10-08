@@ -6,57 +6,57 @@
     <div class="row">
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
-                <h3 class="box-title">HOW TO ADD CATEGORY CHARACTERS </h3>
+                <h3 class="box-title">HOW TO ADD CHARACTERS CATEGORY</h3>
                 <div class="row">
-                    <p>ShuleSoft helps schools manage the qualities and behavior of the student through measurement of characteristics .See below steps to add category characters in ShuleSoft.</p>
+                <p>The following are the steps to define character category:</p>
                     
 
-                    <ol>
-                        <p>1. Login into your ShuleSoft account and click on “Character”</p>
+                   
+                   <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/character/add_category/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/add_category/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/add_category/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Click on “Category”</p>
+                   
+                        <p>Click on “Category”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/character/add_category/4.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>  
                 
                   <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/add_category/5.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>3. Click on “+.add_title”</p>
+                    <p>Click on “+.add_title”</p>
                     <div class="col-sm-8">
                       <img src="<?= url('public/images/character/add_category/6.png') ?>" width="130%" height="100%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/add_category/7.png') ?>" width="40%" height="60%"/>
                     </div>
@@ -64,17 +64,17 @@
                 
                 
                  <div class="row">
-                    <p>4. Fill in the required fields and Click on “Position”</p>
+                    <p>Fill in the required fields and Click on “Position”</p>
                     <div class="col-sm-8">
                       <img src="<?= url('public/images/character/add_category/8.png') ?>" width="130%" height="100%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/add_category/9.png') ?>" width="40%" height="60%"/>
-                         <p>NOTE: A success notification will pop up on your screen on the side corner, if not repeat the steps above to successfully add category of characters.</p>
+                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                   </div>
                 

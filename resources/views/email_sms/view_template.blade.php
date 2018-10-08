@@ -8,33 +8,33 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW MAIL/SMS TEMPLATE </h3>
                 <div class="row">
-                    <p>ShuleSoft enables easy communication through email or sms to user’s .See steps below how to View mail or sms template.</p>
+                <p>The following are the steps to view email/sms template:</p>
                     
-                    <ol>
-                        <p>1. Login into your ShuleSoft account and on sidebar select “Email /SMS”</p>
+                    
+                <p>On the Sidebar, select "Email/SMS"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/email_sms/view_template/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/email_sms/view_template/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>                              
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Click on “MAIL/SMS TEMPLATE” </p>                        
+                    
+                <p>Click on “MAIL/SMS TEMPLATE”</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/email_sms/view_template/3.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>    
                 
                   <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/email_sms/view_template/4.png') ?>" width="40%" height="60%"/>
                     </div>
@@ -42,32 +42,32 @@
                             
                   
                   <div class="row">
-                    <ol>
-                        <p>3. Click on” view” in the required template </p>                        
+                    
+                        <p>Click on” view” in the respective template</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/email_sms/view_template/5.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/email_sms/view_template/6.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>                
                 
                    <div class="row">
-                    <ol>
-                        <p>4. You can View the required template </p>                        
+                    
+                        <p>You can View the required template </p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/email_sms/view_template/7.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/email_sms/view_template/8.png') ?>" width="40%" height="60%"/>
                     </div>
