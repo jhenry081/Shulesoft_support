@@ -8,16 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ADD BENCHMARK</h3>
                 <div class="row">
-                    <p>To add benchmark in ShuleSoft system first, Login to the system and do the following procedures:</p>
-                    <ol>
-                        <li>On side bar select “Subject”</li>
+                <p>The following are the steps to create/add a student(s):</p>
+                   
+                        <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/benchmark/benchmark_add1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                     
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/subject/benchmark/benchmark_add2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -31,14 +31,14 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>Click on Subject</p>
+                    <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/benchmark/benchmark_add3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>Then Click on Syllabus</li>
+               
+                <p>Click on "Syllabus"</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/subject/benchmark/benchmark_add4.png') ?>" width="80%" height="80%"/>
@@ -54,8 +54,8 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>For mobile:</li>
+                   
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/benchmark/benchmark_add5.png') ?>" width="80%" height="80%"/>
                         </div>
@@ -76,15 +76,15 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>For mobile:</li>
+                   
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/benchmark/benchmark_add7.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ol>
                 </div>
                 <div class="row">
-                    <p>Click on “Add Syllabus benchmark “	</p>
+                    <p>Click on "Add Syllabus benchmark"</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/subject/benchmark/benchmark_add8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -98,25 +98,25 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <li>For mobile:</li>
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/benchmark/benchmark_add9.png') ?>" width="80%" height="80%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
-                    <p>You have to fill all the fields as required and click "Add benchmark"</p>
+                    <p>Fill all the fields and click "Add benchmark"</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/subject/benchmark/benchmark_add10.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
                 <div class="row">
-                    <ol>
-                        <li>For mobile:</li>
+                   
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/benchmark/benchmark_add11.png') ?>" width="80%" height="80%"/>
-                        <p>NOTE: A success notification will pop up on your screen on the side corner, if not repeat the steps above to successfully create benchmark.</p>
+                            <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                     </ol>
                 </div>

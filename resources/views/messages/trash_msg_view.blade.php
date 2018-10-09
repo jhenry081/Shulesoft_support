@@ -7,24 +7,24 @@
          <div class="white-box">
             <h3 class="box-title">HOW TO VIEW TRASH MESSAGES</h3>
                 <div class="row"> 
-                   <p>ShuleSoft enables easy communication through messages to user’s .See steps below how to view deleted messages(trash).</p>
-                   <p>On sidebar click on Messages</p>
-                   <ul>
+                <p>The following are the steps to view a trash message(s):</p>
+                <p>On the Sidebar, select "Messages"</p>
+                   
                       <div class="col-sm-8">
                       <img src="<?= url('public/images/message/trash_msg_view1.png') ?>" width="80%" height="80%"/>
                       </div>
-                    </ul>
+                    
                 </div>
 
                 <div class="row">
-                <p>For mobile:</p>
+                <p>For mobile phones: Press on menu</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/trash_msg_view2.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row">
-                <p>Click on Messages</p>
+                <p>Click on "Messages"</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/trash_msg_view3.png') ?>" width="80%" height="80%"/>
                      </div>
@@ -38,7 +38,7 @@
                 </div>
 
                 <div class="row"> 
-                  <p>For mobile:</p>
+                  <p>For mobile phones:</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/trash_msg_view5.png') ?>" width="80%" height="80%"/>
                      </div>

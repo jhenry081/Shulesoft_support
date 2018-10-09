@@ -8,13 +8,13 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW SCHEME OF WORK</h3>
                 <div class="row">
-                    <p>ShuleSoft enables easy creation of scheme of work to schools so as to guide throughout the subjects. See below steps of how to view scheme of work.</p>
-                    <ol>
-                        <li>On sidebar select “subject”</li>
+                <p>The following are the steps to view scheme of work:</p>
+                   
+                <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/subject/scheme/scheme_view1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
                     <p>Click on “Syllabus”</p>
@@ -37,13 +37,13 @@
                             <img src="<?= url('public/images/subject/scheme/scheme_view3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>Select the classes and subjects. To view required scheme of work</li>
+               
+                <p>Select the classes and subjects to view respective scheme of work</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/subject/scheme/scheme_view4.png') ?>" width="80%" height="80%"/>
                     </div>
-                    </ol>
+                    
                 </div>
             </div>
         </div>

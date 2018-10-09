@@ -7,24 +7,24 @@
          <div class="white-box">
             <h3 class="box-title">HOW TO VIEW SENT MESSAGES</h3>
                 <div class="row"> 
-                   <p>ShuleSoft enables easy communication through messages to user’s .See steps below how to view sent messages.</p>
-                   <p>On sidebar click on Messages</p>
-                   <ul>
+                <p>The following are the steps to view a sent message(s):</p>
+                <p>On the Sidebar, select "Messages"</p>
+                   
                       <div class="col-sm-8">
                       <img src="<?= url('public/images/message/sent_msg_view1.png') ?>" width="80%" height="80%"/>
                       </div>
-                    </ul>
+                    
                 </div>
 
                 <div class="row"> 
-                <p>For mobile:</p>
+                <p>For mobile phones: Press on menu</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/sent_msg_view2.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
 
                 <div class="row">
-                <p>Click on Messages</p>
+                <p>Click on "Messages"</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/sent_msg_view3.png') ?>" width="80%" height="80%"/>
                      </div>
@@ -38,14 +38,14 @@
                 </div>
 
                 <div class="row"> 
-                  <p>For mobile:</p>
+                  <p>For mobile phones:</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/sent_msg_view5.png') ?>" width="80%" height="80%"/>
                      </div>
                 </div>
                 
                 <div class="row"> 
-                <p>You can also download any file format you want or print the information as below.</p>
+                <p>You can also download any file format or print the information</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/sent_msg_view6.png') ?>" width="80%" height="80%"/>
                      </div>
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="row"> 
-                <p>Click to Refresh for sent messages</p>
+                <p>Click to Refresh</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/message/sent_msg_view8.png') ?>" width="80%" height="80%"/>
                      </div>
