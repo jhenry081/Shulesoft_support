@@ -8,55 +8,55 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DELETE CHARACTERS </h3>
                 <div class="row">
-                    <p>ShuleSoft helps schools manage the qualities and behavior of the student through measurement of characteristics .See below steps to delete characters in ShuleSoft</p>
+                <p>The following are the steps to delete a character(s):</p>
                     
 
-                    <ol>
-                        <p>1. Login into your ShuleSoft account and click on “Character”</p>
+
+                        <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/character/delete_character/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/delete_character/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/delete_character/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Click on “list of characters” </p>
+
+                        <p>Click on “list of characters” </p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/character/delete_character/4.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>  
                 
                   <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/delete_character/5.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>3. Select the  character and click on “Delete ”</p>
+                    <p>Select the respective character and click on “Delete”</p>
                     <div class="col-sm-8">
                       <img src="<?= url('public/images/character/delete_character/6.png') ?>" width="130%" height="100%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/delete_character/7.png') ?>" width="40%" height="60%"/>
                     </div>

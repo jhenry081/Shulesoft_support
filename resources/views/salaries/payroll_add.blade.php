@@ -8,16 +8,16 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ADD PAYROLL</h3>
                 <div class="row">
-                    <p>Shulesoft enables schools organize their employee’s payroll. See below on steps to create payroll in ShuleSoft.</p>
-                    <ol>
-                        <li>Login into your ShuleSoft account and on sidebar click on “Salaries”</li>
+                <p>The following are the steps to add a payroll(s):</p>
+                    
+                <p>On the Sidebar, select "Salaries"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/salaries/payroll_add1.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>For Mobile Press Menu First</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/salaries/payroll_add2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -31,19 +31,19 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <p>On mobile:Click on salaries</p>
+                    <p>For mobile phones: Click on "salaries"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/salaries/payroll_add3.png') ?>" width="80%" height="80%"/>
                         </div>
                 </div>
-                <ol>
-                <li>Click on “Add a payroll”</li>
+                
+                <p>Click on “Add a payroll”</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/salaries/payroll_add4.png') ?>" width="80%" height="80%"/>
                     </div>
-                    </ol>
+                   
                 </div>
             </div>
         </div>
@@ -54,15 +54,15 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <ol>
-                        <li>On mobile</li>
+                    
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/salaries/payroll_add5.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>Select the required employee’s and fill the fields as below</p>
+                    <p>Select the respective employees' and fill in the</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/salaries/payroll_add6.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -76,15 +76,15 @@
             <div class="white-box">
                 <div class="row">
                   
-                    <ol>
-                        <li>On mobile</li>
+                    
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/salaries/payroll_add7.png') ?>" width="80%" height="80%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>Fill the required fields and click on “create payroll”	</p>
+                    <p>Fill in the fields and click on “create payroll”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/salaries/payroll_add8.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -97,13 +97,13 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    <ul>
-                        <li>On mobile</li>
+                    
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/salaries/payroll_add9.png') ?>" width="80%" height="80%"/>
-                        <p>NOTE: A success notification will pop up on your screen on the side corner, if not repeat the steps above to successfully add payroll.</p>
+                            <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
-                    </ul>
+                    
                 </div>
             </div>
         </div>

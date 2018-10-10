@@ -8,49 +8,49 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DELETE VEHICLE</h3>
                 <div class="row">
-                    <p>In ShuleSoft System you can Delete vehicles that had already defined after Login to the System and do the procedures below:</p>
+                <p>The following are the steps to delete a vehicle(s)</p>
                     
-                    <ol>
-                        <p>1. On Sidebar Select Transport </p>
+                    
+                <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/delete_vehicle/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_vehicle/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_vehicle/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Then Click on vehicles, you will see the list of vehicles</p>                        
+                    
+                        <p>Click on "vehicles" and a list of vehicles will be displayed</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/delete_vehicle/4.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>                              
               
                   <div class="row">
-                    <ol>
-                        <p>3. Then click on Delete</p>                        
+                    
+                        <p>Click "Delete" on the respective vehicle</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/delete_vehicle/5.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>                              
                                               
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/delete_vehicle/6.png') ?>" width="40%" height="60%"/>
                     </div>

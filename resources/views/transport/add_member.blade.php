@@ -8,66 +8,66 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO ASSIGN MEMBER IN TRANSPORT SYSTEM</h3>
                 <div class="row">
-                    <p>In ShuleSoft System you can Add a Member in Transport System after Login to the System and do the procedures below:</p>
+                <p>The following are the steps to add a member(s)</p>
                     
-                    <ol>
-                        <p>1. On Sidebar Select Transport </p>
+                   
+                <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/add_member/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                   
                 </div>
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/add_member/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <p>On mobile</p>
+                    <p>For mobile phones: </p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/add_member/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
-                    <ol>
-                        <p>2. Click on Transport Route, the List of routes will be seen </p>                        
+                   
+                        <p>Click on "Transport Route" and the list of routes will be displayed</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/add_member/4.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                   
                 </div>                 
                             
                   
                   <div class="row">
-                    <ol>
-                        <p>3. Select Class Level and Class</p>                        
+                   
+                        <p>Select class level and class</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/add_member/5.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                   
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/add_member/6.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
                 
                  <div class="row">
-                    <ol>
-                        <p>4.Then Enter All the details for student concerning Transport Route, vehicle and amount</p>                        
+                   
+                        <p>Enter details of student including transport route, vehicle and amount</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/add_member/7.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                   
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/add_member/8.png') ?>" width="40%" height="60%"/>
                     </div>
@@ -75,30 +75,22 @@
                 
                 
                  <div class="row">
-                    <ol>
-                        <p>5. Click on “Click Here to save changes”, to complete the process of assigning Members</p>                        
+                   
+                        <p>Click on “click here to save changes” to complete the process</p>                        
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/transport/add_member/9.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                   
                 </div>                 
                 
                  <div class="row">
-                    <p>On Mobile</p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/transport/add_member/10.png') ?>" width="40%" height="60%"/>
                     </div>
-                  </div>
-              
-                                             
-                
-            </div>
+                  </div>                
+           </div>
         </div>
     </div>   
-    
-
 </div>
-
 @endsection
-
-

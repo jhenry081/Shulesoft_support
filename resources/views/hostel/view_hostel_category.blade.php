@@ -8,23 +8,23 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW HOSTEL CATEGORY</h3>
                 <div class="row">
-                    <p>To View Hostel Category in ShuleSoft System, you have to Login and do the following steps:</p>
+                <p>The following are the steps to viiew hostel category:</p>
                     
 
-                    <ol>
-                        <p>1.On Sidebar select Hostel</p>
+                   
+                   <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/hostel/view_category/1.png') ?>" width="130%" height="100%"/>
                         </div>
-                    </ol>
+                    
                 </div>
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile Press Menu First</p>
+                    
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/hostel/view_category/2.png') ?>" width="40%" height="60%"/>
                     </div>
- </ol>
+ 
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                     <ol>
+                    
                     <p>(i)Click:Hostel then,<br>
                  (ii)Category</p>
 
@@ -42,15 +42,15 @@
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/hostel/view_category/3.png') ?>" width="40%" height="60%"/>
                         </div>
-                     </ol>
+                     
                 </div>
-                <ol>
-                <p>Click on Category and the List of categories defined will be seen</p>
+               
+                <p>A list of categories will be displayed</p>
                 <div class="row">
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/hostel/view_category/4.png') ?>" width="130%" height="100%"/>
                     </div>
-                    </ol>
+                    
                 </div>
             </div>
         </div>
@@ -61,12 +61,10 @@
             <div class="white-box">
                
                 <div class="row">
-                     <ol>
-                    <p>• For Mobile </p>
+                    <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/hostel/view_category/5.png') ?>" width="40%" height="60%"/>
                     </div>
- </ol>
                 </div>
             </div>
         </div>

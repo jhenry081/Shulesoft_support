@@ -65,7 +65,7 @@
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/class/add/8.png') ?>" width="40%" height="60%"/>
-                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                       
                     </div>
                   </div>      
             </div>
