@@ -11,6 +11,7 @@
 |
 */
 
+Route::get('/','SupportController@show');
 Route::get('/{pg?}/{tag?}/{id?}','SupportController@show');
 
 

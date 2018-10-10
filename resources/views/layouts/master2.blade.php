@@ -58,7 +58,7 @@ function topFunction() {
 </script>
 end script for the scroll to top button -->
 
-    <title>Ample Admin Template - The Ultimate Multipurpose admin template</title>
+    <title>ShuleSoft Support | Home</title>
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo url('public/assets/bootstrap/dist/css/bootstrap.min.css')?>" rel="stylesheet">
     <!-- Menu CSS -->
@@ -134,7 +134,7 @@ end script for the scroll to top button -->
 
             <!-- /.container-fluid -->
             <footer class="footer text-center"> 
-                    2017 &copy; Ample Admin brought to you by themedesigner.in 
+                    2018 &copy; ShuleSoft Support 
             </footer>
         </div>
         <!-- /#page-wrapper -->

@@ -3,10 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-
 class SupportController extends Controller
 {
-   /**
+    /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
@@ -25,7 +24,7 @@ class SupportController extends Controller
     {
         //
     }
-
+    
     /**
      * Store a newly created resource in storage.
      *
@@ -36,29 +35,34 @@ class SupportController extends Controller
     {
         //
     }
-
+    
     /**
      * Display the specified resource.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($folder,$folder2=null,$file=null)
+     
+    public function show($view=('homepage.home'),$folder,$folder2=null,$file=null)
     {
+        if(view()->exists($view)){
+return view($view);
+        }
+
         if($folder2==null && $file==null  ){
             return view($folder);
         }
         elseif($folder2!=null && $file==null){
-
+            
             return view($folder.'.'.$folder2); 
         }
         else{
-
+            
             return view($folder.'.'.$folder2.'.'.$file);
         }
-      
+        
     }
-
+    
     /**
      * Show the form for editing the specified resource.
      *
