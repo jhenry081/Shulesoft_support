@@ -163,6 +163,14 @@ end script for the scroll to top button -->
     <script src="<?php echo url('public/assets/plugins/bower_components/styleswitcher/jQuery.style.switcher.js')?>"></script>
 </body>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57911389-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-<!-- Mirrored from wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin-minimal/calendar.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 May 2017 19:07:11 GMT -->
+  gtag('config', 'UA-57911389-1');
+</script>
+
 </html>

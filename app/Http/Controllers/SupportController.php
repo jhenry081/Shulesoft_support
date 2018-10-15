@@ -3,16 +3,16 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-class SupportController extends Controller
-{
+
+class SupportController extends Controller {
+
     /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
-    {
-        //
+    public function index() {
+        return view('homepage.home');
     }
 
     /**
@@ -20,57 +20,51 @@ class SupportController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
-    {
+    public function create() {
         //
     }
-    
+
     /**
      * Store a newly created resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
-    {
+    public function store(Request $request) {
         //
     }
-    
+
     /**
      * Display the specified resource.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-     
-    public function show($view=('homepage.home'),$folder,$folder2=null,$file=null)
-    {
-        if(view()->exists($view)){
-return view($view);
-        }
+    public function show($folder, $folder2 = null, $file = null) {
 
-        if($folder2==null && $file==null  ){
-            return view($folder);
+        if ($folder2 == null && $file == null) {
+            $view = $folder;
+        } elseif ($folder2 != null && $file == null) {
+
+            $view = $folder . '.' . $folder2;
+        } else {
+            $view = $folder . '.' . $folder2 . '.' . $file;
         }
-        elseif($folder2!=null && $file==null){
-            
-            return view($folder.'.'.$folder2); 
+        if (view()->exists($view)) {
+            return view($view);
+        } else {
+            $this->data['page'] = $view;
+            return view('errors.404', $this->data);
         }
-        else{
-            
-            return view($folder.'.'.$folder2.'.'.$file);
-        }
-        
     }
-    
+
     /**
      * Show the form for editing the specified resource.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function edit($id)
-    {
+    public function edit($id) {
         //
     }
 
@@ -81,8 +75,7 @@ return view($view);
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
-    {
+    public function update(Request $request, $id) {
         //
     }
 
@@ -92,8 +85,8 @@ return view($view);
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
-    {
+    public function destroy($id) {
         //
     }
+
 }

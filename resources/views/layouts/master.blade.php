@@ -6,10 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="ShuleSoft user manual, ">
     <meta name="author" content="">
+     <meta name="keywords" content="exam, accounts, mpesa, nmb, ">
     <link rel="icon" type="image/png" sizes="16x16" href="../plugins/images/favicon.png">
-    <title>ShuleSoft Support</title>
+    <title>@yield('title','ShuleSoft Support')</title>
     <!-- Bootstrap Core CSS -->
     <link href="<?php echo url('public/assets/bootstrap/dist/css/bootstrap.min.css')?>" rel="stylesheet">
     <!-- Menu CSS -->
@@ -110,4 +111,14 @@
     <!--Style Switcher -->
     <script src="<?php echo url('public/assets/plugins/bower_components/styleswitcher/jQuery.style.switcher.js')?>"></script>
 </body>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57911389-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57911389-1');
+</script>
+
 </html>

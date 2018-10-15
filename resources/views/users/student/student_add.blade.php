@@ -9,7 +9,7 @@
                 <h3 class="box-title">HOW TO ADD A STUDENT</h3>
                 <div class="row">
                     <!-- the text below can be displayed as a read-only tip -->
-                <p><b>Important Note: Before creating a new student, you should have already created/defined the parents, classes, sections and class levels.</b></p>
+                    <p class="alert alert-info"><b>Important Note: Before creating a new student, you should have already created/defined the parents, classes, sections and class levels.</b></p>
                 </div>
                 <div class="row">
                     <p>The following are the steps to create/add a student(s):</p>
