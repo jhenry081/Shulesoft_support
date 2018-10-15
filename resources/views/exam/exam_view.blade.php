@@ -184,7 +184,7 @@
 	                    
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/exam/exam/view/15.png') ?>" width="130%" height="100%"/>
-                        <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                        <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                 </div>
                

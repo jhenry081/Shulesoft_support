@@ -9,7 +9,7 @@
                 <h3 class="box-title">HOW TO ADD MEMBER IN HOSTEL</h3>
                 <div class="row">
                  <!-- the text below can be displayed as a read-only tip -->
-                 <p><b>Important Note: Before adding a new member, you should have already defined hostel and category in the system</b></p>
+                 <p class= "alert alert-info"><b>Important Note: Before adding a new member, you should have already defined hostel and category in the system</b></p>
                    
                  <p>The following are the steps to add a member(s)</p>
                    

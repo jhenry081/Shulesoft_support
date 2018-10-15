@@ -170,7 +170,7 @@
                         <p>Then Click on Submit to complete registration</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add15.png') ?>" width="80%" height="80%"/>
-                            <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                            <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                    
                 </div>

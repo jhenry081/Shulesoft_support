@@ -9,11 +9,11 @@
                 <div class="row"> 
                 <p>The following are the steps to delete a term(s):</p>
                 <p>On the Sidebar, select "Terms"</p>
-                   <ul>
+                  
                       <div class="col-sm-8">
                       <img src="<?= url('public/images/term/term_delete1.png') ?>" width="80%" height="80%"/>
                       </div>
-                    </ul>
+                    
                 </div>
 
                 <div class="row"> 
@@ -62,7 +62,7 @@
                 <p> For mobile phones:</p>
                      <div class="col-sm-8">
                      <img src="<?= url('public/images/term/term_delete8.png') ?>" width="80%" height="80%"/>
-                     <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                     <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                      </div>
                 </div>
                 

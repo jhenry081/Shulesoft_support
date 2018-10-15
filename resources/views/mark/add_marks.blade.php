@@ -9,7 +9,7 @@
                 <h3 class="box-title">HOW TO ADD MARKS</h3>
                 <div class="row">
                 <!-- the text below can be displayed as a read-only tip -->
-                <p><b>Important Note: Before adding marks, you should have already defined class, subjects and students</b></p>
+                <p class= "alert alert-info"><b>Important Note: Before adding marks, you should have already defined class, subjects and students</b></p>
                 <p>The following are the steps to define marks:</p>
 
                         <p>On the Sidebar, select "Mark"</p>
@@ -137,7 +137,7 @@
                 </div>
                 
                 <div class="row">
-                    <p>NOTE: A success notification must appear when any process of adding marks is completed</p>
+                    <p class= "alert alert-info">NOTE: A success notification must appear when any process of adding marks is completed</p>
                     <h4></h4>
                     <p>NB: Click on "Next" to view the next list</p>
                     <div class="col-sm-8">

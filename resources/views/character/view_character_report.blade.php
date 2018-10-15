@@ -151,7 +151,7 @@
                 
                 
                  <div class="row">
-                    <p>NOTE: A success notification must appear when any process of adding marks is completed</p>
+                    <p class="alert alert-info">NOTE: A success notification must appear when any process of adding marks is completed</p>
                     
                     <p>NB: Click on "Next" to view the next list</p>
                     <div class="col-sm-8">

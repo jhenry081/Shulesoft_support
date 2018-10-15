@@ -22,7 +22,7 @@
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/comment/2.png') ?>" width="40%" height="50%"/>
                     </div>
-</ol>
+
                 </div>
             </div>
         </div>
@@ -72,7 +72,7 @@
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/comment/6.png') ?>" width="40%" height="50%"/>
                     </div>
-</ol>
+
                 </div>
             </div>
         </div>

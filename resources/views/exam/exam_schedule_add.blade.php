@@ -8,7 +8,7 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DEFINE EXAM SCHEDULE</h3>
                 <div class="row">
-                <p><b>Important Note: Before creating/defining exam schedules,you should have already defined class, class level, subject, section, exam and academic year.</b></p>
+                <p class= "alert alert-info"><b>Important Note: Before creating/defining exam schedules,you should have already defined class, class level, subject, section, exam and academic year.</b></p>
                 <p>The following are the steps to define exam schedules:</p>
                     
 
@@ -134,7 +134,7 @@
                 <div class="row">
                 
                     
-                <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         
                     
                 </div>

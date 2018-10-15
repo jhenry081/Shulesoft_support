@@ -199,7 +199,7 @@
                 <p>For mobile phones:</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_edit19.png') ?>" width="80%" height="80%"/>
-                            <p>Note:  When the process is completed successfully, a success notification will appear at the top-right corner of the system</p>
+                            <p class="alert alert-info">Note:  When the process is completed successfully, a success notification will appear at the top-right corner of the system</p>
                         </div>
                 </div>
             </div>

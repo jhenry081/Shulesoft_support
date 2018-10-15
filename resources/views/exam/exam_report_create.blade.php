@@ -8,7 +8,7 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO CREATE EXAM REPORT</h3>
                 <div class="row">
-                <p><b>Important Note: Make sure that you have entered marks of subjects for all students that you want to generate report for</b></p>
+                <p class= "alert alert-info"><b>Important Note: Make sure that you have entered marks of subjects for all students that you want to generate report for</b></p>
                 <p>The following are the steps to define a new exam(s) report for many students at once:</p>
 
                    

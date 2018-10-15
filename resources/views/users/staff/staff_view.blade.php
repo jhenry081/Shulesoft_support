@@ -38,7 +38,7 @@
                         </div>
                     </div>
 
-                    <p>For mobile phones:phones Click on "Users" then "Staff"</p>
+                    <p>For mobile phones: Click on "Users" then "Staff"</p>
 
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_view3.png') ?>" width="80%" height="80%"/>

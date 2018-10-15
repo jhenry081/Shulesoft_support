@@ -8,7 +8,7 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO DEFINE EXAM</h3>
                 <div class="row">
-                <p><b>Important Note: Before creating/defining a new exam(s), you should have already created/defined the classes and class levels.</b></p>
+                <p class= "alert alert-info"><b>Important Note: Before creating/defining a new exam(s), you should have already created/defined the classes and class levels.</b></p>
                     <p>The following are the steps to define a new exam(s):</p>
                     
                         <p>On the sidebar, Select “Exam”</p>
@@ -130,7 +130,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         
                 </div>
             </div>

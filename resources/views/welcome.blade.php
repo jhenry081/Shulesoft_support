@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Shulesoft Support
+                    Laravel
                 </div>
 
                 <div class="links">

@@ -9,7 +9,7 @@
                 <h3 class="box-title">HOW TO DEFINE TRANSPORT ROUTE</h3>
                 <div class="row">
                 <!-- the text below can be displayed as a read-only tip -->
-                <p><b>Important Note: Before creating a transport route, you should have already created/defined the vehicles</b></p>
+                <p class= "alert alert-info"><b>Important Note: Before creating a transport route, you should have already created/defined the vehicles</b></p>
                 <p>The following are the steps to add a transport route(s)</p>
                     
                    

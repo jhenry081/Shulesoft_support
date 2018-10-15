@@ -95,7 +95,7 @@
                 <div class="row">
                 
                    
-                <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
+                <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         
                     
                 </div>
