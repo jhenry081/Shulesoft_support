@@ -12,12 +12,12 @@
                    
                         <p>On the Sidebar, select "Section"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_delete1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
-                    <p>For mobile phones: phones: Press on menu</p>
+                    <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/section/section_delete2.png') ?>" width="80%" height="80%"/>
                     </div>
@@ -41,7 +41,7 @@
                 <p>Select class Level and class</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_delete4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_delete4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -55,7 +55,7 @@
                     <p>Click "Delete" on respective section</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_delete6.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete6.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 <div class="row">

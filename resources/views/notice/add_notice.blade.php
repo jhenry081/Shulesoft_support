@@ -14,7 +14,7 @@
                   
                   <p>On the Sidebar, select "Notice"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/add/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/notice/add/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -47,7 +47,7 @@
                 <p>Click on “+Add a Notice”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/add/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/notice/add/4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -71,7 +71,7 @@
                   
                     <p>Fill the required fields and click on “Add Notice”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/add/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/notice/add/6.png') ?>" width="120%" height="100%"/>
                     </div>
 </ol>
                 </div>

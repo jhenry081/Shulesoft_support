@@ -14,7 +14,7 @@
                    
                    <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/delete/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/delete/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on "schedule"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/delete/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/delete/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                    
                         <p>Select class</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/delete/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/delete/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -88,7 +88,7 @@
                         <p>Click "Delete" on the respective exam schedule</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/delete/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/delete/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>

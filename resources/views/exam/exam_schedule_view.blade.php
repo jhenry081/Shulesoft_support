@@ -14,13 +14,13 @@
                    
                    <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                  <div class="row">
                     
-                    <p>For mobile phones: phones: Press on menu</p>
+                    <p>For mobile phones:  Press on menu</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/exam/exam schedule/view/2.png') ?>" width="40%" height="60%"/>
                     </div>
@@ -48,7 +48,7 @@
                 <p>Click on "schedule"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/view/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/view/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                    
                         <p>Select class</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -88,7 +88,7 @@
                         <p>A list of exam schedule will be displayed</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/7.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -113,7 +113,7 @@
 
                       <p>To view by PDF, Click on “PDF”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/9.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -121,7 +121,7 @@
                     
                 <p>PDF sample displayed</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/view/10.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/view/10.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -136,7 +136,7 @@
                     
                 <p>To view by Excel, Click on “Excel”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/11.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/11.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -144,7 +144,7 @@
                     
                 <p>Excel sample format</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/view/12.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/view/12.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -160,7 +160,7 @@
                 <p>To view by CSV, Click on “CSV”</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/13.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/13.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -168,7 +168,7 @@
                     
                 <p>CSV Sample format</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/view/14.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/view/14.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -185,7 +185,7 @@
 	                       
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/view/15.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/view/15.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>

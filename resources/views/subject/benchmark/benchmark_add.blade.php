@@ -12,7 +12,7 @@
                    
                         <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/benchmark/benchmark_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/benchmark/benchmark_add1.png') ?>" width="120%" height="100%"/>
                         </div>
                      
                 </div>
@@ -41,7 +41,7 @@
                 <p>Click on "Syllabus"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/benchmark/benchmark_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/benchmark/benchmark_add4.png') ?>" width="120%" height="100%"/>
                     </div>
                     </ol>
                 </div>
@@ -64,7 +64,7 @@
                 <div class="row">
                     <p>Click on “benchmark”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/benchmark/benchmark_add6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/benchmark/benchmark_add6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <p>Click on "Add Syllabus benchmark"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/benchmark/benchmark_add8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/benchmark/benchmark_add8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                 <div class="row">
                     <p>Fill all the fields and click "Add benchmark"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/benchmark/benchmark_add10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/benchmark/benchmark_add10.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>

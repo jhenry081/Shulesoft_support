@@ -14,7 +14,7 @@
                     
                     <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/edit/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/edit/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -46,7 +46,7 @@
                 <p>Click on "schedule"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/edit/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/edit/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -62,7 +62,7 @@
                     
                         <p>Select class</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/edit/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/edit/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -86,7 +86,7 @@
                         <p>Click on "Edit" on the respective exam schedule</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/edit/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/edit/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -109,7 +109,7 @@
                     
                         <p>Enter the information required</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/edit/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/edit/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -132,7 +132,7 @@
                     
                         <p>Click on "Update Exam" to save the changes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/edit/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/edit/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>

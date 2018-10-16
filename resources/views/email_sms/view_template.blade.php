@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Email/SMS"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_template/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_template/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -28,7 +28,7 @@
                     
                 <p>Click on “MAIL/SMS TEMPLATE”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_template/3.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_template/3.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>    
@@ -45,7 +45,7 @@
                     
                         <p>Click on” view” in the respective template</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_template/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_template/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 
@@ -61,7 +61,7 @@
                     
                         <p>You can View the required template </p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_template/7.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_template/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 

@@ -11,7 +11,7 @@
                 <p>The following are the steps to delete hostel category:</p>
                    <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_category/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/delete_category/1.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
 
@@ -40,7 +40,7 @@
                 <p>A list of categories will be displayed</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/delete_category/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/hostel/delete_category/4.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                 <div class="row">
                     <p>Click on "Delete"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/delete_category/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/hostel/delete_category/6.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
 

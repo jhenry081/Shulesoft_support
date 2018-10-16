@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Library"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/edit_book/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/edit_book/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                     
                 <p>Click on “Books”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/edit_book/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/edit_book/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    
@@ -52,7 +52,7 @@
                     
                   <p>Select the respective book and Click on "Edit"</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/edit_book/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/edit_book/6.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -68,7 +68,7 @@
                     
                         <p>Fill in the fields and click on “Update Book”</p>                          
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/edit_book/8.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/edit_book/8.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 

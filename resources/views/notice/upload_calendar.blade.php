@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Notice"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/upload/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/notice/upload/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -47,7 +47,7 @@
                 <p>Click on “+Add a Notice”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/upload/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/notice/upload/4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -112,7 +112,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/upload/9.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/notice/upload/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -138,7 +138,7 @@
 	                          
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/upload/11.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/notice/upload/11.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>

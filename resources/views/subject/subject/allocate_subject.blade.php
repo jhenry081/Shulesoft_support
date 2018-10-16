@@ -12,14 +12,14 @@
                     
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,14 +34,14 @@
                 <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
                 <p>Click on "Subject"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -57,14 +57,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on “+Add subject(s)”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -79,14 +79,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Fill in the fields</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -100,14 +100,14 @@
                     <ul>
                         <p>Click on “Add subject”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate10.png') ?>" width="120%" height="100%"/>
                         <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

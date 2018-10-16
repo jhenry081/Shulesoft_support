@@ -14,7 +14,7 @@
                     
                     <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/parent/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/parent/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -47,7 +47,7 @@
                 <p>Select Student’s name</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/parent/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/parent/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -71,7 +71,7 @@
                      
                     <p>General performance evaluation of the student will be seen, Click on "View Report" to view Exam Report</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/parent/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/parent/6.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -95,7 +95,7 @@
                      
                     <p>Sample report that will be displayed:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/parent/8.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/parent/8.png') ?>" width="120%" height="100%"/>
                     </div>
                      
                 </div>
@@ -119,7 +119,7 @@
                      
                     <p>To view graph report, click on "View Graph"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/parent/10.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/parent/10.png') ?>" width="120%" height="100%"/>
                     </div>
                      
                 </div>
@@ -143,7 +143,7 @@
                         <li>Sample graph report that will be displayed:</li>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/parent/12.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/parent/12.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>

@@ -14,7 +14,7 @@
                     
                     <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/edit_character/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/edit_character/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -36,7 +36,7 @@
                     
                         <p>Click on “List of characters”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/edit_character/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/edit_character/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>  
@@ -51,7 +51,7 @@
                  <div class="row">
                     <p>Select the respective character and click on “Edit”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/edit_character/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/edit_character/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -65,7 +65,7 @@
                  <div class="row">
                     <p>Fill the required fields and click on “Edit Character”.</p>                  
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/edit_character/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/edit_character/8.png') ?>" width="120%" height="100%"/>
                     </div>
                  </div>
                 

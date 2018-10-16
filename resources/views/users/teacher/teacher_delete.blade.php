@@ -12,14 +12,14 @@
                     
                 <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/all1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                 <p>Click on “Teachers”</p>
                     <div class="row">
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_delete4.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_delete4.png') ?>" width="120%" height="100%"/>
                         </div>
                         
                     </div>
@@ -42,7 +42,7 @@
                      <p>Click on "Users" then "Teachers"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_delete3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_delete3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
@@ -56,7 +56,7 @@
                 <div class="row">
                     <p>Click “Delete” on the respective teachers' profile</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete5.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete5.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -69,7 +69,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete6.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -83,14 +83,14 @@
                     <ul>
                         <p>Select the reason for deleting Teacher’s profile example; “Transferred”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_delete7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_delete7.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete8.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -106,14 +106,14 @@
                     
                         <p>Click on “Submit Change” to save the changes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_delete9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_delete9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete10.png') ?>" width="120%" height="100%"/>
                         <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                    </div>
 

@@ -13,7 +13,7 @@
                     
                         <p>On the Sidebar, select "Class"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/class/add/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/class/add/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                     <ol>
                         <p>Click on “+ Add a class”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/class/add/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/class/add/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -50,7 +50,7 @@
                  <div class="row">
                     <p>Fill the required information and click on “Add class”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/class/add/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/class/add/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

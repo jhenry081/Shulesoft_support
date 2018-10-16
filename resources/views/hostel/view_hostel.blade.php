@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/view_hostel/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/hostel/view_hostel/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on "Hostel"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/view_hostel/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/hostel/view_hostel/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                    
                         <p>The list of hostels defined in the system will be seen</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/view_hostel/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/hostel/view_hostel/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>

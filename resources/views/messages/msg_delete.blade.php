@@ -11,7 +11,7 @@
                 <p>On the Sidebar, select "Messages"</p>
                    
                       <div class="col-sm-8">
-                      <img src="<?= url('public/images/message/msg_delete1.png') ?>" width="80%" height="80%"/>
+                      <img src="<?= url('public/images/message/msg_delete1.png') ?>" width="120%" height="100%"/>
                       </div>
                     
                 </div>
@@ -26,14 +26,14 @@
                 <div class="row">
                 <p>Click on "Messages"</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete3.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete3.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
                 <p>Click on "Inbox" / "Sent"</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete4.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete4.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
@@ -47,14 +47,14 @@
                 <div class="row"> 
                 <p>Click to mark the messages to be deleted</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete6.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete6.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
                 <p>Click “delete icon” to remove the messages to be deleted</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete7.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete7.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 

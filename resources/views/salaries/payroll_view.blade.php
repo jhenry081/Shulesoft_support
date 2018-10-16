@@ -12,7 +12,7 @@
                     
                 <p>On the Sidebar, select "Salaries"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_view1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_view1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -41,7 +41,7 @@
                 <p>Select the respective payroll and click on “preview” </p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_view4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_view4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                 <div class="row">
                     <p>To view as “PDF”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_view6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_view6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -79,14 +79,14 @@
                     
                         <p>To view as copy</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_view7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_view7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>To view as “CSV”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_view8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_view8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -100,20 +100,20 @@
                     
                         <p>To view as “excel”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_view9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_view9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                   <p>Click on “print" to get a hardcopy</p>
                    <div class="col-sm-8">
-                   <img src="<?= url('public/images/salaries/payroll_view10.png') ?>" width="80%" height="80%"/>
+                   <img src="<?= url('public/images/salaries/payroll_view10.png') ?>" width="120%" height="100%"/>
                    </div>
                 </div>
                 <div class="row">
                   <p>Sample of payroll</p>
                    <div class="col-sm-8">
-                   <img src="<?= url('public/images/salaries/payroll_view11.png') ?>" width="80%" height="80%"/>
+                   <img src="<?= url('public/images/salaries/payroll_view11.png') ?>" width="120%" height="100%"/>
                    </div>
                 </div>
                 <div class="row">

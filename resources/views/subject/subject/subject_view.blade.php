@@ -12,14 +12,14 @@
                     
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_view1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_view1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_view2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_view2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -33,14 +33,14 @@
                 <div class="row">
                 <p>Click on "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_view3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_view3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
                 <p>Click on “Class Subject”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_view4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_view4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -56,14 +56,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_view5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_view5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on "select class"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_view6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_view6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -78,14 +78,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_view7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_view7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on “view” to view subjects in selected class</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_view8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_view8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -99,14 +99,14 @@
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_view9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_view9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>You can now view the subject information</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_view10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_view10.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -122,14 +122,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_view11.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_view11.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click to view teacher's information on subject</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_view12.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_view12.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>

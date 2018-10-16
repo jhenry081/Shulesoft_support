@@ -14,7 +14,7 @@
                     
                     <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on “Exam Definition”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/view/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam/view/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                     
                 <p>Select class and academic year</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -88,7 +88,7 @@
                         <p>A list of exams defined will be seen, click on “View” from the table to view exam Information </p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/7.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -113,7 +113,7 @@
 
                        <p>To view by PDF, Click on “PDF”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/9.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/9.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -121,7 +121,7 @@
                      
                 <p>PDF sample displayed</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/view/10.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam/view/10.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -136,7 +136,7 @@
                    
                 <p>To view by Excel, Click on “Excel”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/11.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/11.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -144,7 +144,7 @@
                      
                 <p>Excel sample format</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/view/12.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam/view/12.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -160,7 +160,7 @@
                 <p>To view by CSV, Click on “CSV”</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/13.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/13.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -168,7 +168,7 @@
                      
                 <p>CSV Sample format</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/view/14.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam/view/14.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -183,7 +183,7 @@
                 <p>You can Print a Hard Copy by Clicking on “Print”</p>
 	                    
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/view/15.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam/view/15.png') ?>" width="120%" height="100%"/>
                         <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                 </div>

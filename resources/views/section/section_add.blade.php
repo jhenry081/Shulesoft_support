@@ -12,7 +12,7 @@
                     
                         <p>On the Sidebar, select "Section"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_add1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -39,7 +39,7 @@
                 <p>Click on "Add Section"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_add4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -59,7 +59,7 @@
                 <div class="row" >
                      <div class="col-sm-8">
                      <p>Fill in all the required information</p>
-                         <img src="<?= url('public/images/section/section_add6.png') ?>" width="80%" height="80%"/>
+                         <img src="<?= url('public/images/section/section_add6.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div> 
                 <div class="row" >
@@ -71,7 +71,7 @@
                 <div class="row" >
                      <div class="col-sm-8">
                      <p>Click on "Add Section"</p>
-                         <img src="<?= url('public/images/section/section_add8.png') ?>" width="80%" height="80%"/>
+                         <img src="<?= url('public/images/section/section_add8.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div> 
                 <div class="row" >

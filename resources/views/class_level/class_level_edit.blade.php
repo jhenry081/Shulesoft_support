@@ -12,7 +12,7 @@
                     
                 <p>On the Sidebar, select "Class level"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_edit1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_edit1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -34,14 +34,14 @@
                 <p>Click on "Class Level"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_edit3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_edit3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 <div class="row">
                 
                 <p>Click "Edit" on the respective class level</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_edit4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_edit4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                 <div class="row">
                     <p>Enter the information as required</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_edit6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_edit6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <p>Click on "Edit level"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_edit8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_edit8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>

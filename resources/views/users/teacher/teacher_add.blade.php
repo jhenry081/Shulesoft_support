@@ -13,14 +13,14 @@
                   
                         <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/all1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -35,13 +35,13 @@
                     <p>Click on “Teachers”</p>
                     <div class="row">
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add4.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add4.png') ?>" width="120%" height="100%"/>
                         </div>
                     </div>
 
                     <p>Click on "Users" then "Teachers"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
             </div>
@@ -56,14 +56,14 @@
                   
                         <p>Click on “Add teacher(s)”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_add6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_add6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -78,14 +78,14 @@
                         <p>i. By manually entering the teacher's information</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_add8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_add8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -99,14 +99,14 @@
                     
                         <p>Click on “Add Teacher” to submit the information</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_add10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_add10.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -122,14 +122,14 @@
                         <p>On the right side of the teachers' information fields, there is an excel sample registration file you can download incase you don't have an excel file already</p>
                         <p>After Downloading the sample, edit all the information required and save it in your documents</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add11.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add11.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>Excel sample format</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_add12.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_add12.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -146,14 +146,14 @@
                   
                         <p>Click on “Browse”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add13.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add13.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>Choose the respective file from your documents and Click open to upload it to the system</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_add14.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_add14.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -169,7 +169,7 @@
                   
                         <p>Click on "Submit" to complete the registration</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_add15.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_add15.png') ?>" width="120%" height="100%"/>
                             <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                    

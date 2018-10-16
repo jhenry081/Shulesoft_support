@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_vehicle/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_vehicle/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Click on "vehicles"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_vehicle/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_vehicle/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                              
@@ -43,7 +43,7 @@
                  <div class="row">
                     <p>Click on "Add Vehicle"</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/transport/add_vehicle/5.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/transport/add_vehicle/5.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -58,7 +58,7 @@
                  <div class="row">
                     <p>Fill all the fields and click on "Add Vehicle"</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/transport/add_vehicle/7.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/transport/add_vehicle/7.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

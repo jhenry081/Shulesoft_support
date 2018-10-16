@@ -12,7 +12,7 @@
                     
                         <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/comment/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/comment/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -46,7 +46,7 @@
                 <p>Click on "Comment Per Student"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/comment/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/comment/4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -62,7 +62,7 @@
                     
                         <p>Select Class Level, Class, Academic Year, Semester and Exam</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/comment/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/comment/5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -86,7 +86,7 @@
                         <p>You can enter a comment in the field</p>
                       <p>Afterwards, click on "save"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/comment/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/comment/7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>

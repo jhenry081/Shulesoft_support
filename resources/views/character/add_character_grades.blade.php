@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/add_grade/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/add_grade/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on “characters of grades”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/add_grade/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/add_grade/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -50,7 +50,7 @@
                  <div class="row">
                     <p>Click on “+Add a character grade” </p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/add_grade/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/add_grade/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -65,7 +65,7 @@
                  <div class="row">
                     <p>Fill the required fields and Click on "Add character grade"</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/add_grade/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/add_grade/8.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

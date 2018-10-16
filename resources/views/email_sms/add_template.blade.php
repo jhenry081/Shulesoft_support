@@ -13,7 +13,7 @@
                     
                     <p>On the Sidebar, select "Email/SMS"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/add_template/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/add_template/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Click on “MAIL/SMS TEMPLATE” </p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/add_template/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/add_template/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    
@@ -52,7 +52,7 @@
                     
                         <p>Click on "+Add  a template"</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/add_template/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/add_template/6.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -68,7 +68,7 @@
                     
                         <p>Fill the required fields and click on “Add Template”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/add_template/8.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/add_template/8.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 

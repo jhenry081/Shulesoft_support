@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_member/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_member/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p> Click on "Member Details" </p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_member/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_member/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -45,7 +45,7 @@
                     
                         <p>Select class</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_member/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_member/5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -61,7 +61,7 @@
                     
                         <p>A list of members will be displayed</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_member/7.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_member/7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -78,7 +78,7 @@
                     
                         <p>Click "Delete" on the respective member</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_member/9.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_member/9.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 

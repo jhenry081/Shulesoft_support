@@ -14,7 +14,7 @@
                    
                         <p>On Sidebar Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/add/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam report/add/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on "Create report"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -72,7 +72,7 @@
                    
                     <p>Select Class, Academic year, Section and Subject</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -93,9 +93,9 @@
                     
                 </div>
                 <div class="row">
-                    <p>Select Semester that you want to generate a report on</p>
+                    <p>Select semester that you want to generate a report on</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/8.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/8.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -118,7 +118,7 @@
                    
                     <p>Click on "View Combined Report"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/10.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/10.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -140,7 +140,7 @@
                    
                     <p>The combined reports will be seen as follows</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/add/12.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam report/add/12.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>

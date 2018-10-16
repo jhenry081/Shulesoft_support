@@ -13,7 +13,7 @@
                     
                     <p>On the Sidebar, select "Class"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/class/delete/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/class/delete/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Select the required class to delete its information</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/class/delete/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/class/delete/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>  
@@ -50,7 +50,7 @@
                  <div class="row">
                     <p>Click on “Delete” in the respective class</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/class/delete/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/class/delete/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

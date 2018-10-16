@@ -13,7 +13,7 @@
                    
                     <p>On the Sidebar, select "Library"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/general_report/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/general_report/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on “library report”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/general_report/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/general_report/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>    
@@ -52,7 +52,7 @@
                    
                         <p>Click on “General report”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/general_report/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/general_report/6.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 
@@ -68,7 +68,7 @@
                    
                         <p>Fill in the fields and click on “Submit” </p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/general_report/8.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/general_report/8.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 

@@ -12,7 +12,7 @@
                    
                 <p>On the Sidebar, select "Class level"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_add1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -34,14 +34,14 @@
                     <p>Click on "Class Level"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_add3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_add3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                
                 <p>Click on "Add Level"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_add4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                 <div class="row">
                     <p>Enter all required Information in the fields</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_add6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_add6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <p>Click on "Add Level"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_add8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_add8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>

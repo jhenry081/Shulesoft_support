@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Class"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/class/edit/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/class/edit/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Select the required class to edit its information</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/class/edit/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/class/edit/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -50,7 +50,7 @@
                  <div class="row">
                     <p>3. Click on “Edit” in the required class.</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/class/edit/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/class/edit/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -64,7 +64,7 @@
                  <div class="row">
                     <p>Fill the required information and click on “update class”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/class/edit/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/class/edit/8.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

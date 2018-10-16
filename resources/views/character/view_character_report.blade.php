@@ -14,7 +14,7 @@
                     
                     <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/view/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -36,7 +36,7 @@
                     
                         <p>Click on "Reports"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/view/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/view/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -51,7 +51,7 @@
                  <div class="row">
                     <p>Select the required fields</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/view/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -66,7 +66,7 @@
                     <p>You can view through various options</p>
                     <p>A. Select the student and Click on “View”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/view/8.png') ?>" width="120%" height="100%"/>
                     </div>
                  </div>
                 
@@ -81,7 +81,7 @@
                  <div class="row">
                     <p>Sample character report</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/character/view/11.png') ?>" width="130%" height="100%"/>                       
+                        <img src="<?= url('public/images/character/view/11.png') ?>" width="120%" height="100%"/>                       
                     </div>
                      
                  </div>
@@ -91,14 +91,14 @@
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/view/12.png') ?>" width="40%" height="60%"/>    
                         
-                        <p>Click on "print" to obtain a hardcopy of the report</p>
+                        <p>Click on "print" to obtain a hard copy of the report</p>
                     </div>
                  </div>
                 
                 <div class="row">
                     <p>B. To view as a PDF, click on “PDF”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/character/view/13.png') ?>" width="60%" height="20%"/>                       
+                        <img src="<?= url('public/images/character/view/13.png') ?>" width="50%" height="100%"/>                       
                     </div>
                      
                  </div>
@@ -106,7 +106,7 @@
                  <div class="row">
                     <p>A sample report </p>                   
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view/14.png') ?>" width="80%" height="25%"/>
+                      <img src="<?= url('public/images/character/view/14.png') ?>" width="120%" height="100%"/>
                     </div>
                  </div>
                 
@@ -114,7 +114,7 @@
                   <div class="row">
                     <p>C. To view as a CSV, click on “CSV” </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/character/view/15.png') ?>" width="60%" height="20%"/>                       
+                        <img src="<?= url('public/images/character/view/15.png') ?>" width="50%" height="100%"/>                       
                     </div>
                      
                  </div>
@@ -122,14 +122,14 @@
                  <div class="row">
                     <p>A Sample CSV </p>                   
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view/16.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/view/16.png') ?>" width="120%" height="100%"/>
                     </div>
                  </div>
                 
                  <div class="row">
                     <p>D. View as Excel, click on "Excel" </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/character/view/17.png') ?>" width="60%" height="20%"/>                       
+                        <img src="<?= url('public/images/character/view/17.png') ?>" width="50%" height="100%"/>                       
                     </div>
                      
                  </div>
@@ -137,14 +137,14 @@
                  <div class="row">
                     <p>A sample Excel</p>                   
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view/18.png') ?>" width="80%" height="40%"/>
+                      <img src="<?= url('public/images/character/view/18.png') ?>" width="120%" height="100%"/>
                     </div>
                  </div>
                 
                  <div class="row">
-                    <p>E. You can have your Hardcopy by click on “Print” </p>
+                    <p>E. You can have your hard copy by click on “Print” </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/character/view/19.png') ?>" width="60%" height="20%"/>                       
+                        <img src="<?= url('public/images/character/view/19.png') ?>" width="50%" height="100%"/>                       
                     </div>
                      
                  </div>

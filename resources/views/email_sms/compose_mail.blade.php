@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Email/SMS"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -36,7 +36,7 @@
                    
                         <p>Click on “Compose Email /SMS”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    
@@ -55,7 +55,7 @@
                         <p>A.SMS to parents and teachers</p>   
                         <p>Click on ”SMS to parents and teachers“</p>  
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/6.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -72,7 +72,7 @@
                    
                         <p>Fill the required fields and click on “Send”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/8.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/8.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    
@@ -82,6 +82,7 @@
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/email_sms/compose_mail/9.png') ?>" width="40%" height="60%"/>
                     </div>
+                    <p>For mobile phones:</p>
                      <div class="col-sm-8">
                         <img src="<?= url('public/images/email_sms/compose_mail/10.png') ?>" width="40%" height="60%"/>
                         <p>Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
@@ -94,7 +95,7 @@
                         <p>B.SMS TO OTHER USERS</p>    
                         <p>Click on” SMS to Other users“</p>         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/11.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/11.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -110,7 +111,7 @@
                    
                         <p>Fill the required fields and click on “Send”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/13.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/13.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    
@@ -128,7 +129,7 @@
                         <p>C. Email</p>    
                         <p>Click on "Email"</p>         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/15.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/15.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -144,7 +145,7 @@
                    
                         <p>Fill the required fields and click on “Send”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/compose_mail/17.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/compose_mail/17.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    

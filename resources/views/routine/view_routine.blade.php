@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Routine"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/routine/view/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/routine/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                   
                 </div>
@@ -45,7 +45,7 @@
                     <p>Select the respective class to view the routine</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/routine/view/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/routine/view/4.png') ?>" width="120%" height="100%"/>
                     </div>
                   
                 </div>
@@ -69,7 +69,7 @@
                  
                     <p>You can now view the classes' routine</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/routine/view/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/routine/view/6.png') ?>" width="120%" height="100%"/>
                     </div>
  </ol>
                 </div>

@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/add_category/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/add_category/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -36,7 +36,7 @@
                    
                         <p>Click on “Category”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/add_category/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/add_category/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -51,7 +51,7 @@
                  <div class="row">
                     <p>Click on “+.add_title”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/add_category/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/add_category/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -66,7 +66,7 @@
                  <div class="row">
                     <p>Fill in the required fields and Click on “Position”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/add_category/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/add_category/8.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

@@ -12,7 +12,7 @@
                     
                 <p>On the Sidebar, select "Salaries"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_add1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -41,7 +41,7 @@
                 <p>Click on “Add a payroll”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_add4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -64,7 +64,7 @@
                 <div class="row">
                     <p>Select the respective employees' and fill in the</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_add6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_add6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <p>Fill in the fields and click on “create payroll”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_add8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_add8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>

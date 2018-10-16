@@ -12,14 +12,14 @@
                     
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_edit1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_edit1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_edit2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_edit2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,14 +34,14 @@
                 <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_edit3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_edit3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
                 <p>Click on “Class Subject”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_edit4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_edit4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -57,14 +57,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_edit5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_edit5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on "select class"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_edit6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_edit6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -79,14 +79,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_edit7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_edit7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on “edit” on the respective subject</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_edit8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_edit8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -100,14 +100,14 @@
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_edit9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_edit9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>Fill in the fields and click on “update subject “</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_edit10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_edit10.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -123,7 +123,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_edit11.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_edit11.png') ?>" width="120%" height="100%"/>
                             <p class= "alert alert-info"Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                     

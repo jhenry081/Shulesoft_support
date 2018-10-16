@@ -12,14 +12,14 @@
                     
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,14 +34,14 @@
                 <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
                 <p>Click on “Syllabus”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -57,14 +57,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on “Scheme of Work”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -79,14 +79,14 @@
                     
                         <p>Click on “Add Syllabus”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Fill in the fields</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -100,14 +100,14 @@
                     <ul>
                         <p>Click on “Topic”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>Click on "Add Topic"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add10.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -123,14 +123,14 @@
                     
                         <p>Fill in the fields on the form displayed and click on “Submit”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add11.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add11.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on "Sub Topic"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add12.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add12.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -146,29 +146,29 @@
                     
                         <p>Click on “Add Sub Topic”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_add13.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_add13.png') ?>"width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                 <p>Fill in the fields on the form displayed and click on “Submit”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add14.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add14.png') ?>" width="120%" height="100%"/>
                     </div>
                 <div class="row">
                     <p>Click on “Objectives”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add15.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add15.png') ?>" width="120%" height="100%"/>
                     </div>
                 <div class="row">
                     <p>Click on “Add Objectives”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add16.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add16.png') ?>" width="120%" height="100%"/>
                     </div>
                 <div class="row">
                 <p>Fill in the fields on the form displayed and click on “Submit”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_add17.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_add17.png') ?>" width="120%" height="100%"/>
                         <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
 

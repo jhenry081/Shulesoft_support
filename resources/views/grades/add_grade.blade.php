@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Grades"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/grades/define/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/grades/define/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Click on “Grades”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/grades/define/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/grades/define/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>  
@@ -43,7 +43,7 @@
                  <div class="row">
                     <p>Click on “+Add a grade”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/define/5.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/define/5.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -57,7 +57,7 @@
                    <div class="row">
                     <p>Fill all the fields</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/define/7.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/define/7.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -71,7 +71,7 @@
                   <div class="row">
                     <p>Click on “Add grade”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/define/9.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/define/9.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

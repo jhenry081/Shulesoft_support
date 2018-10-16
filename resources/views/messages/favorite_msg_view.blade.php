@@ -11,7 +11,7 @@
                 <p>On the Sidebar, select "Messages"</p>
                    
                       <div class="col-sm-8">
-                      <img src="<?= url('public/images/message/favorite_msg_view1.png') ?>" width="80%" height="80%"/>
+                      <img src="<?= url('public/images/message/favorite_msg_view1.png') ?>" width="120%" height="100%"/>
                       </div>
                     
                 </div>
@@ -26,14 +26,14 @@
                 <div class="row">
                 <p>Click on "Messages"</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/favorite_msg_view3.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/favorite_msg_view3.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
                 <p>Click on "Favorite"</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/favorite_msg_view4.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/favorite_msg_view4.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
@@ -47,7 +47,7 @@
                 <div class="row"> 
                 <p>You can also download any file format or print the information</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/favorite_msg_view6.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/favorite_msg_view6.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 

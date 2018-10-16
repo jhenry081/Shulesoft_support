@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Notice"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/edit/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/notice/edit/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -45,7 +45,7 @@
                 <p>Click on “Edit”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/edit/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/notice/edit/4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -69,7 +69,7 @@
                  
                     <p> Fill the required fields and click on “Update notice”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/edit/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/notice/edit/6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>

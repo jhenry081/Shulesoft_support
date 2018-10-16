@@ -14,7 +14,7 @@
                     
                     <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/edit/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/edit/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -46,7 +46,7 @@
                 <p>Click on "Hostel"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/edit/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/hostel/edit/4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -62,7 +62,7 @@
                     
                 <p>Click "Edit" on the respective hostel</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/edit/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/edit/5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -86,7 +86,7 @@
                         <p>Enter the information as required</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/edit/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/edit/7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -109,7 +109,7 @@
                     <ul>
                         <li>Click on "Update Hostel" to save the changes</li>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/edit/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/edit/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>

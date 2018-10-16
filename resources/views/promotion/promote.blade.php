@@ -14,7 +14,7 @@
                     
                     <p>On the Sidebar, select "Promote"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/promo/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/promo/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -45,7 +45,7 @@
                     <p>Select the class to promote From and To </p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/promo/2.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/promo/2.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>

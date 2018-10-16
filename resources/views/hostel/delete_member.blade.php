@@ -14,7 +14,7 @@
 
                     <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_member/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/delete_member/1.png') ?>" width="120%" height="100%"/>
                         </div>
 
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on "Members"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/delete_member/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/hostel/delete_member/4.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -64,7 +64,7 @@
 
                 <p>Select the respective class</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_member/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/delete_member/5.png') ?>" width="120%" height="100%"/>
                         </div>
 
                 </div>
@@ -87,7 +87,7 @@
 
                         <p>Select Type, and click on "Members"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_member/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/delete_member/7.png') ?>" width="120%" height="100%"/>
                         </div>
 
                 </div>
@@ -111,7 +111,7 @@
 
                         <p>Click "delete" on the respective member</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_member/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/delete_member/9.png') ?>" width="120%" height="100%"/>
                         </div>
 
                 </div>

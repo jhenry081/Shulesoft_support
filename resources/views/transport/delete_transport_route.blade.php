@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_route/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_route/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Click on "Transport Route" and the list of routes will be displayed</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_route/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_route/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 
@@ -51,7 +51,7 @@
                     
                         <p>Click "Delete" on the respective route</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/delete_route/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/delete_route/6.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 

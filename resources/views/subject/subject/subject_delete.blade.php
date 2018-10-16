@@ -12,14 +12,14 @@
                    
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_delete1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_delete1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_delete2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_delete2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,14 +34,14 @@
                 <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_delete3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_delete3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                
                 <p>Click on "Subject"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_delete4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_delete4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -57,14 +57,14 @@
                    
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_delete5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_delete5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on "select class"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_delete6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_delete6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -79,21 +79,21 @@
                    
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_delete7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_delete7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on “Delete ” on the respective subject</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_delete8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_delete8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
                 <div class="row">
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_delete9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_delete9.png') ?>" width="120%" height="100%"/>
                             <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                     </ul>

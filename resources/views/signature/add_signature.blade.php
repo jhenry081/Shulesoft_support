@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Signature"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/signature/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/signature/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on "Add Signature"</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/signature/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/signature/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>    
@@ -53,7 +53,7 @@
                         <p>Enter your signature and Click "Save"</p> 
                         <p>To retry, click on "clear" to clear the area and enter your signature again </p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/signature/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/signature/6.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 
@@ -69,7 +69,7 @@
                    
                         <p>=Your Signature will be displayed on the area</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/signature/8.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/signature/8.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 

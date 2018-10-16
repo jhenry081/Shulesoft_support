@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_member/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_member/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on "Transport Route" and the list of routes will be displayed</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_member/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_member/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -45,7 +45,7 @@
                    
                         <p>Select class level and class</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_member/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_member/5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -61,7 +61,7 @@
                    
                         <p>Enter details of student including transport route, vehicle and amount</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_member/7.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_member/7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -78,7 +78,7 @@
                    
                         <p>Click on “click here to save changes” to complete the process</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/add_member/9.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/add_member/9.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 

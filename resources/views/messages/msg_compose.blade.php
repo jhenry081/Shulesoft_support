@@ -11,7 +11,7 @@
                 <p>On the Sidebar, select "Messages"</p>
                    
                       <div class="col-sm-8">
-                      <img src="<?= url('public/images/message/msg_compose1.png') ?>" width="80%" height="80%"/>
+                      <img src="<?= url('public/images/message/msg_compose1.png') ?>" width="120%" height="100%"/>
                       </div>
                     
                 </div>
@@ -26,14 +26,14 @@
                 <div class="row">
                 <p>Click on "Messages"</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose3.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose3.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
                 <div class="row"> 
                 <p>Click on “Compose”</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose4.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose4.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
@@ -47,7 +47,7 @@
                 <div class="row"> 
                 <p>Fill in the fields</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose6.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose6.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
@@ -61,7 +61,7 @@
                 <div class="row"> 
                 <p>Click on “attachment” (optional)</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose8.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose8.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
@@ -75,7 +75,7 @@
                 <div class="row"> 
                 <p>Click on “Discard” if you want quit sending</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose10.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose10.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 
@@ -89,7 +89,7 @@
                 <div class="row"> 
                 <p>Click on “Send” to send the message</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose12.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose12.png') ?>" width="120%" height="100%"/>
                      </div>
                 </div>
 

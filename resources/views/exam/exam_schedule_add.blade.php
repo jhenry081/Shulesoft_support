@@ -15,7 +15,7 @@
                     
                     <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/add/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/add/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -49,7 +49,7 @@
                 <p>Click on "schedule"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/add/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/add/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -65,7 +65,7 @@
                     
                         <p>Click on "Add Exam Schedule"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/add/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/add/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -89,7 +89,7 @@
                         <p>Enter all the required information</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/add/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/add/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -112,7 +112,7 @@
                     <ul>
                         <p>Click on "Add Exam Schedule"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/add/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/add/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>

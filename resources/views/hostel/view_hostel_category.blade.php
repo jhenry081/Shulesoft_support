@@ -8,13 +8,13 @@
             <div class="white-box">
                 <h3 class="box-title">HOW TO VIEW HOSTEL CATEGORY</h3>
                 <div class="row">
-                <p>The following are the steps to viiew hostel category:</p>
+                <p>The following are the steps to view hostel category:</p>
                     
 
                    
                    <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/view_category/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/hostel/view_category/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>A list of categories will be displayed</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/view_category/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/hostel/view_category/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>

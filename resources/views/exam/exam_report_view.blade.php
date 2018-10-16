@@ -14,7 +14,7 @@
                     
                     <p>On Sidebar Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on "reports"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/view/4.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam report/view/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                     
                         <p>Select class</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/5.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -88,7 +88,7 @@
                         <p>Select Academic Year, Section, Exam, and Subject</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/7.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -112,7 +112,7 @@
                         <li>Click on "View Report"</li>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam report/view/9.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/exam/exam report/view/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
@@ -128,7 +128,7 @@
                      
                     <p>A list of all students will be displayed</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/view/11.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam report/view/11.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -152,7 +152,7 @@
                      
                     <p>Click on "Preview" to view a single student report that consist of all report information</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/view/13.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam report/view/13.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>
@@ -176,7 +176,7 @@
                      
                     <p>A single report will be displayed</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam report/view/15.png') ?>" width="130%" height="100%"/>
+                        <img src="<?= url('public/images/exam/exam report/view/15.png') ?>" width="120%" height="100%"/>
                     </div>
  
                 </div>

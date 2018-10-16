@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Grades"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/grades/view/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/grades/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Click on “Grades”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/grades/view/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/grades/view/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -43,7 +43,7 @@
                  <div class="row">
                     <p>Select Class Level</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/view/5.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/view/5.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -57,7 +57,7 @@
                    <div class="row">
                     <p>A list of grades will be displayed</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/view/7.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/view/7.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

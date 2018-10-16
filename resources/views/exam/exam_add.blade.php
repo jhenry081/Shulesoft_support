@@ -13,7 +13,7 @@
                     
                         <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/definition/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/definition/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -47,7 +47,7 @@
                 <p>Click on “Exam Definition”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/definition/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam/definition/4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -63,7 +63,7 @@
                     
                         <p>Click on “Add Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/definition/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/definition/5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -87,7 +87,7 @@
                         <p>You can now enter information required for Exam Definition</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/definition/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/definition/7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -110,7 +110,7 @@
                     
                         <p>Click on “Add Exam” to save the details to the system</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/definition/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/definition/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>

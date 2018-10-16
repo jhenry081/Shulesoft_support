@@ -12,14 +12,14 @@
                     
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,14 +34,14 @@
                 <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
                 <p>Click on “section subject teachers” </p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -57,14 +57,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Select required class level, academic year and class</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -79,14 +79,14 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>You can now view the subject teacher’s details</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -100,7 +100,7 @@
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>

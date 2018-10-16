@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Routine"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/routine/add/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/routine/add/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -47,7 +47,7 @@
                 <p>Click on “+Add Routine”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/routine/add/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/routine/add/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -71,7 +71,7 @@
                    
                     <p>Fill in the fields and click on “Add Routine”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/routine/add/6.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/routine/add/6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>

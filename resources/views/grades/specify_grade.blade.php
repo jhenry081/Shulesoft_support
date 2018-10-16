@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Grades"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/grades/special_grading/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/grades/special_grading/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on “Special Grade Name”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/grades/special_grading/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/grades/special_grading/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -43,7 +43,7 @@
                  <div class="row">
                     <p>Click on “+Add Special Grade Name”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/special_grading/5.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/special_grading/5.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -57,7 +57,7 @@
                    <div class="row">
                     <p>After clicking “Add Special Grade Name” and fill all the fields</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/special_grading/7.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/special_grading/7.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -71,7 +71,7 @@
                  <div class="row">
                     <p>Click on “Submit” to complete the process</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/grades/special_grading/9.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/grades/special_grading/9.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

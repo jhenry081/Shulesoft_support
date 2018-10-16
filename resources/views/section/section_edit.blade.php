@@ -12,7 +12,7 @@
                     
                         <p>On the Sidebar, select "Section"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -41,7 +41,7 @@
                 <p>Select class Level and class</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_edit4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_edit4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -68,7 +68,7 @@
                 <div class="row">
                          <p>Click "Edit" on the respective section</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit6.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit6.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 <div class="row">
@@ -80,7 +80,7 @@
                 <div class="row">
                          <p>Enter the information required</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit8.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit8.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 <div class="row">
@@ -92,7 +92,7 @@
                 <div class="row">
                          <p>Click on "Update Section"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit10.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit10.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 <div class="row">

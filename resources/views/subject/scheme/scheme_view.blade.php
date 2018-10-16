@@ -12,14 +12,14 @@
                    
                 <p>On the Sidebar, select "Subject"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_view1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_view1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
                 <div class="row">
                     <p>Click on “Syllabus”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_view2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_view2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,14 +34,14 @@
                     <p>Click on “Scheme of Work”</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/scheme/scheme_view3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/subject/scheme/scheme_view3.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                
                 <p>Select the classes and subjects to view respective scheme of work</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/scheme/scheme_view4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/subject/scheme/scheme_view4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>

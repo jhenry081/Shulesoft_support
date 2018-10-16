@@ -13,7 +13,7 @@
                    
                     <p>On the Sidebar, select "Email/SMS"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_sent_item/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_sent_item/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on “Sent Items/Summary”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_sent_item/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_sent_item/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>    
@@ -52,7 +52,7 @@
                    
                         <p>You can view the sent items/summary</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/email_sms/view_sent_item/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/email_sms/view_sent_item/6.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>                 

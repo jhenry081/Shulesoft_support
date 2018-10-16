@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/view_vehicle/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/view_vehicle/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -36,7 +36,7 @@
                         <p>Click on "vehicles"</p>
                         <p>After clicking vehicles, all the vehicles defined will be displayed </p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/view_vehicle/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/view_vehicle/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                              

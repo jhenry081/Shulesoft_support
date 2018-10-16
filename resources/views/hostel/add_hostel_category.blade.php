@@ -14,7 +14,7 @@
                     
                         <p>On the Sidebar, select "Hostel"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/define_category/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/define_category/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on "Category"</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/define_category/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/hostel/define_category/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                     
                         <p>Click on "Add a Category"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/define_category/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/define_category/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -88,7 +88,7 @@
                         <p>Fill all the fields with required information</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/define_category/7.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/define_category/7.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -111,7 +111,7 @@
                     <ul>
                         <p>Click on "Add Category" to complete the process</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/define_category/9.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/hostel/define_category/9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>

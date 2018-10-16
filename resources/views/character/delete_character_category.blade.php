@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/delete_category/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/delete_category/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on “Category”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/edit_category/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/edit_category/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -50,7 +50,7 @@
                  <div class="row">
                     <p>Select the respective character category and click on “Delete”</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/delete_category/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/delete_category/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

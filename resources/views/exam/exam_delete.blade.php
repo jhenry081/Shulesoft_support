@@ -14,7 +14,7 @@
                     
                     <p>On the sidebar, Select “Exam”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/delete/1.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/delete/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -48,7 +48,7 @@
                 <p>Click on “Exam Definition”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam/delete/4.png') ?>" width="120%" height="90%"/>
+                        <img src="<?= url('public/images/exam/exam/delete/4.png') ?>" width="120%" height="100%"/>
                     </div>
                     
                 </div>
@@ -64,7 +64,7 @@
                     
                         <p>Select class and academic year</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam/delete/5.png') ?>" width="120%" height="90%"/>
+                            <img src="<?= url('public/images/exam/exam/delete/5.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -87,7 +87,7 @@
                     
                         <p>Click Delete on the respective exam</p>
                         
-                        <div class="col-sm-8">
+                        <div class="col-sm-8">width="120%" height="100%"
                             <img src="<?= url('public/images/exam/exam/delete/7.png') ?>" width="120%" height="90%"/>
                         </div>
                     

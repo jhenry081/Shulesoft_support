@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Library"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                     
                         <p>Click on “Books”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>    
@@ -52,7 +52,7 @@
                     
                         <p>Click on “+Add New Book”</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/6.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/6.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -70,7 +70,7 @@
                         <p>A. Add a Book</p>
                         <p>Fill in the required fields and click on “Add book”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/8.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/8.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -91,7 +91,7 @@
                         <p>B.Upload by excel</p>         
                          <p>Download the sample book to view the required materials</p>    
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/11.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/11.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -107,7 +107,7 @@
                             
                          <p>Click on “browse” to upload a book from your storage</p>    
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/13.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/13.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 
@@ -124,7 +124,7 @@
                             
                          <p>Click on “submit”</p>    
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/library/add_book/15.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/library/add_book/15.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 

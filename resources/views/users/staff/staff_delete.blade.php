@@ -13,14 +13,14 @@
                    
                         <p>On the Sidebar, select "Users"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/all1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/all1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
             <p>Click on “Staff”</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_delete4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/staff/staff_delete4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -44,7 +44,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_delete3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/staff/staff_delete3.png') ?>" width="120%" height="100%"/>
                         </div>
                         
                 </div>
@@ -60,14 +60,14 @@
                    
                         <p>Click “Delete” on the respective staffs' profile</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_delete5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/staff/staff_delete5.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_delete6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/staff/staff_delete6.png') ?>" width="120%" height="100%"/>
                     </div>
 
                 </div>
@@ -82,14 +82,14 @@
                    
                         <p>Select the reason for deleting staff’s profile example; “Transferred”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_delete7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/staff/staff_delete7.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_delete8.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/staff/staff_delete8.png') ?>" width="120%" height="100%"/>
                     </div>
                 </div>
             </div>
@@ -103,14 +103,14 @@
                     <ul>
                         <p>Click on “Submit Change” to save the changes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_delete9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/users/staff/staff_delete9.png') ?>" width="120%" height="100%"/>
                         </div>
                     </ul>
                 </div>
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_delete10.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/users/staff/staff_delete10.png') ?>" width="120%" height="100%"/>
                         <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

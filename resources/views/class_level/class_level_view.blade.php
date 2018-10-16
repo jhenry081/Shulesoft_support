@@ -12,7 +12,7 @@
                    
                 <p>On the Sidebar, select "Class level"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_add1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_add1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -41,7 +41,7 @@
                <p>The list of class level will be displayed</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_add4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_add4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>

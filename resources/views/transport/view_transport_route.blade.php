@@ -13,7 +13,7 @@
                    
                 <p>On the Sidebar, select "Transport"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/view_route/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/view_route/1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -35,7 +35,7 @@
                    
                         <p>Click on "Transport Route" and a list of routes will be displayed</p>                        
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/transport/view_route/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/transport/view_route/4.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>                 

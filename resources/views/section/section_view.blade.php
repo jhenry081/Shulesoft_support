@@ -12,7 +12,7 @@
                     
                         <p>On the Sidebar, select "Section"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_view1.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_view1.png') ?>" width="120%" height="100%"/>
                         </div>
                    
                 </div>
@@ -38,10 +38,10 @@
                         </div>
                 </div>
                 
-                <p>Then select Class Level and Class</p>
+                <p>Select Class Level and Class</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_view4.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_view4.png') ?>" width="120%" height="100%"/>
                     </div>
                    
                 </div>
@@ -55,7 +55,7 @@
                     <p>Click "View" on the respective section</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_view5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_view5.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 
@@ -75,7 +75,7 @@
                 <div class="row">
                     <p>The List of Section will be seen such as follows</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_view7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_view7.png') ?>" width="120%" height="100%"/>
                         </div>
                 </div>
                 <div class="row">

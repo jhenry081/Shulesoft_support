@@ -13,7 +13,7 @@
                     
                 <p>On the Sidebar, select "Character"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/view_assesment/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/view_assesment/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -35,7 +35,7 @@
                     
                 <p>Click on "General assessment"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/character/view_assesment/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/character/view_assesment/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -50,7 +50,7 @@
                  <div class="row">
                  <p>Select the required fields</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view_assesment/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/view_assesment/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -65,7 +65,7 @@
                  <div class="row">
                     <p>Select the student and Click on “View report“</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/character/view_assesment/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/character/view_assesment/8.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 

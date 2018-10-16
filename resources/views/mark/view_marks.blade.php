@@ -14,7 +14,7 @@
                    
                    <p>On the Sidebar, select "Mark"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/mark/view/1.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/mark/view/1.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>
@@ -36,7 +36,7 @@
                    
                         <p>Select Class and Academic year</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/mark/view/4.png') ?>" width="130%" height="100%"/>
+                            <img src="<?= url('public/images/mark/view/4.png') ?>" width="120%" height="100%"/>
                         </div>
                     
                 </div>  
@@ -51,7 +51,7 @@
                  <div class="row">
                     <p>Click on (View/Add) on the respective mark(s)</p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/mark/view/6.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/mark/view/6.png') ?>" width="120%" height="100%"/>
                     </div>
                   </div>
                 
@@ -64,9 +64,9 @@
                 
                  <div class="row">
                     <p>A table showing names of the students, Subjects and Marks will be seen.</p>
-                    <p><b>Note: From this table you can Add, Edit and Delete Marks by clicking on the field and perform any of these operations.</b></p>
+                    <p class="alert alert-info"><b>Note: From this table you can Add, Edit and Delete Marks by clicking on the field and perform any of these operations.</b></p>
                     <div class="col-sm-8">
-                      <img src="<?= url('public/images/mark/view/8.png') ?>" width="130%" height="100%"/>
+                      <img src="<?= url('public/images/mark/view/8.png') ?>" width="120%" height="100%"/>
                     </div>
                  </div>
                 
