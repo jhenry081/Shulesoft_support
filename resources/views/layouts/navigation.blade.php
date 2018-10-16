@@ -471,8 +471,8 @@
                 <a href="<?= url('setting') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Setting <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('setting') ?>"><i class=" fa-fw"></i><span class="hide-menu">1</span></a> </li> 
-                    <li> <a href="<?= url('setting') ?>"><i class=" fa-fw"></i><span class="hide-menu">2</span></a> </li>
+                    <li> <a href="<?= url('setting/system_setting') ?>"><i class=" fa-fw"></i><span class="hide-menu">System Settings</span></a> </li> 
+                    <li> <a href="<?= url('setting/user_permission_setting') ?>"><i class=" fa-fw"></i><span class="hide-menu">User Permission Settings</span></a> </li>
                 </ul>
             </li>
             
