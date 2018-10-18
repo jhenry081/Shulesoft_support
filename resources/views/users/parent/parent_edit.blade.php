@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -42,7 +42,7 @@
 
                     <p>For mobile phones: Click on "Users" then, "Parents"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_edit3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_edit3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -65,7 +65,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_edit6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_edit6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -101,7 +101,7 @@
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_edit9.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_edit9.png') ?>" width="40%" height="60%"/>
                         </div>
                     </ul>
                 </div>
@@ -124,7 +124,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_edit11.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_edit11.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -148,7 +148,8 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_edit13.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_edit13.png') ?>" width="40%" height="60%"/>
+                            <p></p>
                             <p class="alert alert-info">Note:  When the process is completed successfully, a success notification will appear at the top-right corner of the system</p>
                         </div>
                     

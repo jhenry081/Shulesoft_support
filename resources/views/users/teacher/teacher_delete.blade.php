@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -39,10 +39,10 @@
                         
                     </div>
 
-                     <p>Click on "Users" then "Teachers"</p>
+                     <p>For mobile phones: Click on "Users" then "Teachers"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_delete3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_delete3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -69,7 +69,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete6.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -90,7 +90,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete8.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -113,7 +113,8 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_delete10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_delete10.png') ?>" width="40%" height="60%"/>
+                        <p></p>
                         <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                    </div>
 

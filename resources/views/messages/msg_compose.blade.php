@@ -19,7 +19,7 @@
                 <div class="row"> 
                 <p>For mobile phones: Press on menu</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose2.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose2.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
 
@@ -40,7 +40,7 @@
                 <div class="row"> 
                   <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose5.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose5.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
                 
@@ -54,7 +54,7 @@
                 <div class="row"> 
                 <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose7.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose7.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
 
@@ -68,7 +68,7 @@
                 <div class="row"> 
                 <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose9.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose9.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
 
@@ -82,7 +82,7 @@
                 <div class="row"> 
                 <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose11.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose11.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
 
@@ -96,7 +96,8 @@
                 <div class="row"> 
                 <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_compose13.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_compose13.png') ?>" width="40%" height="60%"/>
+                     <p></p>
                      <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                      </div>
                 </div>

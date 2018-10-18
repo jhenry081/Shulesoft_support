@@ -19,7 +19,7 @@
                 <div class="row">
                 <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -42,7 +42,7 @@
                     <p>For mobile phones: Click on "Users" then, "Parents"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_add3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_add3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -65,7 +65,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_add6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -88,7 +88,7 @@
                 <div class="row">
                     <p>For mobile phones, scroll down to enter more details</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_add8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -109,7 +109,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_add10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_add10.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -123,7 +123,7 @@
                 <div class="row">
                 
                 <p>ii. For a many parents: Click on “Upload Excel”</p>
-                <p>Tip: This method is most effective when the parents' excel has data already</p>
+                <p class = "alert alert-info">Tip: This method is most effective when the parents' excel has data already</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add11.png') ?>" width="120%" height="100%"/>
                         </div>
@@ -167,6 +167,7 @@
                         <p>Then Click on “Upload Parent(s)”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/parent/parent_add15.png') ?>" width="120%" height="100%"/>
+                            <p></p>
                             <p  class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                 </div>

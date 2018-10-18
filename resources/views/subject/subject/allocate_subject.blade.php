@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                 <p>Click on "Subject"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -57,7 +57,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate5.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate5.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -79,7 +79,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject/subject_allocate7.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject/subject_allocate7.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -107,7 +107,8 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject/subject_allocate10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject/subject_allocate10.png') ?>" width="40%" height="60%"/>
+                        <p></p>
                         <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

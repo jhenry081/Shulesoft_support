@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -55,9 +55,9 @@
                 <div class="row">
                    
                     
-                        <p>For mobile phones: phones:</p>
+                        <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate5.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate5.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -77,9 +77,9 @@
                 <div class="row">
                   
                     
-                        <p>For mobile phones: phones:</p>
+                        <p>For mobile phones: </p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate7.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate7.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -108,7 +108,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate10.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 <div class="row">
@@ -120,7 +120,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate12.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate12.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 <div class="row">
@@ -133,7 +133,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate14.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate14.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 <div class="row">
@@ -146,7 +146,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate16.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate16.png') ?>" width="40%" height="60%"/>
             
                     </div>
                 </div>
@@ -159,7 +159,8 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate18.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_allocate18.png') ?>" width="40%" height="60%"/>
+                        <p></p>
                         <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

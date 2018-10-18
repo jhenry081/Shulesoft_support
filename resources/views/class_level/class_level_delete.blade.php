@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/classlevel/classlevel_delete2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/classlevel/classlevel_delete2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -31,10 +31,10 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                <p>Click on "Class Level"</p>
+                <p>For mobile phones: Click on "Class Level"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_delete3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_delete3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -57,7 +57,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/classlevel/classlevel_delete5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/classlevel/classlevel_delete5.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>

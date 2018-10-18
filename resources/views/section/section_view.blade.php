@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_view2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_view2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                     <p>Click "Section"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_view3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_view3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -62,7 +62,7 @@
                 <p>For mobile phones:</p>
                 <div class="row">
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_view6.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_view6.png') ?>" width="40%" height="60%"/>
                     </div>
                    
                 </div>
@@ -81,7 +81,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_view7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_view7.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
             </div>

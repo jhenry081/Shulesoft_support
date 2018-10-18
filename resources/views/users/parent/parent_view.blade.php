@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -42,7 +42,7 @@
                      <p>For mobile phones: Click on "Users" then, "Parents"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_view3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_view3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -65,7 +65,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_view6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_view6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -101,7 +101,7 @@
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_view9.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_view9.png') ?>" width="40%" height="60%"/>
                         </div>
                     </ul>
                 </div>
@@ -124,7 +124,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/parent/parent_view11.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/parent/parent_view11.png') ?>" width="40%" height="60%"/>
                         </div>
                    
                 </div>
@@ -202,7 +202,7 @@
                     <p></p>
                     <p>NB: Click "Next" to view the next list</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_view19.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_view19.png') ?>" width="50%" height="25%"/>
                     </div>
 
                 </div>
@@ -210,7 +210,7 @@
                 <div class="row">
                     <p>Click "Previous" to view the previous list</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/parent/parent_view20.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/parent/parent_view20.png') ?>" width="50%" height="25%"/>
                     </div>
 
                 </div>

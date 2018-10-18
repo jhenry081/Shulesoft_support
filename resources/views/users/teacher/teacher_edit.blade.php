@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -39,10 +39,10 @@
                         
                     </div>
                     
-                    <p>Click on "Users" then "Teachers"</p>
+                    <p>For mobile phones: Click on "Users" then "Teachers"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_edit3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_edit3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -71,7 +71,7 @@
                 <div class="row">
                     <p>For mobile phones: Click on “Edit”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_edit6.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_edit8.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -115,7 +115,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_edit10.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -140,7 +140,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit12.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_edit12.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -167,7 +167,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit14.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_edit14.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -189,7 +189,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_edit16.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_edit16.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -236,6 +236,7 @@
                     <p>Click on “Submit” to complete the process</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/teacher/teacher_edit20.png') ?>" width="120%" height="100%"/>
+                        <p></p>
                         <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

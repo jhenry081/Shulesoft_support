@@ -18,7 +18,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/delete_category/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/delete_category/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                     <p>(i)Click:Hostel then,<br>
                  (ii)Category</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_category/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/hostel/delete_category/3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -53,7 +53,7 @@
                 <div class="row">
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_category/5.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/hostel/delete_category/5.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
 
@@ -67,7 +67,7 @@
                  <div class="row">
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/delete_category/7.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/hostel/delete_category/7.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
             </div>

@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -38,10 +38,10 @@
                         
                     </div>
 
-                     <p>Click on "Users" then "Teachers"</p>
+                     <p>For mobile phones: Click on "Users" then "Teachers"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_view3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_view3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -65,7 +65,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_view6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_view6.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/teacher/teacher_view8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_view8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -199,13 +199,13 @@
                    
                         <p>NB: Click "Next" to view the next list</p>
                        <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/teacher/teacher_view17.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/teacher/teacher_view17.png') ?>" width="50%" height="25%"/>
                         </div>
                     
                   <div class="row">
                       <div class="col-sm-8">
                             <p>Click "Previous" to view the previous list</p>
-                        <img src="<?= url('public/images/users/teacher/teacher_view18.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/teacher/teacher_view18.png') ?>" width="50%" height="25%"/>
                     </div>
                    </div>
                 </div>

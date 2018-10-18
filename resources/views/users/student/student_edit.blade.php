@@ -18,7 +18,7 @@
                 <div class="row">
                 <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -40,7 +40,7 @@
 
                    <p>For mobile phones: Click on "Users" then "Students"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
             </div>
@@ -58,9 +58,9 @@
                 </div>
 
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Click on the down arrow to view a list of class levels</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_ved6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_ved6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -92,9 +92,9 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                                             <p>For mobile phones:</p>
+                        <p>For mobile phones: Click on down arrow first to view list of classes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_ved9.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_ved9.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -119,9 +119,9 @@
                         </div>
                 </div>
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: To edit single student, click on "Edit"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_edit12.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_edit12.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -157,9 +157,9 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Click on “Submit” to save the changes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_edit15.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_edit15.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 <div class="row">
@@ -176,9 +176,9 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                   <p>For mobile phones:</p>
+                   <p>For mobile phones: To edit many students, click on "Bulk Edit"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_edit17.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_edit17.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 <div class="row">
@@ -196,9 +196,10 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row"> 
-                <p>For mobile phones:</p>
+                <p>For mobile phones: You can now edit the information as required</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_edit19.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_edit19.png') ?>" width="40%" height="60%"/>
+                            <p></p>
                             <p class="alert alert-info">Note:  When the process is completed successfully, a success notification will appear at the top-right corner of the system</p>
                         </div>
                 </div>
@@ -211,14 +212,14 @@
                 <div class="row">
                     <p>NB: Click next to view the next list</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_ve15.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_ve15.png') ?>" width="50%" height="25%"/>
                         </div>
                 </div>
 
                 <div class="row">
                     <p>Click Previous to view the previous list</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_ve16.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_ve16.png') ?>" width="50%" height="25%"/>
                     </div>
                 </div>
             </div>

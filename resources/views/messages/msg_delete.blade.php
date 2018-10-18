@@ -19,7 +19,7 @@
                 <div class="row"> 
                 <p>For mobile phones: Press on menu</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete2.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete2.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
 
@@ -40,7 +40,7 @@
                 <div class="row"> 
                   <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete5.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete5.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div>
                 
@@ -61,7 +61,7 @@
                 <div class="row"> 
                 <p>For mobile phones:</p>
                      <div class="col-sm-8">
-                     <img src="<?= url('public/images/message/msg_delete8.png') ?>" width="80%" height="80%"/>
+                     <img src="<?= url('public/images/message/msg_delete8.png') ?>" width="40%" height="60%"/>
                      </div>
                 </div> 
          </div>

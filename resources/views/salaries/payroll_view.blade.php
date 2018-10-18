@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_view2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_view2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                     <p>For mobile phones: Click on "salaries"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_view3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_view3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -57,7 +57,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_view5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_view5.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -119,7 +119,7 @@
                 <div class="row">
                   <p>For mobile phones:</p>
                    <div class="col-sm-8">
-                   <img src="<?= url('public/images/salaries/payroll_view12.png') ?>" width="80%" height="80%"/>
+                   <img src="<?= url('public/images/salaries/payroll_view12.png') ?>" width="40%" height="60%"/>
                    </div>
                 </div>
             </div>

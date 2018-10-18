@@ -159,7 +159,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    
+                    <p></p>
                     <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
 
 	                       

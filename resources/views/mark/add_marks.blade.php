@@ -21,14 +21,14 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/mark/add/2.png') ?>" width="60%" height="80%"/>
+                        <img src="<?= url('public/images/mark/add/2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 
                 <div class="row">
                     <p>Click on "Mark"</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/mark/add/3.png') ?>" width="60%" height="80%"/>
+                        <img src="<?= url('public/images/mark/add/3.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
                 

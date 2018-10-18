@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -43,7 +43,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_edit3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/staff/staff_edit3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -68,7 +68,7 @@
                 <div class="row">
                     <p>For mobile phones: Click on “Edit”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_edit6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_edit6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -90,7 +90,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_edit8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_edit8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -102,7 +102,7 @@
             <div class="white-box">
                 <div class="row">
                     <ul>
-                        <p>Then Click on “Update User” to save the changes</li>
+                        <p>Click on “Update User” to save the changes</li>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_edit9.png') ?>" width="120%" height="100%"/>
                         </div>
@@ -111,7 +111,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_edit10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_edit10.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -131,7 +131,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_edit12.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_edit12.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_edit14.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_edit14.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -173,7 +173,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_edit16.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_edit16.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -215,6 +215,7 @@
                     <p>Click on “Submit” to complete the process</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/staff/staff_edit20.png') ?>" width="120%" height="100%"/>
+                        <p></p>
                         <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

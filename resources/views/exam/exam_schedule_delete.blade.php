@@ -22,7 +22,7 @@
                    
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/delete/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/delete/2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,13 +34,13 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                    
+                    <p>For mobile phones:</p>
                     <p>(i)Click:Exam then,<br>
                  (ii)Schedule</p>
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/exam schedule/delete/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/exam/exam schedule/delete/3.png') ?>" width="40%" height="60%"/>
                         </div>
                      
                 </div>
@@ -72,7 +72,7 @@
                     
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/delete/6.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/delete/6.png') ?>" width="40%" height="60%"/>
                     </div>
  
                 </div>
@@ -96,7 +96,7 @@
                     
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/exam schedule/delete/8.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/exam schedule/delete/8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>

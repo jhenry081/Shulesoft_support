@@ -22,7 +22,7 @@
                    
                     <p> For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/routine/view/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/routine/view/2.png') ?>" width="40%" height="60%"/>
                     </div>
 </ol>
                 </div>
@@ -38,7 +38,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/routine/view/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/routine/view/3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -61,7 +61,7 @@
                    
                         <p> For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/routine/view/5.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/routine/view/5.png') ?>" width="40%" height="60%"/>
                         </div>
                   
                 </div>
@@ -81,7 +81,7 @@
                          2.Click to select class<br>
                         3. View daily routine</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/routine/view/7.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/routine/view/7.png') ?>" width="40%" height="60%"/>
                         </div>
                   
                 </div>

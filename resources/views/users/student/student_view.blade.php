@@ -19,7 +19,7 @@
                 <div class="row">
                 <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -32,7 +32,7 @@
             <div class="white-box">
                 <div class="row">
                     
-                   <p>2.	Then Click on “Student”</p>
+                   <p>Click on “Student”</p>
                     <div class="row">
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_aved4.png') ?>" width="120%" height="100%"/>
@@ -42,7 +42,7 @@
 
                   <p>For mobile phones: Click on "Users" then "Students"</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
             </div>
@@ -62,9 +62,9 @@
                    
                 </div>
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Click on the down arrow to view a list of class levels</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_ved6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_ved6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -100,9 +100,9 @@
             <div class="white-box">
                 <div class="row">
                    
-                    <p>For mobile phones:</p>
+                    <p>For mobile phones: Click on down arrow first to view list of classes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_ved9.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_ved9.png') ?>" width="40%" height="60%"/>
                         </div>
                    
                 </div>
@@ -132,9 +132,9 @@
                    
                 </div>
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: A list of students will be seen, click on “View” from the table to view a student's Information</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_view12.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_view12.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -156,9 +156,9 @@
                    
                 </div>
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Example of student profile in ShuleSoft System</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_view14.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_view14.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -174,7 +174,7 @@
                     
                        <p>NB: Click "Next" to view the next list</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_ve15.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_ve15.png') ?>" width="50%" height="25%"/>
                         </div>
                    
                 </div>
@@ -183,7 +183,7 @@
                    <p>Click "Previous" to view the previous list</p>
                    
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_ve16.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_ve16.png') ?>" width="50%" height="25%"/>
                     </div>
 
                 </div>
@@ -230,7 +230,7 @@
                    <p>PDF Sample displayed</p>
                    
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_view20.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_view20.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -278,7 +278,7 @@
                    <p>CSV Sample format</p>
                    
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_view24.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_view24.png') ?>" width="80%" height="80%"/>
                     </div>
 
                 </div>
@@ -293,6 +293,7 @@
                        <p>You can Print a Hard Copy by Clicking on “Print”</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/student/student_view25.png') ?>" width="120%" height="100%"/>
+                            <p></p>
                             <p class="alert alert-info">Note:  When the process is completed successfully, a success notification will appear at the top-right corner of the system</p>
                         </div>
                    

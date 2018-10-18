@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_delete2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_delete2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                     <p>Click "Section"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_delete3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -49,7 +49,7 @@
                     <p>For mobile phones:</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_delete5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete5.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div><div class="row">
                     <p>Click "Delete" on respective section</p>
@@ -62,7 +62,7 @@
                     <p>For mobile phones:</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_delete7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_delete7.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
 

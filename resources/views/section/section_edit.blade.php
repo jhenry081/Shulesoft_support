@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/section/section_edit2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/section/section_edit2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                     <p>Click "Section"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -55,7 +55,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit5.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                 <div class="row">
                          <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit7.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 <div class="row">
@@ -86,7 +86,7 @@
                 <div class="row">
                          <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit9.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 <div class="row">
@@ -98,7 +98,8 @@
                 <div class="row">
                          <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/section/section_edit11.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/section/section_edit11.png') ?>" width="40%" height="60%"/>
+                            <p></p>
                             <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
 
                         </div>

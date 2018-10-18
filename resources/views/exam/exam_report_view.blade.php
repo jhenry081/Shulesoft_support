@@ -34,7 +34,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                     
+                     <p>For mobile phones:</p>
                     <p>(i)Click:Exam then,<br>
                  (ii)Reports</p>
 

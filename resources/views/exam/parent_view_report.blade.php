@@ -63,7 +63,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/parent/5.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/exam/parent/5.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -87,7 +87,7 @@
                         <p>For mobile phones:</p>
                         
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/parent/7.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/exam/parent/7.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -111,7 +111,7 @@
                         <li>For mobile phones: </li>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/exam/parent/9.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/exam/parent/9.png') ?>" width="40%" height="60%"/>
                         </div>
                     </ul>
                 </div>
@@ -151,7 +151,7 @@
                      
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/exam/parent/13.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/exam/parent/13.png') ?>" width="40%" height="60%"/>
                     </div>
  
                 </div>

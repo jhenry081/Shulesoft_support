@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/salaries/payroll_add2.png') ?>" width="80%" height="80%"/>
+                        <img src="<?= url('public/images/salaries/payroll_add2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -34,7 +34,7 @@
                     <p>For mobile phones: Click on "salaries"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_add3.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_add3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                 
@@ -57,7 +57,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_add5.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_add5.png') ?>" width="40%" height="60%"/>
                         </div>
                    
                 </div>
@@ -79,7 +79,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_add7.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_add7.png') ?>" width="40%" height="60%"/>
                         </div>
                    
                 </div>
@@ -100,7 +100,8 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/salaries/payroll_add9.png') ?>" width="80%" height="80%"/>
+                            <img src="<?= url('public/images/salaries/payroll_add9.png') ?>" width="40%" height="60%"/>
+                            <p></p>
                             <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                     

@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones:phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -41,7 +41,7 @@
                     <p>For mobile phones: Click on "Users" then "Staff"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_view3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/staff/staff_view3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -65,7 +65,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_view6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_view6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -87,7 +87,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_view8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_view8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -201,14 +201,14 @@
                     
                         <p>NB: Click "Next" to view the next list</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_view18.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/staff/staff_view18.png') ?>" width="50%" height="25%"/>
                         </div>
                    
                 </div>
                 <div class="row">
                     <p>Click "Previous" to view the previous list</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_view19.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_view19.png') ?>" width="50%" height="25%"/>
                     </div>
                 </div>
             </div>

@@ -22,7 +22,7 @@
                    
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/view/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/notice/view/2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -38,7 +38,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/view/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/notice/view/3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
                
@@ -61,7 +61,7 @@
                    
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/view/5.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/notice/view/5.png') ?>" width="40%" height="60%"/>
                         </div>
                    
                 </div>
@@ -80,7 +80,7 @@
                         1.Click to print<br>
                         2.Click to edit</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/view/7.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/notice/view/7.png') ?>" width="40%" height="60%"/>
                         </div>
                    
                 </div>

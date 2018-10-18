@@ -74,6 +74,7 @@
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/character/add_category/9.png') ?>" width="40%" height="60%"/>
+                        <p></p>
                         <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                   </div>

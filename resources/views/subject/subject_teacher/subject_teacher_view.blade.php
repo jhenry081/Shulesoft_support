@@ -19,7 +19,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -57,7 +57,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view5.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view5.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -79,7 +79,7 @@
                     
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view7.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view7.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -100,7 +100,7 @@
                     <ul>
                         <p>For mobile phones:</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view9.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/subject/subject_teacher/subject_teacher_view9.png') ?>" width="40%" height="60%"/>
                         </div>
                     </ul>
                 </div>

@@ -22,7 +22,7 @@
                     
                         <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/define_category/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/define_category/2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -40,7 +40,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/define_category/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/hostel/define_category/3.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -72,7 +72,7 @@
                     
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/define_category/6.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/define_category/6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -96,7 +96,7 @@
                     
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/define_category/8.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/define_category/8.png') ?>" width="40%" height="60%"/>
                     </div>
                     
                 </div>
@@ -119,7 +119,7 @@
                     
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/define_category/10.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/define_category/10.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -132,7 +132,7 @@
             <div class="white-box">
                 <div class="row">
                 
-                    
+                    <p></p>
                 <p class= "alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         
                     

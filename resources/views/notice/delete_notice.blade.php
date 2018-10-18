@@ -20,7 +20,7 @@
                    
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/delete/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/notice/delete/2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -37,7 +37,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/notice/delete/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/notice/delete/3.png') ?>" width="40%" height="60%"/>
                         </div>
                      
                 </div>
@@ -61,7 +61,7 @@
                     
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/notice/delete/5.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/notice/delete/5.png') ?>" width="40%" height="60%"/>
                     </div>
  
                 </div>
@@ -69,11 +69,4 @@
         </div>
     </div>
    
-
-   
-               
-        
-
-
-
 @endsection

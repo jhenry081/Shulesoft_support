@@ -21,7 +21,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -43,7 +43,7 @@
                     <p>For mobile phones Click on "Users" then "Staff"</p>
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/staff/staff_add3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/staff/staff_add3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_add6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_add6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -86,7 +86,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_add8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_add8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                 <div class="row">
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/staff/staff_add10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/staff/staff_add10.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -119,7 +119,7 @@
         <div class="col-md-12 col-sm-12 col-lg-12">
             <div class="white-box">
                 <div class="row">
-                <p>Tip: This method is most effective when the staffs' excel has data already</p>
+                <p class = "alert alert-info">Tip: This method is most effective when the staffs' excel has data already</p>
                         <p>On the right side of the staffs' information fields, there is an excel sample registration file you can download incase you don't have an excel file already</p>
                         <p>After Downloading the sample, edit all the information required and save it in your documents</p>
                         <div class="col-sm-8">
@@ -167,9 +167,10 @@
                 <div class="row">
                     
                    
-                        <p>Then Click on Submit to complete registration</p>
+                        <p>Click on Submit to complete registration</p>
                         <div class="col-sm-8">
                             <img src="<?= url('public/images/users/staff/staff_add15.png') ?>" width="120%" height="100%"/>
+                            <p></p>
                             <p class="alert alert-info">Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                         </div>
                    

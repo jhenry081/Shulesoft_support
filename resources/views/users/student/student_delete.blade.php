@@ -18,7 +18,7 @@
                 <div class="row">
                 <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
     
@@ -32,7 +32,7 @@
                 <div class="row">
                 <p>For mobile phones: Click on "Users" then "Students"</p>
                                 <div class="col-sm-8">
-                                    <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="120%" height="100%"/>
+                                    <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="40%" height="60%"/>
                                 </div>
                         </div>
 
@@ -44,9 +44,9 @@
                 </div>
 
                 <div class="row">
-                    <p>For mobile phones:</p>
+                    <p>For mobile phones: Click on the down arrow to view a list of class levels</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_ved6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_ved6.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
 
@@ -65,9 +65,9 @@
                 </div>
             
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Click on down arrow first to view list of classes</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_ved9.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_ved9.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
 
@@ -109,9 +109,9 @@
                 </div>
            
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Select the reason of deleting the student from the system, example; pregnancy</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_delete15.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_delete15.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
 
@@ -123,9 +123,10 @@
                 </div>
            
                 <div class="row">
-                <p>For mobile phones:</p>
+                <p>For mobile phones: Click on “Submit change”</p>
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_delete17.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_delete17.png') ?>" width="40%" height="60%"/>
+                            <p></p>
                             <p class="alert alert-info">Note:  When the process is completed successfully, a success notification will appear at the top-right corner of the system</p>
                         </div>
                 </div>

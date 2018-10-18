@@ -22,7 +22,7 @@
                 <div class="row">
                     <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/all2.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/all2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -38,7 +38,7 @@
                     <p>For mobile phones: Click on "Users" then "Students"</p>
                 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="120%" height="100%"/>
+                            <img src="<?= url('public/images/users/student/student_aved3.png') ?>" width="40%" height="60%"/>
                         </div>
                 </div>
 
@@ -52,7 +52,7 @@
                 <div class="row">
                     <p>For mobile phones: Click on “Add student(s)”</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_add6.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_add6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -65,9 +65,10 @@
                         </div>
                 </div>
                 <div class="row">
-                    <p>For mobile phones</p>
+                    <p>For mobile phones: You can register a student(s) in two ways:</p>
+                    <p>i. By manually entering the student's information</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_add8.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_add8.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
 
@@ -80,9 +81,9 @@
                 </div>
 
                 <div class="row">
-                    <p>For mobile phones</p>
+                    <p>For mobile phones: Fill in the student's parent information and fill in previous academic reports of the student (if available and/or required by the school)</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_add10.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_add10.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
 
@@ -95,15 +96,15 @@
                 </div>
 
                 <div class="row">
-                    <p>For mobile phones</p>
+                    <p>For mobile phones: Click on "Submit" to complete the registration</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/users/student/student_add12.png') ?>" width="120%" height="100%"/>
+                        <img src="<?= url('public/images/users/student/student_add12.png') ?>" width="40%" height="60%"/>
                     </div>
                 </div>
 
                 <div class="row">
                    <p>ii. Excel Registration, this method is used to register many students at once</p>
-                   <p>Tip: This method is most effective when the students' excel has data already</p> 
+                   <p class="alert alert-info">Tip: This method is most effective when the students' excel has data already</p> 
                    <p>Click on “Excel Registration”</p>
                    <div class="col-sm-8">
                        <img src="<?= url('public/images/users/student/student_add13.png') ?>" width="120%" height="100%"/>
@@ -146,6 +147,7 @@
                     <p>After successfully uploading the excel file, click on “Submit”</p>
                     <div class="col-sm-8">
                         <img src="<?= url('public/images/users/student/student_add18.png') ?>" width="120%" height="100%"/>
+                        <p></p>
                         <p class="alert alert-info" >Note: A success notification will appear at the top-right corner, otherwise repeat all the procedures carefully.</p>
                     </div>
                 </div>

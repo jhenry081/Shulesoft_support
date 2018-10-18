@@ -24,7 +24,7 @@
                     
                         <p>For mobile phones: Press on menu</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/add/2.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/add/2.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -42,7 +42,7 @@
 
 
                         <div class="col-sm-8">
-                            <img src="<?= url('public/images/hostel/add/3.png') ?>" width="40%" height="50%"/>
+                            <img src="<?= url('public/images/hostel/add/3.png') ?>" width="40%" height="60%"/>
                         </div>
                     
                 </div>
@@ -74,7 +74,7 @@
                     
                     <p>For mobile phones:</p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/add/6.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/add/6.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -98,7 +98,7 @@
                     
                     <p>For mobile phones:  </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/add/8.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/add/8.png') ?>" width="40%" height="60%"/>
                     </div>
                     
                 </div>
@@ -122,7 +122,7 @@
                     
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/add/10.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/add/10.png') ?>" width="40%" height="60%"/>
                     </div>
 
                 </div>
@@ -143,7 +143,7 @@
                    <div class="row">
                     <p>For mobile phones: </p>
                     <div class="col-sm-8">
-                        <img src="<?= url('public/images/hostel/add/12.png') ?>" width="40%" height="50%"/>
+                        <img src="<?= url('public/images/hostel/add/12.png') ?>" width="40%" height="60%"/>
                     </div>
                   </div>
                 </div>
