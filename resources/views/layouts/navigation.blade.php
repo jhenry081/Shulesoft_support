@@ -21,7 +21,7 @@
         <ul class="nav" id="side-menu">
 
             <li> 
-                <a href="<?= url('users') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                <a href="<?= url('users') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-user" data-icon="v"></i>
                     <span class="hide-menu"> User <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('users/student') ?>">
@@ -395,7 +395,7 @@
             
             
             <li> 
-                <a href="<?= url('notice') ?>" class="waves-effect"><i class="mdi mdi-av-timer fa-fw" data-icon="v"></i>
+                <a href="<?= url('notice') ?>" class="waves-effect"><i class="mdi mdi-av-timer  fa-fw" data-icon="v"></i>
                     <span class="hide-menu"> Notice <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('notice/calendar') ?>">
