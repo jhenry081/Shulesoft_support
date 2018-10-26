@@ -20,23 +20,29 @@
         </div>
         <ul class="nav" id="side-menu">
 
-        <li> 
+            <li> 
                 <a href="<?= url('homepage/landing') ?>" class="waves-effect"><i class="mdi mdi-home" data-icon="v"> </i>
                     <span class="hide-menu"> Dashboard <span class=""></span> </span></a>
-               </li>
+            </li>
             <li> 
                 <a href="<?= url('users') ?>" class="waves-effect"><i class="fa fa-users" data-icon="v"> </i>
                     <span class="hide-menu"> User <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
-                    <li> <a href="<?= url('users/student') ?>">
-                            <i class=" fa-fw"></i><span class="hide-menu">Student <span class="fa arrow"></span></span></a>
-                        <ul class="nav nav-second-level">
-                            <li> <a href="<?= url('users/student/student_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a student</span></a> </li>
-                            <li> <a href="<?= url('users/student/student_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a student</span></a> </li>
-                            <li> <a href="<?= url('users/student/student_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a student</span></a> </li>
-                            <li> <a href="<?= url('users/student/student_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a student</span></a> </li>
-                        </ul>
-                    </li>
+                    <?php
+                    if (can_access('view_student') || can_access('edit_student') || can_access('delete_student')|| can_access('add_student')) {
+                        ?>
+                        <li> <a href="<?= url('users/student') ?>">
+                                <i class=" fa-fw"></i><span class="hide-menu">Student <span class="fa arrow"></span></span></a>
+                            <ul class="nav nav-second-level">
+                               <?php if(can_access('add_student')){ ?>
+                                <li> <a href="<?= url('users/student/student_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add a student</span></a> </li>
+                               <?php } ?>
+                                <li> <a href="<?= url('users/student/student_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view a student</span></a> </li>
+                                <li> <a href="<?= url('users/student/student_edit') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to edit a student</span></a> </li>
+                                <li> <a href="<?= url('users/student/student_delete') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to delete a student</span></a> </li>
+                            </ul>
+                        </li>
+                    <?php } ?>
                     <li> <a href="<?= url('users/parent') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Parents <span class="fa arrow"></span></span></a> 
                         <ul class="nav nav-second-level">
@@ -79,7 +85,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('section') ?>" class="waves-effect"><i class="fa fa-star" data-icon="v"></i>
                     <span class="hide-menu"> Section<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -90,7 +96,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('subject') ?>" class="waves-effect"><i class="fa fa-pencil-square-o" data-icon="v"></i>
                     <span class="hide-menu"> Subject <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -130,7 +136,7 @@
                 </ul>
             </li> 
 
- <li> 
+            <li> 
                 <a href="<?= url('grades') ?>" class="waves-effect"><i class="fa fa-pencil-square-o" data-icon="v"></i>
                     <span class="hide-menu"> Grades<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -140,7 +146,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('class level') ?>" class="waves-effect"><i class="fa fa-sort" data-icon="v"></i>
                     <span class="hide-menu"> Class Level<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -151,7 +157,7 @@
                 </ul>
             </li>
 
- <li> 
+            <li> 
                 <a href="<?= url('terms') ?>" class="waves-effect"><i class="mdi mdi-signal" data-icon="v"></i>
                     <span class="hide-menu"> Terms <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -219,7 +225,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('routine') ?>" class="waves-effect"><i class="mdi mdi-clock" data-icon="v"></i>
                     <span class="hide-menu"> Routine <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -228,7 +234,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('character') ?>" class="waves-effect"><i class="fa fa-pencil-square-o" data-icon="v"></i>
                     <span class="hide-menu"> Character <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -264,13 +270,13 @@
                     <li> <a href="<?= url('character report') ?>">
                             <i class=" fa-fw"></i><span class="hide-menu">Character Report <span class="fa arrow"></span></span></a>
                         <ul class="nav nav-second-level">
-                            
+
                             <li> <a href="<?= url('character/view_character_report') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Student Character Report</span></a> </li>                            
                         </ul>
                     </li>
                 </ul>
             </li>   
-            
+
             <li> 
                 <a href="<?= url('library') ?>" class="waves-effect"><i class="fa fa-book" data-icon="v"></i>
                     <span class="hide-menu"> Library <span class="fa arrow"></span> </span></a>
@@ -300,7 +306,7 @@
                 </ul>
             </li>
 
- <li> 
+            <li> 
                 <a href="<?= url('transport') ?>" class="waves-effect"><i class="mdi mdi-subway-variant" data-icon="v"></i>
                     <span class="hide-menu"> Transport <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -363,16 +369,16 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('salaries') ?>" class="waves-effect"><i class="mdi mdi-credit-card" data-icon="v"></i>
                     <span class="hide-menu"> Salaries <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('salaries/payroll_add') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to add Payroll</span></a> </li> 
                     <li> <a href="<?= url('salaries/payroll_view') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to view Payroll</span></a> </li>
                 </ul>
-             </li>
+            </li>
 
- <li> 
+            <li> 
                 <a href="<?= url('promotion') ?>" class="waves-effect"><i class="mdi mdi-escalator" data-icon="v"></i>
                     <span class="hide-menu"> Promotion <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -380,7 +386,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('email/sms') ?>" class="waves-effect"><i class="mdi mdi-message-text" data-icon="v"></i>
                     <span class="hide-menu"> Email/Sms <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -404,7 +410,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('messages') ?>" class="waves-effect"><i class="mdi mdi-email" data-icon="v"></i>
                     <span class="hide-menu"> Messages <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -417,7 +423,7 @@
                 </ul>
             </li>
 
- <li> 
+            <li> 
                 <a href="<?= url('notice') ?>" class="waves-effect"><i class="fa fa-calendar" data-icon="v"></i>
                     <span class="hide-menu"> Notice <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -434,7 +440,7 @@
                 </ul>
             </li>
 
-<li> 
+            <li> 
                 <a href="<?= url('other_reports') ?>" class="waves-effect"><i class="mdi mdi-file" data-icon="v"></i>
                     <span class="hide-menu"> Other Reports<span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
@@ -442,8 +448,8 @@
                     <li> <a href="<?= url('other_reports/view_graduates') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To View Graduates</span></a> </li>
                     <li> <a href="<?= url('other_reports/view_student_reports') ?>"><i class=" fa-fw"></i><span class="hide-menu">How To view student report based on status</span></a> </li>                   
                 </ul>
-             </li>
-            
+            </li>
+
             <li> 
                 <a href="<?= url('setting') ?>" class="waves-effect"><i class="mdi mdi-timer-sand" data-icon="v"></i>
                     <span class="hide-menu"> Settings <span class="fa arrow"></span> </span></a>
@@ -453,14 +459,14 @@
                 </ul>
             </li>
 
-              <li> 
+            <li> 
                 <a href="<?= url('signature') ?>" class="waves-effect"><i class="fa fa-pencil-square-o" data-icon="v"></i>
                     <span class="hide-menu"> Signature <span class="fa arrow"></span> </span></a>
                 <ul class="nav nav-second-level">
                     <li> <a href="<?= url('signature/add_signature') ?>"><i class=" fa-fw"></i><span class="hide-menu">How to define signature</span></a> </li>                 
                 </ul>
-              </li>
-            
-       </ul>
+            </li>
+
+        </ul>
     </div>
 </div>
