@@ -60,7 +60,7 @@ return [
             'port' =>'5432',
             'database' =>'install',
             'username' => 'postgres',
-            'password' =>'inets',
+            'password' =>'admin',
             'charset' => 'utf8',
             'prefix' => '',
             'schema' => 'testing',
