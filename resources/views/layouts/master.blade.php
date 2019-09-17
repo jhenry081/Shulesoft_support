@@ -84,7 +84,7 @@
                 <!-- ============================================================== -->
             </div>
             <!-- /.container-fluid -->
-            <footer class="footer text-center"> 2018 &copy; ShuleSoft Support </footer>
+            <footer class="footer text-center"> <?php echo date('Y');?> &copy; ShuleSoft Support </footer>
         </div>
         <!-- /#page-wrapper -->
     </div>
